@@ -424,6 +424,16 @@ Posible saturación del mercado si muchas empresas adoptan soluciones similares.
   </tr>
 </table>
 
+## 2.1.2. Estrategias y tácticas frente a competidores
+
+Entre las principales estrategias y tácticas que ejecutaremos como startup son las siguientes: 
+
+- Aprovechar nuestra principal ventaja del precio que es competitivo a comparación de la competencia que buscar adquirir la mayor cantidad de clientes.Una vez realizado esto, realizaremos encuestas de satisfacción con nuestro clientes con el fin de escuchar cómo se sienten usando nuestro software y si resuelve sus necesidades, además, si creen que les hace falta o le gustaría contar como herramienta. De este modo, podremos ir agregando constantemente nuevas características que buscan nuestros usuarios y, al fin y al cabo, potencian nuestra marca.
+
+
+- Como startup podremos desarrollar alianzas estratégicas con restaurantes locales, ofreciendo exclusividad en ciertas áreas, lo que no solo llamará la atención a nuevos posibles usuarios y restaurantes. Al utilizar tácticas como promociones exclusivas para grupos de usuarios y la gamificación de la experiencia del usuario, podría aumentar su visibilidad y establecer un lugar en el mercado, asegurando una ventaja competitiva frente a nuestros competidores.
+
+  
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas

@@ -352,6 +352,16 @@ Según el Instituto Nacional de Estadística e Informática (INEI) (2022), en ab
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+
+**Problem Statement 1:**
+
+El estado actual del proceso de gestión de pedidos en restaurantes de Lima Metropolitana se ha centrado principalmente en métodos manuales y dependientes de llamadas telefónicas o aplicaciones genéricas de delivery, lo que presenta desafíos significativos, especialmente en la gestión de pedidos grupales. Los servicios existentes no logran abordar la eficiencia en la gestión de pedidos grupales, resultando en retrasos, errores frecuentes y alta insatisfacción del cliente. Nuestro servicio abordará esta brecha mediante el desarrollo de una plataforma especializada, GastroGo, que permitirá a los restaurantes manejar pedidos grupales de manera más eficiente, reduciendo los errores y mejorando la satisfacción del cliente. Nuestro enfoque inicial será restaurantes en Lima Metropolitana que gestionan pedidos grupales regularmente. Sabremos que hemos tenido éxito cuando veamos una reducción significativa en los errores de pedidos y un aumento en la satisfacción del cliente, así como en la adopción de la plataforma por parte de los restaurantes
+
+
+**Problem Statement 2:**
+
+El estado actual del proceso de pedidos grupales para trabajadores en Lima Metropolitana,  se ha centrado principalmente en métodos manuales y sistemas no optimizados, lo que dificulta la coordinación eficiente y precisa de los pedidos grupales.Los servicios existentes no logran abordar la falta de una solución integral que simplifique el proceso de pedido, eliminando demoras, errores en las entregas y problemas en la coordinación.Nuestro servicio abordará esta brecha mediante el desarrollo de GastroGo, una plataforma que facilita la gestión de pedidos grupales para trabajadores, ofreciendo una experiencia simplificada y precisa que asegura rapidez y conveniencia para los trabajadores.Nuestro enfoque inicial será grupos de trabajadores de diversas empresas que requieran realizar pedidos de almuerzo en conjunto.Sabremos que hemos tenido éxito cuando veamos una reducción significativa en los tiempos de procesamiento de pedidos, una disminución en los errores de entrega y una mayor satisfacción general entre los trabajadores que utilizan la plataforma.
+
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas

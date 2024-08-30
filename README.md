@@ -231,6 +231,12 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
+Somos Verduritas, un equipo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) dedicados a innovar en el ámbito de la alimentación y la tecnología. Nuestra startup, GastroGo, conecta de manera eficiente a restaurantes de Lima Metropolitana con grupos de trabajadores, permitiendo pedidos en cantidad de forma rápida y organizada.
+
+Misión: Facilitar la conexión entre grupos de trabajadores y restaurantes locales para optimizar y simplificar el proceso de pedido de almuerzos en cantidad, apoyando tanto a los empleados como a los restaurantes de Lima Metropolitana.
+
+Visión: Convertirnos en la plataforma líder en la gestión de pedidos grupales de comidas, impulsando la eficiencia y fomentando el crecimiento de la gastronomía local.
+
 ### 1.1.2 Perfiles de integrantes del equipo
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática

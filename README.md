@@ -363,6 +363,109 @@ El estado actual del proceso de gestión de pedidos en restaurantes de Lima Metr
 El estado actual del proceso de pedidos grupales para trabajadores en Lima Metropolitana,  se ha centrado principalmente en métodos manuales y sistemas no optimizados, lo que dificulta la coordinación eficiente y precisa de los pedidos grupales.Los servicios existentes no logran abordar la falta de una solución integral que simplifique el proceso de pedido, eliminando demoras, errores en las entregas y problemas en la coordinación.Nuestro servicio abordará esta brecha mediante el desarrollo de GastroGo, una plataforma que facilita la gestión de pedidos grupales para trabajadores, ofreciendo una experiencia simplificada y precisa que asegura rapidez y conveniencia para los trabajadores.Nuestro enfoque inicial será grupos de trabajadores de diversas empresas que requieran realizar pedidos de almuerzo en conjunto.Sabremos que hemos tenido éxito cuando veamos una reducción significativa en los tiempos de procesamiento de pedidos, una disminución en los errores de entrega y una mayor satisfacción general entre los trabajadores que utilizan la plataforma.
 
 #### 1.2.2.2. Lean UX Assumptions
+
+**Business Assumptions:**
+
+**Creo que mis usuarios necesitan** una plataforma que les permita gestionar pedidos grupales de manera eficiente y confiable asimismo les permita optimizar su flujo de trabajo al recibir y procesar múltiples pedidos al mismo tiempo.
+
+**Estas necesidades se pueden resolver** mediante el desarrollo de una plataforma especializada en la gestión de pedidos grupales. Para los restaurantes, esta plataforma debe contar con funcionalidades que automaticen y simplifiquen la recepción y gestión de múltiples pedidos, reduciendo la carga operativa, minimizando errores y acelerando la entrega.
+
+**Mis clientes iniciales son** los restaurantes en Lima Metropolitana que actualmente gestionan pedidos grupales con regularidad, así como los grupos de trabajadores de empresas que suelen realizar pedidos de almuerzo en conjunto. Estos clientes valorarán la simplicidad y confiabilidad durante el proceso de hacer pedidos.
+
+**El valor #1 que un cliente requiere de mi servicio es** la eficiencia en la realización de pedidos, minimización de errores en la entrega, y la conveniencia para realizar pedidos conjuntos.
+
+**El cliente también puede obtener estos beneficios adicionales:**
+
+Adicionalmente, los clientes podrán beneficiarse de una plataforma que ofrece una experiencia de usuario mejorada, permitiéndoles realizar sus pedidos de manera sencilla y rápida. A su vez, los restaurantes experimentan una mayor fidelización de sus clientes al poder brindarles una mejor experiencia.
+
+**Voy a adquirir a mis clientes a través de** una estrategia de marketing digital enfocada y segmentada. Colaboraremos con restaurantes locales para integrarnos en sus procesos de pedidos, ofreciendo pruebas gratuitas de nuestra plataforma. Además, promocionamos nuestro servicio mediante campañas de publicidad en redes sociales y plataformas profesionales.
+
+**Haré dinero a través de** un modelo de suscripción, adaptado a cada segmento objetivo, que ofrecerá funcionalidades adicionales y personalizadas.
+
+**Mi competencia de mercado serán** aplicaciones o servicios que brindan menús o planes de alimentación personalizados, como Manzana Verde, LifeSum y KnowEats, los cuales ofrecen opciones para pedir comida adaptadas a necesidades específicas de nutrición.
+
+**Los venceremos debido a que** nuestra propuesta se diferencia al ofrecer un modelo de suscripción que proporciona acceso a una amplia variedad de menús saludables de diversos restaurantes afiliados, combinando esta oferta con una experiencia de usuario simplificada.
+
+**Mis mayores riesgos de producto son** la posible resistencia de los restaurantes a adoptar una tecnología que implicaría cambiar sus procesos y la posibilidad de que los grupos de trabajadores no adopten la plataforma debido a su preferencia por aplicaciones de delivery existentes.
+
+**Resolveremos esto mediante** un proceso de desarrollo que incluya un diseño previo detallado de la aplicación, basado en las necesidades y deficiencias identificadas en las entrevistas realizadas. Esto nos permitirá comprender la situación actual y evaluar el nivel de satisfacción con nuestra propuesta.
+
+**Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:**
+
+- Observemos un aumento significativo en la cantidad de pedidos grupales gestionados a través de la plataforma por parte de los restaurantes, lo que indicará que los establecimientos están adoptando y utilizando activamente el sistema
+- Notemos una reducción en la tasa de errores en la gestión de pedidos y una mejora en la velocidad de entrega, señalando que la plataforma está mejorando la eficiencia operativa.
+- Cuando los trabajadores usen la plataforma con frecuencia, su satisfacción con el servicio ha aumentado, lo que demuestra que consideran la solución valiosa y útil para sus pedidos grupales.
+
+**Qué otras suposiciones tenemos que, de probarse falsas, pueden causar que nuestro proyecto fracase:**
+
+- Los restaurantes y grupo de trabajadores estarán dispuestos a cambiar sus procesos actuales y adoptar nuestra tecnología dejando de lado los métodos tradicionales.
+- Suponer que el mercado está listo para adoptar una nueva solución tecnológica para pedidos grupales
+- Creer que los grupos de trabajadores valorarán una plataforma especializada para pedidos grupales.
+
+**User Assumptions:**
+
+**¿Quiénes serán nuestros usuarios?**
+
+Nuestros usuarios principales son:
+
+- Restaurantes locales en Lima Metropolitana que gestionan pedidos grupales con frecuencia.
+
+- Grupos de trabajadores en oficinas y empresas que realizan pedidos de almuerzo en conjunto.
+
+**¿Dónde encaja nuestro producto en su vida o trabajo?**
+
+Para los restaurantes: GastroGo encaja en el flujo de trabajo al integrar una herramienta digital que facilita la recepción y gestión de pedidos grupales, mejorando la eficiencia operativa.
+
+Para los grupos de trabajadores: La plataforma encaja en su rutina diaria al ofrecer una solución simplificada y conveniente para coordinar y realizar pedidos de almuerzo de manera organizada y sin complicaciones.
+
+**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+
+Problemas:
+
+- Los usuarios podrían tener preocupaciones sobre la seguridad y privacidad de sus datos en la plataforma.
+- Los trabajadores y restaurantes podrían no percibir un valor significativo en la plataforma.
+- Los usuarios pueden encontrar complicado integrar la plataforma  en sus rutinas
+
+Soluciones:
+
+- Desarrollar una interfaz intuitiva y fácil de usar, y proporcionar tutoriales y soporte para ayudar a los usuarios a integrar la plataforma.
+- Realizar estudios de caso y presentar datos que muestran cómo la plataforma mejora la eficiencia y la experiencia en comparación con los métodos tradicionales
+- Implementar diversidad  de medidas de seguridad y comunicar claramente estas medidas a los usuarios.
+
+**¿Cómo y cuándo es usado nuestro producto?**
+
+Nuestro producto, GastroGo, es utilizado por los restaurantes para recibir y gestionar pedidos grupales, integrándose en sus sistemas de operaciones diarias para optimizar el manejo de grandes volúmenes de pedidos.
+
+Los restaurantes usan la plataforma principalmente durante las horas de almuerzo, cuando los grupos de trabajadores realizan pedidos en masa para sus comidas.
+
+Además, el producto también se usa en cualquier momento del día en que los restaurantes reciben y procesan estos pedidos, asegurando una gestión eficiente y organizada del flujo de trabajo en distintos horarios.
+
+**¿Qué características son importantes?**
+
+- Interfaz intuitiva y fácil de navegar, que permita a los trabajadores realizar y coordinar pedidos grupales sin complicaciones.
+- Sistema de gestión de pedidos fácil de usar, que permita a los restaurantes recibir y procesar pedidos grupales de manera eficiente.
+- Funcionalidades para automatizar la recepción y el procesamiento de pedidos, reduciendo el riesgo de errores y mejorando la rapidez en el manejo de grandes volúmenes.
+- Funcionalidades para visualizar menús y precios de manera clara, ayudando a tomar decisiones informadas.
+
+**¿Cómo debe verse y comportarse nuestro producto?**
+
+- La interfaz de usuario (UI) de nuestra plataforma debe ser moderna y clara, con un diseño que facilite la navegación y destaque por su simplicidad y eficiencia.
+- La experiencia de usuario (UX) debe priorizar la fluidez y rapidez en la interacción, asegurando que los procesos de pedido y gestión se realicen sin complicaciones.
+- El comportamiento de la plataforma debe ser óptimo y eficiente, garantizando una experiencia de usuario efectiva y satisfactoria al realizar pedidos.
+
+**Features:**
+
+- Desde una cuenta con el rol de restaurante, la plataforma debe ser compatible con diversos sistemas de pago, facilitando la integración con los procesos operativos del restaurante. Esto garantizará una sincronización precisa de los pedidos y una integración total.
+
+- Desde una cuenta con el rol de restaurante, la plataforma debe permitir la gestión eficiente de pedidos grupales, mediante funcionalidades para automatizar la recepción y procesamiento de pedidos.
+
+- Desde una cuenta con el rol de trabajador, la plataforma debe ofrecer una interfaz intuitiva y fácil de navegar, que permita la creación y coordinación de pedidos grupales de manera rápida y sin complicaciones.
+
+- Desde una cuenta con el rol de trabajador, la plataforma debe permitir la visualización de menús y precios de los restaurantes, facilitando la selección de opciones adecuadas para los pedidos grupales.
+
+- Desde una cuenta con el rol de trabajador, la plataforma debe incluir notificaciones y confirmaciones de pedidos en tiempo real, manteniendo a los usuarios informados sobre el estado de sus pedidos.
+
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo

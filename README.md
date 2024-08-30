@@ -538,6 +538,18 @@ Además, el producto también se usa en cualquier momento del día en que los re
 </table>
 
 ## 1.3. Segmentos objetivo
+
+Para nuestro proyecto GastroGo se ha establecido dos segmentos objetivos:
+
+Restaurantes de Lima Metropolitana:
+
+Diversos establecimientos de comida buscan incrementar sus ventas al recibir y gestionar pedidos en cantidad de manera eficiente, especialmente durante las horas de almuerzo. Estos restaurantes requieren de herramientas para optimizar el proceso de pedidos grupales y acceder a clientes recurrentes.
+
+
+Grupo de trabajadores:
+
+Equipos de trabajadores en entornos laborales que desean simplificar la organización de pedidos de comida en grupo. Buscan una plataforma fácil de usar que les permita realizar pedidos colectivos de manera rápida y eficiente, con la posibilidad de obtener beneficios adicionales como descuentos o recompensas.
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 ## 2.2. Entrevistas

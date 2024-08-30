@@ -769,6 +769,142 @@ En esta sección, mostramos perfiles ficticios que representan a los segmentos d
 
 
 ### 2.3.2. User Task Matrix
+
+La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios llevan a cabo al utilizar nuestra startup. Al clasificar estas tareas según su frecuencia e importancia para los usuarios, podemos priorizar nuestros recursos en desarrollo y diseño para optimizar su experiencia.
+<table>
+  <tr>
+    <th rowspan="2">User task</th>
+    <th colspan="2">Lucas Fernández 
+
+Trabajador</th>
+    <th colspan="2">Carlos López 
+
+Gerente de Restaurante</th>
+  </tr>
+
+  <tr>
+    <td>Frecuencia</td>
+    <td>Importante</td>
+    <td>Frecuencia</td>
+    <td>Importante</td>
+  </tr>
+  <tr>
+    <td>Realizar pedidos grupales a restaurantes</td>
+    <td align="center">Often</td>
+    <td align="center">High</td>
+    <td align="center">Often</td>
+    <td align="center">Medium</td>
+  </tr>
+  <tr>
+    <td>Recibir confirmación de pedido</td>
+    <td align="center">Always</td>
+    <td align="center">High</td>
+    <td align="center">Always</td>
+    <td align="center">High</td>
+  </tr>
+  <tr>
+    <td>Coordinar con compañeros para elegir opciones</td>
+    <td align="center">Sometimes</td>
+    <td align="center">Medium</td>
+    <td align="center">Never</td>
+    <td align="center">Low</td>
+  </tr>
+  <tr>
+    <td>Resolver problemas con pedidos (errores, retrasos)	</td>
+    <td align="center">Sometimes</td>
+    <td align="center">Medium</td>
+    <td align="center">Always</td>
+    <td align="center">High</td>
+  </tr>
+  <tr>
+    <td>Recibir notificaciones sobre el estado del pedido	</td>
+    <td align="center">Always</td>
+    <td align="center">High</td>
+    <td align="center">Always</td>
+    <td align="center">High</td>
+  </tr>
+  <tr>
+    <td>Gestionar y actualizar la disponibilidad del menú</td>
+    <td align="center">Never</td>
+    <td align="center">Low</td>
+    <td align="center">Always </td>
+    <td align="center">High</td>
+  </tr>
+  <tr>
+    <td>Consultar menús y precios de restaurantes</td>
+    <td align="center">Always</td>
+    <td align="center">High</td>
+    <td align="center">Often </td>
+    <td align="center">High</td>
+  </tr>
+  <tr>
+    <td>Realizar seguimiento de la satisfacción del cliente</td>
+    <td align="center">Never</td>
+    <td align="center">Medium</td>
+    <td align="center">Often</td>
+    <td align="center">High</td>
+  </tr>
+  <tr>
+    <td>Revisar feedback y sugerencias de usuarios</td>
+    <td align="center">Sometimes</td>
+    <td align="center">Medium</td>
+    <td align="center">Often</td>
+    <td align="center">High</td>
+  </tr>
+  <tr>
+    <td>Integrar el sistema de pedidos con el sistema de pago</td>
+    <td align="center">Never</td>
+    <td align="center">Low</td>
+    <td align="center">Often </td>
+    <td align="center">High</td>
+  </tr>
+</table>
+
+Sobre el Task Matrix podemos identificar las tareas de mayor frecuencia e importancia, así como las diferencias y coincidencias entre los grupos de usuarios: trabajadores y dueños de restaurante
+
+**Trabajadores**
+
+Tareas con mayor frecuencia:
+
+- Recibir confirmación de pedido: La frecuencia "Always" indica que esta tarea es fundamental para el grupo de trabajadores. Es esencial para confirmar que el pedido ha sido recibido y procesado por el restaurante.
+
+- Recibir notificaciones sobre el estado del pedido: También tiene una frecuencia "Always", lo que sugiere que el grupo de trabajador necesita estar al tanto del estado del pedido en todo momento para coordinar con el grupo.
+
+Tareas con mayor importancia:
+
+- Recibir confirmación de pedido: Es crucial para asegurar que el pedido se ha realizado correctamente y el trabajador está al tanto de su estado.
+
+- Resolver problemas con pedidos (errores, retrasos): Aunque ocurre con menor frecuencia (Sometimes), su alta importancia radica en la necesidad de solucionar problemas rápidamente para evitar impactos negativos en la experiencia del usuario.
+
+**Dueños de Restaurante**
+
+Tareas con mayor frecuencia:
+
+- Recibir confirmación de pedido: La frecuencia "Always" indica que es una tarea esencial para la gestión de pedidos en el restaurante.
+- Recibir notificaciones sobre el estado del pedido: También tiene una frecuencia "Always", mostrando que el dueño del restaurante necesita estar informado sobre el progreso del pedido para mantener la calidad del servicio.
+
+Tareas con mayor importancia:
+
+- Recibir confirmación de pedido: La alta importancia de esta tarea refleja la necesidad de confirmar que el pedido ha sido recibido y está en proceso.
+
+- Gestionar y actualizar la disponibilidad del menú: Tiene una frecuencia "Always" y es crucial para asegurar que los menús estén actualizados y reflejan la disponibilidad actual de los productos.
+
+**Diferencias Clave**
+
+- Frecuencia:
+  - Los trabajadores realizan tareas relacionadas con la coordinación del grupo y la resolución de problemas con menor frecuencia, mientras que las tareas de recepción de pedidos y notificaciones tienen una frecuencia constante.
+
+  - Los dueños de restaurante se enfocan más en la gestión y actualización del menú con una frecuencia constante, además de recibir confirmaciones y notificaciones sobre pedidos.
+
+- Importancia:
+
+  - Para los trabajadores, la resolución de problemas y la confirmación de pedidos son de alta importancia debido a la necesidad de asegurar que el pedido sea procesado y los problemas sean resueltos.
+
+  - Para los dueños de restaurante, la gestión del menú y la confirmación de pedidos son fundamentales, ya que impactan directamente en la eficiencia operativa y la satisfacción del cliente.
+
+Ambos grupos de usuarios comparten tareas relacionadas con la confirmación de pedidos y el seguimiento del estado del pedido, reflejando su importancia en el proceso de manejo de pedidos. Sin embargo, el enfoque de cada grupo varía: los trabajadores se centran más en la resolución de problemas y la coordinación con su grupo, mientras que los dueños de restaurante gestionan la disponibilidad del menú y las operaciones del restaurante.
+
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping

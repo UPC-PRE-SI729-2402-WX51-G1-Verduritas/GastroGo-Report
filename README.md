@@ -303,6 +303,53 @@ empática.</p>
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
+
+Antecedentes: 
+
+Identificamos que la gestión de pedidos grupales se realizaba de manera tradicional, generalmente mediante llamadas telefónicas o visitas personales. Esto representa un desafío significativo para la gestión eficiente de los pedidos, afectando principalmente a los trabajadores, quienes buscan opciones de almuerzo accesibles y convenientes. Al realizarse los pedidos de forma manual, se generan ineficiencias y errores en el proceso, lo que repercute negativamente en la experiencia tanto de los clientes como de los restaurantes.
+
+Problemática:
+
+La problemática radica en la falta de una plataforma especializada que permita a los trabajadores realizar pedidos grupales de manera eficiente, sin generar dificultades en el proceso. Esto incluye demoras en la recepción de los pedidos, errores en las entregas, y una experiencia deficiente para los usuarios. De esta situación surge la necesidad de optimizar y digitalizar estos procesos para mejorar la productividad de los restaurantes y satisfacer las necesidades de los trabajadores.
+
+Para la elaboración de la descripción de los antecedentes y problemática, hemos aplicado la técnica de The 5 ’W’s y 2 ’H’s:
+
+**What**
+
+El problema radica en la dificultad de un grupo de trabajadores de una empresa para realizar pedidos grupales de comida en restaurantes de manera eficiente y organizada.
+
+**When** 
+
+El problema sucede cuando un grupo de trabajadores no llevan almuerzo a sus trabajos y suelen ir a un restaurante, que en reiteradas ocasiones está a su máxima capacidad o tienen mucha demanda. 
+
+**Where**
+
+Se enfoca inicialmente en Lima Metropolitana, abarcando distritos claves donde se concentran grandes cantidades de oficinas y negocios, como San Isidro, Miraflores, Surco, y San Borja. Estos son los lugares donde hay una alta demanda de servicios de alimentación para grupos de trabajadores.
+
+**Who**
+
+Los principales involucrados en esta problemática son los restaurantes de Lima metropolitana y grupo de trabajadores (oficinas, empresas, y más)
+
+**Why**
+
+Existe una necesidad en el mercado para realizar pedidos grupales de comida en restaurantes. Por tal motivo, GastroGo busca solucionar esta problemática y ofrecer beneficios tantos a los restaurantes y trabajadores.
+
+**How** 
+
+GastroGo nace de la necesidad de simplificar la experiencia de pedir comidas grupales. Los trabajadores al enfrentar varias dificultades como: encontrar su plato favorito, disponibilidad en un restaurante y más, encuentran en nuestra plataforma una solución práctica y eficiente.
+
+**How much**
+
+Se estima que en el mercado de pedidos de comida aumentó  un 47% en los últimos años segun la INEI, la actividad en restaurantes aumentó considerablemnte. 
+
+
+Según el Instituto Nacional de Estadística e Informática (INEI) (2022), en abril de 2022 la actividad de los restaurantes en Lima Metropolitana aumentó un 47,65 %, lo que refleja un crecimiento significativo en la demanda de servicios gastronómicos. Este incremento resalta la oportunidad y necesidad de plataformas como GastroGo, que buscan optimizar y digitalizar los procesos de pedidos grupales para satisfacer tanto a los restaurantes como a los grupos de trabajadores, mejorando así la eficiencia y la experiencia del cliente en un mercado en expansión. <br><br>
+
+<p align="center">
+  <img src="assets/img/chapter-1/img-inei-estadistica.png" alt=" " width="50%">
+</p>
+
+
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions

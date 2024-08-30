@@ -499,6 +499,96 @@ Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro p�
 
     
 ### 2.2.2. Registro de entrevistas
+
+**Segmento grupo de trabajadores**
+
+**Entrevista #01: Jonathan Berrocal (22 años - Villa Maria del Triunfo) - 25 de agosto del 2024**
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-entrevista-trabajadores-1.png" alt=" " width="50%">
+</p>
+
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=Z68TgT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) (Comienzo 00: 00:00 Fin -00:05:48)
+
+Jonathan Berrocal en la actualidad es un estudiante de séptimo ciclo de la carrera de ingeniería de sistemas de información en la universidad de ciencias aplicadas. Asimismo se encuentra realizando prácticas en la empresa Diners Club.
+
+En cuanto a sus preferencias personales y estilo de vida, Jonathan nos comenta que es una persona introvertida. Sus principales pasatiempos actualmente son jugar al fútbol y escuchar música. Además, se considera una persona analítica en lo que respecta al trabajo y, en términos de enfoque, se define como muy racional.
+
+Jonathan nos compartió sus preferencias tecnológicas: utiliza una laptop con sistema operativo Windows y un dispositivo móvil con sistema operativo Android. Su navegador de preferencia es Google Chrome.
+Finalmente, en cuanto a redes sociales, Jonathan utiliza frecuentemente LinkedIn, Facebook e Instagram.
+
+Jonathan nos ha compartido sus experiencia a la hora de realizar pedidos grupales en la empresa que actualmente está trabajando que es Diners Club.
+
+Con respecto a la importancia de elegir dónde almorzar durante la jornada laboral, Jonathan considera que es bastante importante. Él ve el almuerzo como un momento clave para descansar y desestresarse del trabajo. Prefiere comprar su comida cerca de su lugar de trabajo o pedirla, ya que esto le resulta más fácil y menos estresante que preparar su comida en la mañana.
+
+En cuanto a sus preferencias para el almuerzo, Jonathan prefiere comprarlo cerca de su lugar de trabajo o pedirlo para entrega. Esto se debe a que le resulta más conveniente en lugar de llevar su almuerzo desde casa, ya que le evita tener que planificar y cocinar con antelación.
+
+Jonathan realiza pedidos grupales con sus colegas de vez en cuando, cuando hay un antojo común o cuando deciden hacer un pedido conjunto. La frecuencia de estos pedidos varía según las necesidades del grupo.
+
+Al elegir un restaurante, Jonathan considera que la calidad de la comida y la rapidez del servicio son aspectos importantes. También valora el precio y la variedad de platos disponibles para evitar la repetitividad en las opciones.
+
+Jonathan ha enfrentado dificultades al coordinar pedidos grupales debido a las diferentes preferencias de sus colegas. Para manejar estas situaciones, utilizan votaciones o sorteos en plataformas en línea para tomar decisiones de manera dinámica.
+
+Jonathan estaría interesado en una plataforma que facilitara los pedidos grupales y ofreciera menús seleccionados de restaurantes locales. Esto le parecería útil, ya que simplificará la organización y ahorraría tiempo en la toma de decisiones.
+
+Estaría dispuesto a pagar una pequeña tarifa adicional por un servicio que permitiera realizar pedidos grupales de manera rápida y organizada, siempre que el proceso sea más sencillo y eficiente.
+
+Por último, le gustaría que la aplicación de pedidos grupales ofreciera recomendaciones personalizadas basadas en pedidos anteriores, opciones para compartir el costo de manera equitativa y seguimiento en tiempo real de los pedidos
+
+
+
+**Entrevista #02: Raul Sulca Ynoñan (29 años - Comas) - 29 de agosto del 2024**
+
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-entrevista-trabajadores-2.png" alt=" " width="55%">
+</p>
+
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=UWHYgR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQ4Ljc4fX0%3D)  (Comienzo 00:05:48 - Fin 00:13:02)
+
+
+Raul Sulca nos comentó que estudió en la Universidad Nacional Mayor de San Marcos, y actualmente es Ingeniero Agromono. Asimismo, se encuentra trabajando en SGS del Perú S.A.C. en el distrito del Callao.
+
+En cuanto a sus preferencias personales y estilo de vida, Raul nos comenta que es una persona extrovertida. Sus principales pasatiempos actualmente son viajar  y bailar salsa. Además, se considera una persona analítica en lo que respecta a su trabajo y, en términos de enfoque, se define como una persona muy racional. 
+
+Raul nos compartió sus preferencias tecnológicas: utiliza una laptop con sistema operativo Windows y un dispositivo móvil con sistema operativo Android. Su navegador de preferencia es Google Chrome. Finalmente, en cuanto a redes sociales, Raul utiliza frecuentemente Facebook, Instagram y TikTok. 
+
+Raul nos ha compartido su experiencia a la hora de realizar pedidos grupales en la empresa donde actualmente labora. La importancia de elegir donde almorzar durante su jornada laboral es primordial. Prefiere comer en el comedor de la empresa y en algunos casos, comprar su comida por su lugar de trabajo o pedirla, ya que le resulta más fácil, ya que el lugar donde trabaja es zona industrial. 
+
+Raul realiza pedidos grupales con sus colegas de vez en cuando, usualmente cuando hay un antojo común o cuando deciden hacer un pedido en conjunto. Las necesidades varían según las preferencias del grupo.
+
+Al elegir un restaurante, Raul considera la rapidez y la calidad de la comida, él elige estas dos opciones porque el tiempo de comida es limitado y prefiere que al realizar un pedido, llegue rápido y que la calidad sea buena.
+
+Raul ha enfrentado dificultades al recibir sus pedidos, nos comenta que al momento de recibirlo, el pedido que hizo llega incompleto o no llega lo que pidió, y tiene que cancelar el pedido o lo acepta para evitar más complicaciones. 
+
+Raul estaría interesado en una plataforma que facilitara los pedidos grupales y ofreciera menús con mayor variedad y evitar los errores en las entregas. Le parece útil, ya que le ahorrará tiempo y evitará más complicaciones. 
+
+También nos comenta que estaría dispuesto a pagar una pequeña tarifa adicional por un servicio que le permita gestionar  de manera rápida sus pedidos, y que sea rápido y al mismo tiempo la comida sea de calidad. 
+
+Por último, le gustaría que la aplicación de pedido grupales sea amigable con el usuario, fácil de manejar al momento de realizar pedidos y que no tenga caídas en el sistema. 
+
+**Entrevista #03: Daniel Vazquez (25 años - San Juan de Lurigancho) - 28 de agosto del 2024**
+
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=HvvBXV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NzgyLjczfX0%3D)  (Comienzo 00:13:02 - Fin 00:23:01)
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-entrevista-trabajadores-3.png" alt=" " width="55%">
+</p>
+
+Daniel Vasquez nos comenta que es bachiller de Derecho de la Universidad Nacional Pedro Ruiz Gallo de Chiclayo. Asimismo, se encuentra trabajando en la Corte Superior de Lima. 
+
+En cuanto a sus preferencias personales y estilo de vida, Daniel nos comenta que es una persona extrovertida. Sus principales pasatiempos actualmente son bailar y ver videos de stand comedy. Además, utiliza redes sociales como Facebook , instagram y TikTok para buscar alguna información extra o mantenerse al día. Además, se considera una persona analítica en lo que respecta a su trabajo y, en términos de enfoque, se define como una persona muy racional. 
+
+
+En cuanto a su uso de tecnología, prefiere dispositivos como un smart watch, celular con sistema operativo Android, y una laptop y tablet con Windows, ya que este sistema operativo es el que utiliza en su trabajo y se siente más cómodo con él. Su navegador de preferencia es Google Chrome.
+
+Daniel considera importante la elección del lugar donde almuerza durante su jornada laboral, prefiriendo opciones que le mantengan activo, sean cómodas y de buena calidad. Aunque le incomoda llevar almuerzo de casa porque debe calentarlo y la comida se enfría, suele comprar su comida cerca de su trabajo o pedirla para entrega.
+
+En cuanto a pedidos grupales, los realiza junto a sus colegas principalmente cuando tienen antojos durante la hora de almuerzo. Al elegir un restaurante, valora especialmente la calidad y rapidez del servicio para poder disfrutar su comida con tranquilidad. Sin embargo, ha enfrentado dificultades al coordinar estos pedidos, como retrasos en la entrega y complicaciones con el pago entre los colegas.
+
+Daniel estaría interesado en una plataforma que facilite la gestión de pedidos grupales, incluyendo menús seleccionados de restaurantes locales. Considera que un servicio eficiente que compense calidad y rapidez sería algo por lo que estaría dispuesto a pagar. Le gustaría que la aplicación incluya funciones como pagos compartidos para evitar malentendidos y la posibilidad de añadir extras al pedido.
+
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas

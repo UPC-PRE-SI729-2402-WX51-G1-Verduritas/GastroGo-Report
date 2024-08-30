@@ -663,6 +663,49 @@ Finalmente, Martín estaría dispuesto a ofrecer descuentos o menús especiales 
 
 ### 2.2.3. Análisis de entrevistas
 
+**Análisis para el segmento de Grupo de Trabajadores:**
+
+- El 100% de los entrevistados utilizan una laptop con sistema operativo Windows y un dispositivo móvil con Android.
+
+
+- El 100% coincide en la preferencia por Google Chrome como su navegador web principal. Esto sugiere una inclinación hacia sistemas operativos y navegadores ampliamente reconocidos por su compatibilidad y eficiencia en entornos laborales y académicos.
+
+
+- El 100% de los entrevistados se consideran analíticos y racionales en su enfoque laboral.
+
+
+- El 100% de los entrevistados consideran importante elegir dónde almorzar durante la jornada laboral, destacando que este momento es clave para descansar y desconectar del trabajo.
+
+
+- El 100% de los entrevistados han experimentado dificultades al coordinar pedidos grupales.
+
+
+- El 100% de los entrevistados estarían interesados en una plataforma que facilite la gestión de pedidos grupales, con un 100% dispuesto a pagar una tarifa adicional siempre que el servicio sea eficiente, rápido y de calidad.
+
+
+- El 100% de los entrevistados destacan la importancia de tener opciones de pago compartido para evitar malentendidos, mientras que el 66% valora la inclusión de recomendaciones personalizadas y seguimiento en tiempo real de los pedidos.
+
+
+- El 66% de los problemas más comunes son los retrasos en la entrega.
+
+
+- El 66% de las complicaciones al gestionar los pagos compartidos.
+
+
+- El 66% de los entrevistados se describen como personas extrovertidas, con intereses en actividades sociales como bailar o viajar.
+
+
+- El 66% prefiere comprar su comida cerca del trabajo o pedirla para entrega, evitando llevar su propio almuerzo.
+
+
+- El 66% de los entrevistados utilizan frecuentemente Facebook e Instagram, mientras que el 33% adicional también usa TikTok.
+
+
+- LinkedIn es mencionada por el 33% de los entrevistados, destacando su uso en un contexto más profesional.
+
+
+- El 33% se identifica como introvertido, prefiriendo actividades más individuales como jugar fútbol o escuchar música.
+
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas

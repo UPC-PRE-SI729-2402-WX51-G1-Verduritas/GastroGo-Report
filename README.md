@@ -925,6 +925,21 @@ User Journey Mapping: Restaurantes
 
 
 ### 2.3.4. Empathy Mapping
+
+En esta sección se presenta el Empathy Mapping, una herramienta para crear un perfil detallado de los user personas y desarrollar una comprensión profunda de su perspectiva y experiencia. Para cada user persona, se incluyen cinco elementos clave: lo que el usuario ve, lo que el usuario escucha, lo que el usuario dice, lo que el usuario hace y lo que el usuario siente. Además, se incluyen los pains y gains identificados en base a las preguntas: ¿Qué le preocupa? Y ¿Qué puede ayudar a resolver sus problemas? ¿Qué puede convencerlo de que somos la alternativa correcta? ¿Qué dice? Los mapas de empatía se han desarrollado con la herramienta UXPressia.
+
+Empathy Mapping: Grupo de trabajadores
+<p align="center">
+  <img src="assets/img/chapter-2/img-empathy-map-1.png" alt=" " width="100%">
+</p>
+
+Empathy Mapping: Restaurantes
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-empathy-map-2.png" alt=" " width="100%">
+</p>
+
+
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification

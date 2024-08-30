@@ -467,6 +467,20 @@ Además, el producto también se usa en cualquier momento del día en que los re
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+**Creemos que** los restaurantes de Lima metropolitana estarán interesados en GastroGo porque les permite recibir pedidos en cantidad de manera rápida y organizada.
+
+**Sabremos que** los restaurantes encuentran valor en la plataforma cuando al menos el 70% de los restaurantes están registrados y utilizan regularmente la plataforma para gestionar sus pedidos.
+
+**Creemos que** al implementar un plan promocional (descuentos, cupones, promociones) por realizar pedidos con frecuencia obtendremos la atención de los usuarios. 
+
+**Sabremos que** el plan promocional es efectivo cuando los usuarios que hayan ganado algún descuento, realicen un pedido adicional en su compra.  
+
+**Creemos que** la interfaz de GastroGo debe ser amigable y fácil de usar, va a mejorar la experiencia del usuario al realizar sus pedidos.
+
+**Sabremos que** la experiencia del usuario es satisfactoria cuando al menos un 85% de usuarios hayan completado sus pedidos sin necesidad de alguna ayuda o soporte adicional.
+
+
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
 # Capítulo II: Requirements Elicitation & Analysis

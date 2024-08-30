@@ -1029,6 +1029,53 @@ Evaluación de la experiencia post-uso:
 
 
 ## 2.4. Ubiquitous Language
+
+El Ubiquitous Language ayudará a asegurar que todo el equipo de desarrollo, los stakeholders, y los usuarios finales comprendan claramente los términos utilizados dentro de la plataforma GastroGo, promoviendo una comunicación clara y efectiva.
+
+
+**Group Order (Pedido Grupal):**
+
+Definición: Pedido realizado en conjunto por varios miembros de un grupo o equipo de trabajo a través de la plataforma GastroGo. Incluye la selección individual de menús y la personalización de cada pedido, que luego se consolida para ser procesado y entregado a una dirección específica.
+
+
+**Meal Preferences (Preferencias de Comida):**
+
+Definición: Las opciones personalizadas de cada usuario dentro de un pedido grupal, que pueden incluir restricciones dietéticas, preferencias de sabor, tamaños de porción, etc. Estas preferencias son almacenadas por la plataforma para facilitar pedidos futuros.
+
+**Order Confirmation (Confirmación de Pedido):**
+
+Definición: Mensaje o notificación que se envía a todos los miembros de un grupo de trabajo una vez que el pedido grupal ha sido procesado y confirmado por el restaurante asociado.
+
+**Order Management (Gestión de Pedidos):**
+
+Definición: El proceso completo de organizar, personalizar, y finalizar un pedido grupal dentro de GastroGo, desde la selección de platos hasta la confirmación y seguimiento de la entrega.
+
+
+**Bulk Order (Pedido en Cantidad):**
+
+Definición: Pedido de una gran cantidad de comidas a ser entregadas a un grupo de trabajadores, usualmente con un descuento o promoción especial por volumen.
+
+**Workplace Delivery (Entrega en el Lugar de Trabajo):**
+
+Definición: El servicio de entrega directa de pedidos de comida al lugar de trabajo de los empleados, garantizando que las comidas lleguen frescas y a tiempo para el almuerzo o la cena.
+
+**Order Tracking (Seguimiento de Pedido):**
+
+Definición: La funcionalidad que permite a los trabajadores y administradores de la plataforma monitorizar en tiempo real el estado de su pedido, desde la preparación hasta la entrega.
+
+**Catering Service (Servicio de Catering):**
+
+Definición: Un servicio especial ofrecido por restaurantes asociados para eventos o reuniones corporativas, que incluye la entrega de grandes cantidades de comida en una sola ocasión, con opciones de servicio adicional como montaje y atención.
+
+**Delivery Slot (Franja Horaria de Entrega):**
+
+Definición: El intervalo de tiempo durante el cual un restaurante asociado se compromete a entregar los pedidos a una ubicación específica. Los trabajadores pueden seleccionar la franja horaria que mejor se ajuste a sus horarios laborales.
+
+**Restaurant Partner (Restaurante Asociado):**
+
+Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer sus servicios de comida a través de la plataforma. Los restaurantes asociados gestionan los menús, precios y tiempos de entrega.
+
+
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories

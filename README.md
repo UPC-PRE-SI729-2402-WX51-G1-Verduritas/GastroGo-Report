@@ -979,6 +979,54 @@ Personalizar los pedidos para cada miembro del grupo:
 
 - Aprender más de como los restaurantes ofrecen este servicio, para nosotros como startup poder aprender y cumplir las expectativas de los usuarios.
 
+As-is Scenario Mapping: Restaurantes
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-as-is-2.png" alt=" " width="100%">
+</p>
+
+**Positive Points:**
+
+Explorar nuevas tecnologías para mejorar la eficiencia:
+
+- Los usuarios están abiertos a adoptar nuevas herramientas tecnológicas, como GastroGo, para mejorar la gestión de pedidos grupales en sus restaurantes.
+
+Confianza en una integración sencilla:
+
+- Los usuarios expresan confianza en que el proceso de integración de GastroGo será sencillo, especialmente si se proporciona soporte adecuado.
+
+Satisfacción al mejorar la gestión y experiencia del cliente:
+
+- Después de utilizar GastroGo, hay una satisfacción general en la mejora de la gestión de pedidos grupales y en la experiencia del cliente.
+
+**Negative Points:**
+
+Preocupación por la inversión y beneficios:
+
+- Existe incertidumbre entre los usuarios sobre si la inversión en GastroGo se justificará con los beneficios que ofrece.
+
+Frustración si la plataforma no cumple con las expectativas:
+
+- Si la experiencia de uso de GastroGo no cumple con las expectativas, ya sea por problemas en la funcionalidad o en la gestión de pedidos, los usuarios podrían sentirse frustrados.
+
+Incertidumbre por posibles complicaciones durante la integración:
+
+- Algunos usuarios tienen dudas ante la posibilidad de enfrentar problemas técnicos o complicaciones durante el proceso de integración. Esto podría llevar a una percepción negativa si no se ofrece un soporte técnico eficaz.
+
+**Blank Points:**
+
+Explorar herramientas actuales:
+
+- Algunos usuarios sienten la necesidad de explorar las herramientas disponibles en el mercado para determinar si GastroGo es la mejor opción.
+
+Procesos de personalización y adaptación a necesidades específicas:
+
+- Los usuarios tienen interés en saber cómo pueden personalizar la plataforma para ajustarse a las necesidades específicas de su restaurante.
+
+Evaluación de la experiencia post-uso:
+
+- Después del uso inicial de GastroGo, los usuarios buscan evaluar el impacto de la plataforma en las ventas y la eficiencia operativa.
+
 
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification

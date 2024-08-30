@@ -588,8 +588,82 @@ En cuanto a pedidos grupales, los realiza junto a sus colegas principalmente cua
 
 Daniel estaría interesado en una plataforma que facilite la gestión de pedidos grupales, incluyendo menús seleccionados de restaurantes locales. Considera que un servicio eficiente que compense calidad y rapidez sería algo por lo que estaría dispuesto a pagar. Le gustaría que la aplicación incluya funciones como pagos compartidos para evitar malentendidos y la posibilidad de añadir extras al pedido.
 
+**Segmento de Restaurantes**
+
+**Entrevista #04: Juan Esteban Espinoza (56 años - La Molina) 26 de agosto del 2024**
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-entrevista-restaurantes-1.png" alt=" " width="50%">
+</p>
+
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=CRgyDO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM4Mi42NH19)  (Comienzo 00:23:02 - Fin 00:30:01)
+
+Juan Esteban Espinoza es actualmente gerente general y cuenta con 56 años. Dirige dos restaurantes ubicados en los distritos de Mala y Surco, siendo este último de reciente apertura. El restaurante en Mala atrae principalmente a familias, mientras que en Surco se enfoca en parejas y clientes individuales.
+
+En cuanto a sus preferencias personales, Juan Esteban se describe como una persona extrovertida. Disfruta del fútbol y de andar en moto en su tiempo libre. En su trabajo, se considera tanto analítico como creativo, con una tendencia más hacia lo racional en su enfoque.
+
+Juan Esteban utiliza una variedad de dispositivos tecnológicos en su día a día, incluyendo sistemas operativos Windows, iOS en su iPad, y macOS en su Mac. Sus redes sociales de preferencia son WhatsApp, Instagram, TikTok y Facebook. Para su trabajo, suele usar Office 365, especialmente Excel y PowerPoint. Navega en internet principalmente usando Chrome y Edge.
+
+Juan Esteban considera que el horario de almuerzo es crucial para su restaurante, especialmente en el local de Surco, donde busca incrementar la rotación en este horario debido a que la marca está más asociada con desayunos. Esto hace que  los almuerzos sean un objetivo importante para él.
+
+A nivel operativo, Juan Esteban prefiere ofrecer menús fijos en lugar de platos a la carta, ya que esto permite una mayor eficiencia en la cocina. Debido a que considera eficaz el sistema de mise en place el cual logra una preparación rápida y consistente de los pedidos, lo cual es esencial durante las horas pico.
+
+En cuanto a la gestión de pedidos grupales, Juan Esteban menciona que uno de los mayores desafíos es coordinar las especificaciones detalladas de los clientes, que pueden complicar la operación. Actualmente, utiliza la plataforma Infores para ingresar y coordinar los pedidos en cocina, lo que permite cierta personalización, pero a menudo resulta en una carga operacional debido a la variabilidad de los pedidos.
+
+Juan Esteban estaría interesado en una herramienta tecnológica que le permita anticipar los pedidos grupales con mayor antelación, lo que le permitiría optimizar la producción en la cocina y mejorar el servicio durante las horas pico. Además, considera que una plataforma que ofrezca la posibilidad de gestionar pedidos grupales de manera eficiente sería de gran ayuda para reducir los tiempos de espera y mejorar la satisfacción del cliente. También estaría dispuesto a ofrecer descuentos o menús especiales a través de una plataforma que le garantice un volumen significativo de pedidos, siempre y cuando se puedan manejar las personalizaciones de manera eficiente.
+
+**Entrevista #05: Zaid Arauco (47 años - Miraflores) - 26 de agosto del 2024**
+
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=10pPdr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTgwMi4wNH19)  (Comienzo 00:30:01 - Fin 00:39:42)
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-entrevista-restaurantes-2.png" alt=" " width="50%">
+</p>
+
+Zaid Arauco es la Gerente General de un restaurante ubicado en Miraflores. Tiene 47 años y se dedica a gestionar las operaciones diarias del restaurante, asegurando que todo funcione de manera óptima.
+
+En cuanto a su estilo de vida, Zaid es una persona extrovertida que disfruta de ir al cine y hacer deporte en su tiempo libre. Se considera persona analítica y tiende a ser racional en su enfoque hacia el trabajo. Zaid prefiere usar dispositivos con sistema operativo Windows y trabaja con Office 365. Su navegador de preferencia es Firefox.
+
+Zaid nos compartió sus experiencias y desafíos al manejar los pedidos grupales en su restaurante. En cuanto al perfil de sus clientes, identifica tres grupos principales: oficinistas que buscan un lugar conveniente para almorzar, turistas que desean probar la comida peruana y clientes locales que acuden específicamente para disfrutar de su oferta gastronómica.
+
+Respecto a la importancia del horario de almuerzo, Zaid considera que es el servicio más relevante para su restaurante. A pesar de ofrecer un menú fijo diario para los oficinistas, el negocio principal está en los pedidos a la carta, donde el margen de ganancia es mayor.
+
+En cuanto a la gestión de pedidos grupales, Zaid menciona que su restaurante, que tiene capacidad para 20 personas, suele pedir a los grupos que reserven con anticipación y que elijan platos de la carta antes de llegar, lo que les ayuda a organizarse mejor. A menudo, los grupos optan por pedir entradas para compartir antes de seleccionar su plato principal. Además, cuando los grupos piden cuentas individuales, el restaurante las gestiona usando los nombres de los clientes para facilitar el cobro al final.
+
+Zaid menciona que uno de los problemas más comunes al manejar pedidos grupales es la división de la cuenta, lo que puede llevar tiempo. Además, cuando cada persona pide un plato diferente, puede generar demoras en la cocina. A pesar de estas dificultades, considera que las plataformas que facilitan reservas grupales, como WeRoad, son beneficiosas, ya que aseguran un flujo constante de clientes y permiten al restaurante planificar mejor sus compras y producción.
+
+Finalmente, Zaid menciona que, aunque las plataformas de delivery como Rappi cobran comisiones altas (alrededor del 25% del valor de la venta), las alianzas con plataformas de reservas grupales pueden ser más viables, ya que implican menores costos y aseguran una demanda previsible.
+
+
+**#06: Martín Zuñiga (48 años - Victoria) - 29 de agosto de 2024**
+
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-entrevista-restaurantes-3.png" alt=" " width="50%">
+</p>
+
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=FSU2Up&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjM4My4yM319)  (Comienzo 00:30:01 - Fin 00:43:49)
+
+Martín Zuñiga es el dueño y cocinero principal de un restaurante ubicado en La Victoria. Lleva 10 años al frente del negocio, y su experiencia en el rubro le ha permitido conocer a fondo las necesidades y preferencias de sus clientes.
+
+En cuanto a sus preferencias personales y estilo de vida, Martín nos comenta que es una persona más bien introvertida, que disfruta de la tranquilidad que le ofrecen sus pasatiempos. Entre sus principales hobbies, destaca la lectura y la cocina experimental, actividades que lo relajan y le permiten seguir innovando en su restaurante. Aunque reconoce que tiene un lado creativo por su pasión por la cocina, se considera una persona analítica en lo que respecta al manejo del negocio. En su enfoque, tiende a ser racional, valorando la eficiencia y la precisión en las operaciones diarias del restaurante.
+
+Martín nos compartió sus preferencias utilizando una computadora portátil con sistema operativo Windows y un smartphone con sistema operativo Android. Su navegador de preferencia es Google Chrome, por su  compatibilidad con las plataformas que utiliza. Finalmente, en cuanto a redes sociales, Martín prefiere LinkedIn para temas profesionales, y usa Facebook para mantener contacto con su comunidad local y promocionar su restaurante.
+
+En cuanto al tipo de clientes que frecuentan su restaurante, Martín nos comenta que atienden a una gran variedad de clientes. Debido a la ubicación, reciben principalmente a trabajadores de empresas, personal de bancos, y un gran número de taxistas. Para Martín, la fidelidad del cliente es lo más importante; atraer nuevos clientes es solo una parte del desafío, pero lograr que regresen de manera constante es la verdadera prueba.
+
+El restaurante ofrece un menú fijo que varía entre cuatro opciones: uno de 12 soles, otro de 15, uno de 18 y otro de 20 soles, con platos variados diariamente. Aunque no permiten personalizar los pedidos, la variedad y calidad de sus platos ha sido clave para mantener satisfechos a sus clientes. Además, el servicio rápido es una prioridad, especialmente durante el horario de almuerzo, cuando la mayoría de sus clientes disponen de solo una hora para comer.
+
+Actualmente, el restaurante no maneja reservas y opera según la llegada de clientes. Sin embargo, para Martín, es crucial que el servicio sea eficiente y rápido, especialmente entre la 1 pm y 2 pm, que es cuando reciben la mayor afluencia de clientes.
+
+Martín reconoce que coordinar pedidos grupales puede ser un desafío, sobretodo por la necesidad de mantener la rapidez en el servicio durante las horas pico. Aun así, estaría interesado en utilizar una plataforma que le conectara con grupos de trabajadores para pedidos grupales. Según lo que nos comenta, una plataforma que busque clientes y los dirija a su restaurante sería un gran apoyo, permitiéndole concentrarse en lo que mejor hace: atender a los clientes de la mejor manera.
+
+Finalmente, Martín estaría dispuesto a ofrecer descuentos o menús especiales a través de una plataforma que le garantizara un volumen significativo de pedidos. Considera que una herramienta de este tipo podría optimizar significativamente las operaciones del restaurante durante las horas pico, mejorando tanto la eficiencia como la satisfacción del cliente.
+
 
 ### 2.2.3. Análisis de entrevistas
+
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix

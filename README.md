@@ -434,8 +434,70 @@ Entre las principales estrategias y tácticas que ejecutaremos como startup son 
 - Como startup podremos desarrollar alianzas estratégicas con restaurantes locales, ofreciendo exclusividad en ciertas áreas, lo que no solo llamará la atención a nuevos posibles usuarios y restaurantes. Al utilizar tácticas como promociones exclusivas para grupos de usuarios y la gamificación de la experiencia del usuario, podría aumentar su visibilidad y establecer un lugar en el mercado, asegurando una ventaja competitiva frente a nuestros competidores.
 
   
-## 2.2. Entrevistas
-### 2.2.1. Diseño de entrevistas
+## 2.2. Entrevistas 
+Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro público objetivo, estas deben tener una estructura clara y concisa, preguntas específicas para que cumplan su objetivo que es la recolección de datos e información de los entrevistados.
+
+### 2.2.1. Diseño de entrevistas  
+**A. Preguntas para Grupo de Trabajadores**
+
+**i) Preguntas Introductorias**
+
+1. ¿Cuál es su nombre completo? ¿Qué edad tiene? ¿En qué distrito resides actualmente?
+2. ¿Cuál es su ocupación?
+
+**ii) Preguntas sobre Personalidad**
+
+3. ¿Cuáles son tus hobbies o pasatiempos favoritos?
+4. ¿Te consideras una persona introvertida o extrovertida?
+5. ¿Te consideras una persona más analítica o creativa cuando realizas algún tipo de trabajo? ¿Tiendes a ser más racional o emocional en tu enfoque?
+6. ¿Qué dispositivos tecnológicos y sistemas operativos prefieres usar para tu día a día? ¿Cuáles son las redes sociales que utilizas con mayor frecuencia para estudio, trabajo y ocio?
+7. ¿Cuál es el navegador web que usas habitualmente?
+
+**iii) Preguntas Principales**
+
+8. ¿Qué tan importante es para ti, elegir dónde almorzar durante tu jornada laboral?
+9. ¿Prefieres llevar tu almuerzo de casa, comprarlo cerca de tu lugar de trabajo o pedirlo para entrega? ¿Por qué?
+10. ¿Con qué frecuencia sueles hacer pedidos grupales (junto a colegas) para almorzar en el trabajo?
+11. ¿Qué aspectos son importantes para ti, al elegir un restaurante para pedir comida (por ejemplo, precio, calidad, rapidez, opciones saludables, variedad)?
+
+**iv) Preguntas Específicas**
+
+12. ¿Has presentado dificultades al coordinar pedidos grupales de comida en tu lugar de trabajo?
+    - De ser el caso: Coméntanos, ¿cuáles han sido y cómo las has manejado?
+13. Si existiera una plataforma que facilitara los pedidos grupales y ofreciera menús seleccionados de restaurantes locales, ¿la utilizarías? ¿Por qué?
+14. ¿Cuánto estarías dispuesto a pagar por un servicio que te permita realizar pedidos grupales de manera rápida y organizada?
+15. ¿Qué tipo de funciones te gustaría que tuviera una aplicación de este tipo (por ejemplo, recomendaciones personalizadas, seguimiento de pedidos, pagos compartidos)?
+
+**B. Preguntas para Restaurantes**
+
+**i) Preguntas Introductorias**
+
+1. ¿Cuál es su nombre completo? ¿Qué edad tiene? ¿Y cuál es su cargo dentro del restaurante?
+2. ¿En qué distrito se encuentra ubicado su restaurante?
+
+**ii) Preguntas sobre Personalidad**
+
+3. ¿Cuáles son tus hobbies o pasatiempos favoritos?
+4. ¿Te consideras una persona introvertida o extrovertida?
+5. ¿Te consideras una persona más analítica o creativa cuando realizas algún tipo de trabajo? ¿Tiendes a ser más racional o emocional en tu enfoque?
+6. ¿Qué dispositivos tecnológicos y sistemas operativos prefieres usar para tu día a día? ¿Cuáles son las redes sociales que utilizas con mayor frecuencia para estudio, trabajo y ocio?
+7. ¿Cuál es el navegador web que usas habitualmente?
+
+**iii) Preguntas Principales**
+
+8. ¿Cuál es el tipo de cliente que más frecuenta su restaurante (por ejemplo, familias, trabajadores, estudiantes)?
+9. ¿Qué tan importante es para el restaurante atraer a clientes durante el horario de almuerzo?
+10. ¿Prefieren ofrecer menús fijos o permiten a los clientes personalizar sus pedidos? ¿Por qué?
+11. ¿Cómo maneja actualmente su restaurante los pedidos en grupo? ¿Utilizan alguna plataforma específica?
+
+**iv) Preguntas Específicas**
+
+12. ¿Cuáles son los principales problemas que enfrenta al recibir y coordinar pedidos grupales?
+13. Si existiera una plataforma que le conectara con grupos de trabajadores para pedidos grupales, ¿le interesaría participar? ¿Por qué?
+14. ¿Cómo cree que una herramienta que realice pedidos grupales podría ayudar a optimizar la operación de su restaurante durante las horas pico?
+15. ¿Estaría dispuesto a ofrecer descuentos o menús especiales a través de una plataforma que le garantice un volumen significativo de pedidos?
+
+    
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding

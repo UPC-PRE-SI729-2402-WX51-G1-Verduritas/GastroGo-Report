@@ -941,6 +941,45 @@ Empathy Mapping: Restaurantes
 
 
 ### 2.3.5. As-is Scenario Mapping
+
+En esta sección se presentan los As-is Scenario mapping para ambos segmentos objetivos donde se va a identificar y comprender los puntos contacto entre usuarios y el software de gestión de alimentos o comida. Para la elaboración de esta actividad se ha utilizado la herramienta Miro.
+
+As-is Scenario Mapping: Grupo de Trabajadores
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-as-is-1.png" alt=" " width="100%">
+</p>
+
+**Positive Points:**
+
+Buscar soluciones para gestionar pedidos grupales de almuerzo: 
+- Los usuarios están buscando una plataforma que les ayude a organizar de manera eficiente los pedidos grupales de almuerzo. GastroGo se presenta como una solución ideal que responde a esta necesidad, permitiendo a los usuarios gestionar fácilmente los pedidos, horarios y preferencias del grupo.
+
+Optimismo y Confianza en que la plataforma funcionará como se espera:
+- Los usuarios sienten optimismo y confianza al usar GastroGo, especialmente después de completar con éxito los primeros pedidos. La plataforma ofrece una experiencia de usuario intuitiva y responde bien a las necesidades de personalización y gestión.
+
+Satisfacción y tranquilidad por la buena experiencia:
+
+- Después de usar la plataforma, los usuarios experimentan un alto nivel de satisfacción y tranquilidad al saber que pueden confiar en GastroGo para sus necesidades de pedidos grupales. La facilidad de uso y la puntualidad en las entregas refuerzan esta percepción positiva.
+
+
+**Negative Points:**
+
+Dificultad al usar la plataforma o un pedido incorrecto:
+
+- Algunos usuarios pueden enfrentar dificultades técnicas o confusión al usar la plataforma, lo que puede llevar a frustraciones. Además, si ocurre un error en un pedido (por ejemplo, una comida incorrecta o un retraso en la entrega), esto puede disminuir la confianza en la plataforma.
+
+Molestia porque la experiencia no fue la esperada:
+
+- Si la experiencia con GastroGo no cumple con las expectativas, ya sea por problemas técnicos, errores en los pedidos o falta de respuesta del soporte, los usuarios pueden sentirse molestos o decepcionados, lo que puede afectar su disposición a seguir usando la plataforma.
+
+**Blank Points:**
+
+Personalizar los pedidos para cada miembro del grupo: 
+
+- Aprender más de como los restaurantes ofrecen este servicio, para nosotros como startup poder aprender y cumplir las expectativas de los usuarios.
+
+
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping

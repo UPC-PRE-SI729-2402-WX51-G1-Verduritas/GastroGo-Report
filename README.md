@@ -707,6 +707,47 @@ Finalmente, Martín estaría dispuesto a ofrecer descuentos o menús especiales 
 - El 33% se identifica como introvertido, prefiriendo actividades más individuales como jugar fútbol o escuchar música.
 
 
+**Análisis para el segmento de Restaurantes:**
+
+- El 100% de los entrevistados son propietarios o gerentes generales de restaurantes y tienen una gran experiencia en el manejo de las operaciones diarias de sus negocios.
+
+
+- El 100% de los entrevistados indicaron tener un estilo de vida activo. Sus pasatiempos varían desde actividades deportivas como el fútbol hasta la lectura y el cine.
+
+
+- El 100% de los entrevistados se consideran personas analíticas, aunque reconocen la importancia de la creatividad en la gestión de sus restaurantes.
+
+
+- El 100% de los entrevistados utiliza dispositivos con sistema operativo Windows, y también emplean otros dispositivos como iPads y smartphones con sistemas operativos iOS o Android.
+
+
+- El 100% de los entrevistados opina que el horario de almuerzo es crucial para el éxito de su restaurante. Aunque los clientes principales varían entre oficinistas, familias y trabajadores, todos coinciden en que atraer y mantener la fidelidad de los clientes durante este periodo es esencial.
+
+
+- El 100% de los entrevistados prefieren ofrecer menús fijos en lugar de personalizar los pedidos. Esto se debe a que les permite una mayor eficiencia operativa, especialmente durante las horas pico.
+
+
+- El 100% de los entrevistados ha enfrentado desafíos al manejar pedidos grupales. Estos incluyen la coordinación de especificaciones detalladas, la división de cuentas, y la necesidad de mantener un servicio rápido y eficiente.
+
+
+- El 100% de los entrevistados estaría interesado en utilizar una plataforma que facilite la gestión de pedidos grupales. Consideran que una herramienta de este tipo les permitiría anticipar la demanda, optimizar la producción en la cocina y mejorar la satisfacción del cliente.
+
+
+- El 100% de los entrevistados estaría dispuesto a ofrecer descuentos o menús especiales a través de una plataforma que garantice un volumen significativo de pedidos. Sin embargo, destacan la importancia de manejar las personalizaciones de manera eficiente para no comprometer la calidad del servicio.
+
+
+- El 66% de los entrevistados se describen como personas extrovertidas. Disfrutan de interactuar con sus clientes y valoran la importancia de la comunicación abierta en sus negocios.
+
+
+- El 66% de los entrevistados utilizan Office 365 para su trabajo diario, destacando el uso de Excel y PowerPoint.
+
+
+- El 66% de los entrevistados estarían dispuestos a ofrecer descuentos o menús especiales a través de una plataforma que garantice un volumen significativo de pedidos, siempre y cuando se puedan manejar las personalizaciones de manera eficiente.
+
+
+- El 33% de los entrevistados utiliza herramientas tecnológicas específicas para la gestión de pedidos. En este caso, la plataforma Infores fue mencionada por uno de los entrevistados como una solución útil, aunque con algunas limitaciones operativas.
+
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix

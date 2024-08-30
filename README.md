@@ -30,7 +30,7 @@ Producto: GastroGo
         </tr>
         <tr>
             <td>Abanto Vicente, Edery Renzo</td>
-            <td>Codigo</td>
+            <td>U201822832</td>
         </tr>
         <tr>
             <td>Cuevas Vera, Jose Angel</td>
@@ -38,7 +38,7 @@ Producto: GastroGo
         </tr>
         <tr>
             <td>Pedraza Maldonado, Joaquin Andree </td>
-            <td>codigo</td>
+            <td>U202218514</td>
         </tr>
         <tr>
             <td>Barrutia Vaez, Ricardo Andree</td>
@@ -74,22 +74,124 @@ Producto: GastroGo
         <tbody>
             <tr>
                 <th>1.0</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>(Que se añadio).</td>
+                <td>08/30/2024</td>
+                <td>Ricardo</td>
+                <td>Se añadió el Startup profile.</td>
             </tr>
               <tr>                
                 <th>1.1</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>(Que se añadio).</td>
+                <td>08/30/2024</td>
+                <td>Fabiola</td>
+                <td>Se añadió el Solution profile.</td>
              </tr>
               <tr>
                 <th>1.2</th>
+                <td>08/30/2024</td>
+                <td>Ricardo</td>
+                <td>Se agregó la sección de los competidores.</td>
+            </tr> 
+             <tr>
+                <th>1.3</th>
+                <td>08/30/2024</td>
+                <td>Fabiola</td>
+                <td>Se agregaron la seccion de entrevistas.</td>
+            </tr> 
+             <tr>
+                <th>1.4</th>
+                <td>08/30/2024</td>
+                <td>Fabiola</td>
+                <td>Se agregó el Needfinding.</td>
+            </tr>
+             <tr>
+                <th>1.5</th>
+                <td>08/30/2024</td>
+                <td>Ricardo</td>
+                <td>Se agregó el Ubiquitous Language.</td>
+            </tr> 
+             <tr>
+                <th>1.6</th>
                 <td>Fecha</td>
                 <td>Nombre</td>
-                <td>(Que se añadio).</td>
-            </tr> 
+                <td>Se agregó el To-Be Scenario Mapping.</td>
+            </tr>
+             <tr>
+                <th>1.7</th>
+                <td>Fecha</td>
+                <td>Nombre</td>
+                <td>Se agregó las User Stories.</td>
+            </tr>
+             <tr>
+                <th>1.8</th>
+                <td>Fecha</td>
+                <td>Nombre</td>
+                <td>Se agregó el Impact Mapping.</td>
+            </tr>
+             <tr>
+                <th>1.9</th>
+                <td>Fecha</td>
+                <td>Nombre</td>
+                <td>Se agregó el Product Backlog.</td>
+            </tr>
+            <tr>
+                <th>1.10</th>
+                <td>Fecha</td>
+                <td>Nombre</td>
+                <td>Se agregó el Style Guidelines.</td>
+            </tr>
+            <tr>
+                <th>1.11</th>
+                <td>Fecha</td>
+                <td>Nombre</td>
+                <td>Se agregó la Information Architecture.</td>
+            </tr>
+            <tr>
+                <th>1.12</th>
+                <td>Fecha</td>
+                <td>Nombre</td>
+                <td>Se agregó la Landing Page UI Design.</td>
+            </tr>
+            <tr>
+                <th>1.13</th>
+                <td>Fecha</td>
+                <td>Nombre</td>
+                <td>Se agregó la Web Applications UX/UI Design.</td>
+            </tr>
+            <tr>
+                <th>1.14</th>
+                <td>Fecha</td>
+                <td>Nombre</td>
+                <td>Se agregó la Web Applications Prototyping.</td>
+            </tr>
+            <tr>
+                <th>1.15</th>
+                <td>Fecha</td>
+                <td>Nombre</td>
+                <td>Se agregó Domain-Driven Software Architecture.</td>
+            </tr>
+            <tr>
+                <th>1.16</th>
+                <td>Fecha</td>
+                <td>Nombre</td>
+                <td>Se agregó la Software Object-Oriented Design.</td>
+            </tr>
+            <tr>
+                <th>1.17</th>
+                <td>Fecha</td>
+                <td>Nombre</td>
+                <td>Se agregó la Database Design.</td>
+            </tr>
+             <tr>
+                <th>1.18</th>
+                <td>Fecha</td>
+                <td>Nombre</td>
+                <td>Se agregó el Software Configuration Management.</td>
+            </tr>
+             <tr>
+                <th>1.19</th>
+                <td>Fecha</td>
+                <td>Nombre</td>
+                <td>Se agregó el Landing Page, Services & Applications Implementation.</td>
+            </tr>
                     </tbody>
 </table>
 

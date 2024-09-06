@@ -402,9 +402,11 @@ Enlace al Figma:
 https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=1-3&t=wDYwqq80w6CGC5hD-1
 
 Para Desktop Browser:
+
 ![Landing Page Mock-Up](assets/img/chapter-4/landing-page-mock-up.png)
 
 Para Mobile Browser:
+
 ![Landing Page Mobile Mock-Up](assets/img/chapter-4/landing-page-mobile-mock-up.png)
 
 

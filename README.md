@@ -340,68 +340,15 @@ Misión: Facilitar la conexión entre grupos de trabajadores y restaurantes loca
 Visión: Convertirnos en la plataforma líder en la gestión de pedidos grupales de comidas, impulsando la eficiencia y fomentando el crecimiento de la gastronomía local.
 
 ### 1.1.2 Perfiles de integrantes del equipo
-<table>
-  <tr>
-    <th>Información</th>
-    <th>Foto</th>
-  </tr>
-  <tr>
-    <td>
-      <h2>[Ricardo Andree Barrutia Vaez]</h2>
-      <p>Código: [U201714765]</p>
-      <p>Conocimientos y Habilidades: <br>
-      Como estudiante de ingeniería de software he
-      adquirido conocimientos de C++, Java y de Ionic.
-      Con respecto a las habilidades más destacables 
-      de mi persona, considero que el trabajo en
-      equipo es una de ellas.  Además de la capacidad
-      resolutiva a la par que adaptativa ante diversas
-      situaciones.
-</p>
-    </td>
-    <td><img src="assets/img/chapter-1/img-ricardo.jpg"  alt=" " width="50%" ;"></img></td>
-  </tr>
-  <tr>
-    <td>
-      <h2>[Joaquín Andreé Pedraza Maldonado]</h2>
-      <p>Código: [codigo]</p>
-      <p>Conocimientos y Habilidades: <br>
-       Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad .Soy una persona centrada , perseverante , tranquila  , optimista y efectiva.</p>
-    </td>
-   <td><img src="assets/img/chapter-1/img-joaquin.jpeg" alt=" " width="60%";"></img></td>
 
-  </tr>
-  <tr>
-    <td>
-      <h2>[José Angel Cuevas Vera]</h2>
-      <p>Código: [U202214632]</p>
-      <p>Conocimientos y Habilidades: [<br>
-      Mi nombre es José Angel Cuevas Vera y tengo 19 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona intuitiva que siempre busca ver el lado positivo de las cosas, pero con los pies bien plantados en la realidad. Tengo conocimientos en el uso de programas de edición como Photoshop y un manejo básico de lenguajes de programación. Siempre busco dar lo mejor de mí para realizar un buen trabajo y estaré pendiente de cualquier responsabilidad para cumplir correctamente con el presente proyecto.    </td>
-<td><img src="assets/img/chapter-1/img-jose.jpg" alt=" " width="50%";"></img></td>
-  </tr>
- <tr>
-    <td>
-      <h2>[Fabiola Ximena Espinoza Inoñan]</h2>
-      <p>Código: [u202214784]</p>
-      <p>Conocimientos y Habilidades: <br>
-        Mi nombre es Fabiola Espinoza, tengo 20 años.
-Actualmente estoy cursando el cuarto ciclo en la
-carrera de Ingeniería de Software en la prestigiosa
-Universidad Peruana de Ciencias Aplicadas. Me
-considero una persona responsable, creativa y
-empática.</p>
-    </td>
-<td><img src="assets/img/chapter-1/img-fabiola.png" alt=" " width="50%";"></img></td>
-  </tr>
- <tr>
-    <td>
-      <h2>[Edery Renzo Abanto Vicente]</h2>
-      <p>Código: [codigo]</p>
-      <p>Conocimientos y Habilidades:  <br>
-      Texto </td>
-<td><img src="assets/img/chapter-1/img-edery.jpg" alt=" " width="60%";"></img></td>
-  </tr>
-</table>
+| Información                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Foto                                                      |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|
+| **Ricardo Andree Barrutia**<br><br>Código: U201714765<br><br>Conocimientos y Habilidades: <br> <br>Como estudiante de ingeniería de software he adquirido conocimientos de C++, Java y de Ionic. Con respecto a las habilidades más destacables de mi persona, considero que el trabajo en equipo es una de ellas. Además de la capacidad resolutiva a la par que adaptativa ante diversas situaciones.<br>                                                                                                                                                                                                                                                                                                                                                         | ![Ricardo Barrutia](assets/img/chapter-1/img-ricardo.jpg) |
+| **Joaquín Andreé Pedraza Maldonado**<br><br>Código: U202218514<br><br>Conocimientos y Habilidades:<br><br>Mi nombre es Joaquín Andreé Pedraza Maldonado , tengo 20 años y actualmente me encuentro en 6to ciclo de la carrera de Ingeniería de Software , en la UPC , sede San Miguel. Al terminar mi carrera desearía dedicarme al rubro de desarrollo Web o cyberseguridad .Soy una persona centrada , perseverante , tranquila  , optimista y efectiva.                                                                                                                                                                                                                                                                                                          | ![Joaquín Pedraza](assets/img/chapter-1/img-joaquin.png)  |
+| **José Angel Cuevas Vera**<br><br>Código: U202214632<br><br>Conocimientos y Habilidades:<br><br>Mi nombre es José Angel Cuevas Vera y tengo 19 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona intuitiva que siempre busca ver el lado positivo de las cosas, pero con los pies bien plantados en la realidad. Tengo conocimientos en el uso de programas de edición como Photoshop y un manejo básico de lenguajes de programación. Siempre busco dar lo mejor de mí para realizar un buen trabajo y estaré pendiente de cualquier responsabilidad para cumplir correctamente con el presente proyecto.                                                               | ![Jose Cuevas ](assets/img/chapter-1/img-jose.png)        |
+| **Fabiola Ximena Espinoza Inoñan**<br><br>Código: u202214784<br><br>Conocimientos y Habilidades: <br><br>Mi nombre es Fabiola Espinoza, tengo 20 años. Actualmente estoy cursando el cuarto ciclo en la carrera de Ingeniería de Software en la prestigiosa Universidad Peruana de Ciencias Aplicadas. Me considero una persona responsable, creativa y empática.                                                                                                                                                                                                                                                                                                                                                                                                   | ![Fabiola Espinoza](assets/img/chapter-1/img-fabiola.png) |
+| **Edery Renzo Abanto Vicente**<br><br>Código: U201822832<br><br>Conocimientos y Habilidades:  <br><br>Estudiante de Ingeniería de Software con 24 años, 8vo ciclo, apasionado por el desarrollo tecnológico. Mi formación sólida y experiencia en proyectos universitarios me capacitan para enfrentar desafíos en entornos profesionales dinámicos. Comprometido con la excelencia y la innovación, estoy listo para contribuir al mundo del desarrollo de software. Con habilidades avanzadas en C#, MySQL, Flutter, Python, automatización de procesos, mi experiencia se centra en el análisis y diseño de sistemas. Listo para impulsar el desarrollo de aplicaciones eficientes, desde el diseño de base de datos hasta la implementación de servicios clave. | ![Edery Abanto](assets/img/chapter-1/img-edery.png)       |
+
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática

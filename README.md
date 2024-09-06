@@ -423,6 +423,10 @@ Tracking component diagram:
 
 ![Tracking component](assets/img/chapter-4/trackingcomponetn.jpg)
 
+Sales component diagram:
+
+![Sales component](assets/img/chapter-4/salescomponent.jpg)
+
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams

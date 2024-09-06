@@ -435,6 +435,8 @@ En esta sección se expondrá la propuesta para la página de aterrizaje y se of
 
 ## 4.3.2 Landing Page Mock Up
 
+IMGS
+
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes

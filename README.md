@@ -383,6 +383,53 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
 
+Este apartado tiene como objetivo proporcionar una descripción detallada de los productos de software utilizados en el proyecto, así como de su configuración y despliegue. Al documentar estos aspectos, se busca facilitar la colaboración de los desarrolladores actuales y futuros, asegurando que puedan comprender y manejar eficientemente el ciclo de vida del software, desde el desarrollo hasta la implementación.
+
+**Project Management:**
+
+
+- Trello: Se utilizó Trello para organizar y hacer un seguimiento de las tareas del proyecto. Esta herramienta permite visualizar el progreso de cada actividad, asignar responsabilidades y gestionar el flujo de trabajo del equipo. 
+
+- Google Meet: Google Meet fue utilizado para llevar a cabo reuniones virtuales entre los miembros del equipo. Esta plataforma permite realizar videollamadas con opciones de compartir pantalla y grabar las sesiones. 
+
+
+**Requirements Management:**
+
+
+Trello: En el manejo de los requerimientos se utilizó Trello, una herramienta que facilita la colaboración en equipo para gestionar el backlog. Trello proporciona una vista cómoda y estructurada de las tareas pendientes, permitiendo que todos los miembros del equipo puedan priorizar y enfocarse en los objetivos comunes. Además, ofrece la flexibilidad de organizar y reorganizar las tareas según las necesidades del proyecto. Su uso es gratuito y solo requiere que los usuarios se registren para aprovechar todas sus funcionalidades.
+
+**Product UX/UI Desing**
+
+- UXPressia: Utilizada para la creación de User Personas, User Journey Maps y Empathy Maps, esta herramienta se destaca por sus plantillas prediseñadas que simplifican el desarrollo de estos artefactos. Además, es una plataforma colaborativa y gratuita, accesible para todos los navegadores tras un sencillo registro.
+
+- Miro: Se empleó para la construcción y mapeo de escenarios como el As-is mapping, sirviendo a los objetivos de ambos segmentos definidos. Su capacidad para facilitar el trabajo colaborativo lo convierte en una herramienta valiosa para el desarrollo de estrategias visuales.
+
+- Figma: Esta herramienta fue fundamental en la creación de wireframes y prototipos de aplicaciones móviles, permitiendo un enfoque colaborativo en tiempo real. Figma es accesible de manera gratuita al registrarse, lo que la hace una opción popular para equipos de diseño que buscan eficiencia y versatilidad.
+
+
+**Software Development**
+
+Landing Page:
+- El landing page fue desarrollado empleando HTML5, CSS3 y JavaScript. HTML5 se encargó de la estructura básica del contenido, mientras que CSS3 se utilizó para estilizar la página, asegurando un diseño visual atractivo y coherente. JavaScript, por su parte, agregó interactividad, permitiendo funcionalidades dinámicas que mejoraron la experiencia del usuario. Estas tecnologías combinadas permitieron la creación de un landing page funcional y estéticamente agradable.
+
+
+**IDE's de desarrollo**
+Visual Studio Code : https://code.visualstudio.com/.es 
+- Es un IDE muy adaptable que ofrece una experiencia de desarrollo optimizada y personalizable. Dispone de una extensa selección de extensiones que permiten ampliar sus capacidades.
+
+**Software testing**
+
+Para las pruebas de software de la landing page, se utilizaron las herramientas de desarrollador de los navegadores web más populares, como Google Chrome (https://www.google.com/chrome/), Microsoft Edge (https://www.microsoft.com/en-us/edge), y Mozilla Firefox (https://www.mozilla.org/en-US/firefox/browsers/). Estos navegadores ofrecen aplicaciones tanto para escritorio como para dispositivos móviles, todas completamente gratuitas.
+
+**Software Documentation**
+
+- Google Drive: Fue utilizado como plataforma central para almacenar y compartir documentos y presentaciones, facilitando la colaboración en tiempo real. Herramientas complementarias como Google Docs permitieron la creación y edición colaborativa de informes y presentaciones, optimizando la entrega de documentación de alta calidad.
+
+- Lucidchart: Esta herramienta resultó clave para el desarrollo de wireflows, user flows y diagramas UML, ofreciendo una interfaz intuitiva que permite a los usuarios crear diagramas y procesos secuenciales de forma rápida y eficiente. Lucidchart es accesible desde cualquier navegador y solo requiere una cuenta registrada, lo que la convierte en una opción versátil para el diseño de flujos y diagramas técnicos.
+
+- Structurizr: Se empleó para la creación de diagramas C4, que son fundamentales en la visualización de la arquitectura de software. La herramienta permite una creación rápida y precisa de diagramas utilizando una sintaxis parecida a la de un lenguaje de programación. Su accesibilidad a través de un registro en la web la hace una opción robusta para arquitectos de software que buscan una herramienta especializada.
+
+
 ### 5.1.2. Source Code Management
 
 ### 5.1.3. Source Code Style Guide & Conventions

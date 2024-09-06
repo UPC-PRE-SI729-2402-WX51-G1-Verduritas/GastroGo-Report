@@ -480,6 +480,51 @@ Ejemplo Landing Page:
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+
+Para el diseño y construcción de la landing page, utilizamos HTML y CSS, siguiendo las recomendaciones de style guide de Google para HTML/CSS. Esta guía nos orienta en cómo escribir código de manera eficiente y estandarizada. Algunas de las prácticas que adoptamos incluyen:
+
+- Declarar el tipo de documento para asegurar que los navegadores interpreten correctamente el código.
+
+- Escribir los elementos HTML en minúsculas (por ejemplo, `<p>`, `<h1>`, `<section>`, `<header>`) para mantener la consistencia y legibilidad.
+
+- Declarar entre comillas los atributos de los elementos HTML, como en `'<p class="nombre"></p>`, para evitar errores de interpretación.
+
+- Especificar atributos esenciales como `alt`, `width`, y `height` en las imágenes, mejorando tanto la accesibilidad como el rendimiento de la página.
+
+- Mantener las líneas de código concisas, evitando que sean demasiado largas, lo que facilita la lectura y el mantenimiento del código.
+
+- Incluir siempre el elemento `<title>` en la cabecera del documento para definir el título de la página web.
+
+- Emplear metaetiquetas (meta tags) al inicio del documento para establecer la codificación de caracteres, la descripción y otras configuraciones esenciales que mejoran la indexación y visualización de la página.
+
+En cuanto al uso de JavaScript, seguimos las pautas de style guide de Google para JavaScript, asegurando un código limpio y bien estructurado. Algunas de las convenciones que aplicamos son:
+
+- Nombrar variables y funciones utilizando el estilo camelCase, como en `numberArray`, para mejorar la claridad del código.
+
+- Utilizar comillas simples `(')` para definir cadenas de texto, en línea con las mejores prácticas recomendadas.
+
+- Finalizar cada sentencia con un punto y coma `(;)` para evitar posibles errores de ejecución.
+
+- Preferir el uso de `let` y `const` en lugar de `var` para la declaración de variables, garantizando una mejor gestión del alcance de las variables.
+
+Para el uso del lenguaje Gherkin en nuestro proyecto, adoptaremos las prácticas recomendadas en el artículo "Make your Gherkin Specifications More Readable", con el objetivo de asegurar que las especificaciones sean claras y comprensibles para todo el equipo de desarrollo y futuros miembros del equipo. Los archivos generados estarán en formato .feature, lo que facilita su identificación y manejo.
+Para obterner información adicional sobre un mejor uso del Gherkin, revisar el siguiente enlace : https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+
+A continuación, se destacan algunas de las convenciones que seguiremos:
+
+- Redacción en un lenguaje sencillo y accesible: Las especificaciones se escribirán en un lenguaje que sea fácil de entender por todos los miembros del equipo, independientemente de su experiencia técnica.
+
+- Uso de las palabras clave `Given`, `When`, `Then`, y `And`: Estas palabras estructuran los pasos de los escenarios, lo que facilita la comprensión y la coherencia en la descripción de las pruebas.
+
+- Empleo de verbos en forma finita: Se utilizarán verbos claros y directos para describir las acciones en los escenarios, asegurando precisión y claridad.
+
+- Eliminación de redundancias: Evitaremos repeticiones innecesarias en la descripción de los pasos del escenario, garantizando que cada paso sea conciso y directo.
+
+- Consistencia en el formato y estilo: Mantendremos un formato y estilo uniforme en todas las especificaciones, lo que facilita la lectura y el mantenimiento del conjunto de pruebas.
+
+Estas convenciones no solo mejorarán la legibilidad de nuestras especificaciones, sino que también facilitarán la colaboración entre los diferentes miembros del equipo, asegurando que todos comprendan y sigan las mismas directrices.
+
+
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation

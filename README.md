@@ -444,9 +444,14 @@ Segmento Objetivo: Grupos de trabajadores en oficinas que realizan pedidos de al
 | **E10 - US044**      | Endpoint para Gestión de Pedidos Grupales | Como desarrollador, quiero tener endpoints para gestionar los pedidos grupales, permitiendo crear, actualizar, consultar y eliminar pedidos grupales. | 1. Creación de Pedido Grupal: Dado que un usuario crea un nuevo pedido grupal, cuando se realiza una petición POST al endpoint /api/group-orders con los detalles del pedido, entonces el sistema debe crear el pedido y devolver una confirmación con los detalles del pedido. <br> 2. Consulta de Pedido Grupal: Dado que un usuario consulta un pedido grupal existente, cuando se realiza una petición GET al endpoint /api/group-orders/{orderId}, entonces el sistema debe devolver los detalles del pedido con el ID especificado. <br> 3. Actualización y Eliminación de Pedido Grupal: Dado que un usuario actualiza o elimina un pedido grupal, cuando se realiza una petición PUT o DELETE al endpoint /api/group-orders/{orderId}, entonces el sistema debe actualizar o eliminar el pedido y devolver una confirmación de éxito. | Epic 10                       |
 | **E10 - US045**      | Endpoint para Recomendaciones Personalizadas | Como desarrollador, quiero tener un endpoint para obtener recomendaciones personalizadas de restaurantes y platos basadas en pedidos anteriores. | 1. Solicitud de Recomendaciones: Dado que un usuario solicita recomendaciones, cuando se realiza una petición GET al endpoint /api/recommendations con el ID del usuario, entonces el sistema debe devolver una lista de recomendaciones basadas en los pedidos anteriores del usuario. <br> 2. Personalización de Recomendaciones: Dado que el sistema genera recomendaciones, cuando se consideran los pedidos anteriores del usuario, entonces el sistema debe ofrecer recomendaciones personalizadas que se alineen con las preferencias y comportamientos del usuario. | Epic 10                       |
 
-
-
 ## 3.3. Impact Mapping
+Grupos de Trabajadores:
+![](assets/img/chapter-2/impact-mapping.PNG) 
+![](assets/img/chapter-2/impact-mapping_1.1.PNG) 
+
+Restaurante:
+![](assets/img/chapter-2/impact-mapping_restaurante.PNG) 
+
 ## 3.4. Product Backlog
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines

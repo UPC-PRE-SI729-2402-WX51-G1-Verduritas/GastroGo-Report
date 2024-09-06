@@ -419,6 +419,11 @@ Container diagram:
 ![Container Diagram](assets/img/chapter-4/containerdiagram.jpg)
 ### 4.6.3. Software Architecture Components Diagrams
 
+Tracking component diagram:
+
+![Tracking component](assets/img/chapter-4/trackingcomponetn.jpg)
+
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 

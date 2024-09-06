@@ -558,6 +558,8 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+Durante el sprint 1, se centró en el desarrollo de la landing page como primera tarea prioritaria. Dado que el enfoque principal fue establecer la estructura y diseño inicial de la página, no se integraron ni utilizaron servicios web en esta etapa. La implementación de servicios web se considerará en sprints futuros, una vez que la landing page esté completamente desplegada.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint

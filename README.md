@@ -413,6 +413,10 @@ Context diagram:
 
 ![Context Diagram](assets/img/chapter-4/contextdiagram.jpg)
 ### 4.6.2. Software Architecture Container Diagrams
+Container diagram:
+
+
+![Container Diagram](assets/img/chapter-4/containerdiagram.jpg)
 ### 4.6.3. Software Architecture Components Diagrams
 
 ## 4.7. Software Object-Oriented Design

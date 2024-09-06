@@ -110,26 +110,26 @@ Producto: GastroGo
             </tr> 
              <tr>
                 <th>1.6</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
+                <td>09/06/2024</td>
+                <td>José</td>
                 <td>Se agregó el To-Be Scenario Mapping.</td>
             </tr>
              <tr>
                 <th>1.7</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
+                <td>09/06/2024</td>
+                <td>José<</td>
                 <td>Se agregó las User Stories.</td>
             </tr>
              <tr>
                 <th>1.8</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
+                <td>09/06/2024</td>
+                <td>José<</td>
                 <td>Se agregó el Impact Mapping.</td>
             </tr>
              <tr>
                 <th>1.9</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
+                <td>09/06/2024</td>
+                <td>José<</td>
                 <td>Se agregó el Product Backlog.</td>
             </tr>
             <tr>

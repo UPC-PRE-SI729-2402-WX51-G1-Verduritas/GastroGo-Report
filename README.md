@@ -458,6 +458,19 @@ Restaurante:
 
 ## 3.4. Product Backlog
 
+| **Orden** | **User Story Id** | **Título**                                    | **Descripción**                                                                                               | **Story Points (1 / 2 / 3 / 5 / 8)** |
+|-----------|-------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------|
+| 1         | E1 - US001        | Barra de navegación                          | Como visitante, quiero ver una barra de navegación en la parte superior de la página para poder acceder fácilmente a las secciones principales del sitio. | 3                                 |
+| 2         | E1 - US002        | Sección de Introducción                      | Como visitante, quiero leer una breve introducción sobre "Gastro Go" para entender qué ofrece la aplicación. | 2                                 |
+| 3         | E1 - US003        | Sección de Funcionalidades                   | Como visitante, quiero ver una lista de funcionalidades destacadas de la aplicación para evaluar si satisface mis necesidades. | 3                                 |
+| 4         | E1 - US004        | Sección de Cómo Funciona                     | Como visitante, quiero comprender el proceso de uso de la aplicación “Gastro Go” para saber cómo funciona en la práctica. | 3                                 |
+| 5         | E1 - US005        | Sección de Testimonios                       | Como visitante, quiero leer testimonios de usuarios actuales para conocer la experiencia de otras personas con la aplicación. | 2                                 |
+| 6         | E1 - US006        | Sección de Contacto                          | Como visitante, quiero encontrar un formulario de contacto para poder enviar consultas o solicitar más información sobre la aplicación. | 2                                 |
+| 7         | E2 - US007        | Registro de usuario                          | Como nuevo usuario, quiero poder registrarme en la plataforma proporcionando mi información personal básica para poder acceder a sus funcionalidades. | 5                                 |
+| 8         | E2 - US008        | Inicio de sesión                             | Como usuario registrado, quiero iniciar sesión utilizando mi dirección de correo electrónico y contraseña para acceder a mi cuenta. | 3                                 |
+| 9         | E2 - US009        | Recuperación de contraseña                   | Como usuario, quiero recuperar mi contraseña en caso de olvidarla para poder restablecer el acceso a mi cuenta. | 3                                 |
+| 10        | E2 - US010        | Cierre de sesión                             | Como usuario, quiero poder cerrar sesión en la aplicación para asegurar que mi cuenta permanezca protegida cuando no esté en uso. | 2                                 |
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ## 4.2. Information Architecture

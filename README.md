@@ -726,94 +726,20 @@ En esta sección, mostramos perfiles ficticios que representan a los segmentos d
 ### 2.3.2. User Task Matrix
 
 La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios llevan a cabo al utilizar nuestra startup. Al clasificar estas tareas según su frecuencia e importancia para los usuarios, podemos priorizar nuestros recursos en desarrollo y diseño para optimizar su experiencia.
-<table>
-  <tr>
-    <th rowspan="2">User task</th>
-    <th colspan="2">Lucas Fernández 
 
-Trabajador</th>
-    <th colspan="2">Carlos López 
-
-Gerente de Restaurante</th>
-  </tr>
-
-  <tr>
-    <td>Frecuencia</td>
-    <td>Importante</td>
-    <td>Frecuencia</td>
-    <td>Importante</td>
-  </tr>
-  <tr>
-    <td>Realizar pedidos grupales a restaurantes</td>
-    <td align="center">Often</td>
-    <td align="center">High</td>
-    <td align="center">Often</td>
-    <td align="center">Medium</td>
-  </tr>
-  <tr>
-    <td>Recibir confirmación de pedido</td>
-    <td align="center">Always</td>
-    <td align="center">High</td>
-    <td align="center">Always</td>
-    <td align="center">High</td>
-  </tr>
-  <tr>
-    <td>Coordinar con compañeros para elegir opciones</td>
-    <td align="center">Sometimes</td>
-    <td align="center">Medium</td>
-    <td align="center">Never</td>
-    <td align="center">Low</td>
-  </tr>
-  <tr>
-    <td>Resolver problemas con pedidos (errores, retrasos)	</td>
-    <td align="center">Sometimes</td>
-    <td align="center">Medium</td>
-    <td align="center">Always</td>
-    <td align="center">High</td>
-  </tr>
-  <tr>
-    <td>Recibir notificaciones sobre el estado del pedido	</td>
-    <td align="center">Always</td>
-    <td align="center">High</td>
-    <td align="center">Always</td>
-    <td align="center">High</td>
-  </tr>
-  <tr>
-    <td>Gestionar y actualizar la disponibilidad del menú</td>
-    <td align="center">Never</td>
-    <td align="center">Low</td>
-    <td align="center">Always </td>
-    <td align="center">High</td>
-  </tr>
-  <tr>
-    <td>Consultar menús y precios de restaurantes</td>
-    <td align="center">Always</td>
-    <td align="center">High</td>
-    <td align="center">Often </td>
-    <td align="center">High</td>
-  </tr>
-  <tr>
-    <td>Realizar seguimiento de la satisfacción del cliente</td>
-    <td align="center">Never</td>
-    <td align="center">Medium</td>
-    <td align="center">Often</td>
-    <td align="center">High</td>
-  </tr>
-  <tr>
-    <td>Revisar feedback y sugerencias de usuarios</td>
-    <td align="center">Sometimes</td>
-    <td align="center">Medium</td>
-    <td align="center">Often</td>
-    <td align="center">High</td>
-  </tr>
-  <tr>
-    <td>Integrar el sistema de pedidos con el sistema de pago</td>
-    <td align="center">Never</td>
-    <td align="center">Low</td>
-    <td align="center">Often </td>
-    <td align="center">High</td>
-  </tr>
-</table>
+| User task                                       | Lucas Fernández<br>Trabajador | Carlos López<br>Gerente de Restaurante |
+|-------------------------------------------------|-------------------------------|---------------------------------------|
+|                                                 | Frecuencia | Importante            | Frecuencia | Importante            |
+| Realizar pedidos grupales a restaurantes        | Often      | High                  | Often      | Medium                |
+| Recibir confirmación de pedido                  | Always     | High                  | Always     | High                  |
+| Coordinar con compañeros para elegir opciones   | Sometimes  | Medium                | Never      | Low                   |
+| Resolver problemas con pedidos (errores, retrasos) | Sometimes  | Medium                | Always     | High                  |
+| Recibir notificaciones sobre el estado del pedido | Always     | High                  | Always     | High                  |
+| Gestionar y actualizar la disponibilidad del menú | Never      | Low                   | Always     | High                  |
+| Consultar menús y precios de restaurantes       | Always     | High                  | Often      | High                  |
+| Realizar seguimiento de la satisfacción del cliente | Never      | Medium                | Often      | High                  |
+| Revisar feedback y sugerencias de usuarios      | Sometimes  | Medium                | Often      | High                  |
+| Integrar el sistema de pedidos con el sistema de pago | Never      | Low                   | Often      | High                  |
 
 Sobre el Task Matrix podemos identificar las tareas de mayor frecuencia e importancia, así como las diferencias y coincidencias entre los grupos de usuarios: trabajadores y dueños de restaurante
 

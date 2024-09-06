@@ -432,6 +432,52 @@ Para las pruebas de software de la landing page, se utilizaron las herramientas 
 
 ### 5.1.2. Source Code Management
 
+Para gestionar y organizar los distintos cambios en el proyecto, se utilizó una organización en GitHub, lo que facilitó el control de versiones y la colaboración en el código fuente.
+
+- [**Organización en GitHub**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty)
+
+- [**Landing Page Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Landing-Page)
+
+- [**Report Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report)
+
+
+
+Con el fin de optimizar el manejo de ramas y la implementación de modificaciones en el código, se adoptó la metodología GitFlow. Este enfoque estructuró el desarrollo en dos ramas principales:
+
+
+- **Main:** Destinada a albergar las versiones oficiales de nuestro software, es decir, aquellas que están listas para ser implementadas en producción.
+
+
+- **Develop:** Esta rama funciona como el entorno de integración, donde se unifican las funcionalidades en desarrollo. Una vez que el código en esta rama alcanza la estabilidad y es aprobado por el equipo, se fusiona en la rama de lanzamiento.
+
+
+Esta rama es la rama principal donde se integran todas las características. Cuando se completa un feature de un capítulo, se debe fusionar con el 'develop'.
+
+
+**Ramas auxiliares**
+
+- **Feature:** Se usa para desarrollar nuevas funcionalidades o mejoras a partir de la rama develop y luego integrarlas con ella al finalizar el trabajo. Estas ramas permiten trabajar en el código sin comprometer la estabilidad de la rama principal, 'develop', y facilitan la revisión y gestión de las características antes de su integración.
+
+Para las ramas `'features'`, hemos adoptado la siguiente convención de nombres: `'feature/feature-name'`.
+
+Donde:
+
+- Feature: Es el nombre de la rama.
+
+- Feature-name: Es el nombre de la características que se están por desarrollar
+
+Ejemplo Report:
+- Se crea una rama de `'feature/chapter-1'` a partir de la rama develop
+
+- Se trabaja en la rama de `'feature/chapter-1'`
+
+- Se hace un merge de la rama de `'feature/chapter-1'` a la rama develop
+
+Ejemplo Landing Page:
+
+- `'feature/html-structure'`. Indicando la sección a implementar.
+
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 ### 5.1.4. Software Deployment Configuration

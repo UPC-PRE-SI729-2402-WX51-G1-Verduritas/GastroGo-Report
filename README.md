@@ -527,9 +527,26 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 
 ### 5.1.4. Software Deployment Configuration
 
+<p align="center">
+  <img src="assets/img/chapter-5/img-sprint-1.png" alt=" " width="100%">
+</p>
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
+| **Sprint #**                    | Sprint 1                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Sprint Planning Date**        | 20/08/2024                                                                |
+| **Time**                        | 22:00 PM                                                                  |
+| **Location**                    | Google Meet                                                               |
+| **Prepared By**                 | Ricardo Barrutia                                                               |
+| **Attendees**                   | Ricardo Barrutia, Edery Abanto, Jose Cuevas, Fabiola Espinoza, Joaquin Pedraza       |
+| **Sprint Review Summary**       | En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint. |
+| **Sprint Retrospective Summary**| En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint. |
+| **Sprint Goal**                 | En este sprint se tiene como objetivo el desarrollo de la landing page y el despliegue de la misma. Además, durante las diversas reuniones del equipo se determinó el contenido y diseño de la landing page, el cual fue implementado en Figma. Una vez concluido el sprint, la landing debe estar desplegada en GitHub Pages y los usuarios podrán acceder a la misma a través del link. |
+| **Sprint Velocity**             |    8                                                                       |
+| **Sum of Story Points**         | 8 Story points                                                              |
 
 #### 5.2.1.2. Sprint Backlog 1
 

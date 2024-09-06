@@ -432,9 +432,9 @@ En la página de aterrizaje, la barra de navegación y un botón para acceder di
 ## 4.3. Landing Page UI Design
 En esta sección se expondrá la propuesta para la página de aterrizaje y se ofrecerán vistas preliminares del prototipo de la aplicación en línea. Primero se mostrarán los wireframes, seguidos del prototipo en sus versiones web y móvil. Además, los diseños incorporarán las directrices de web mencionadas anteriormente. La herramienta utilizada fue Figma, que facilita la colaboración en tiempo real entre los miembros del equipo a distancia.
 ## 4.3.1. Landing Page Wireframe
---IMAGENES--
+
 ## 4.3.2 Landing Page Mock Up
---IMAGEN--
+
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
@@ -443,11 +443,16 @@ En esta sección se expondrá la propuesta para la página de aterrizaje y se of
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
+--IMG--
 ### 4.6.1. Software Architecture Context Diagram
+img
 ### 4.6.2. Software Architecture Container Diagrams
+img
 ### 4.6.3. Software Architecture Components Diagrams
+img
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+img
 ### 4.7.2. Class Dictionary
 
 Restaurant:

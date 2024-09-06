@@ -460,7 +460,7 @@ Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro p�
   <img src="assets/img/chapter-2/img-entrevista-trabajadores-1.png" alt=" " width="50%">
 </p>
 
-[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=Z68TgT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) (Comienzo 00: 00:00 Fin -00:05:48)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=Z6ZJw4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) (Comienzo 00:00:00 Fin - 00:05:48)
 
 Jonathan Berrocal en la actualidad es un estudiante de séptimo ciclo de la carrera de ingeniería de sistemas de información en la universidad de ciencias aplicadas. Asimismo se encuentra realizando prácticas en la empresa Diners Club.
 
@@ -496,40 +496,40 @@ Por último, le gustaría que la aplicación de pedidos grupales ofreciera recom
   <img src="assets/img/chapter-2/img-entrevista-trabajadores-2.png" alt=" " width="55%">
 </p>
 
-[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=UWHYgR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQ4Ljc4fX0%3D)  (Comienzo 00:05:48 - Fin 00:13:02)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=3mAPA9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQ4Ljc5fX0%3D)  (Comienzo 00:05:48 - Fin 00:13:02)
 
 
 Raul Sulca nos comentó que estudió en la Universidad Nacional Mayor de San Marcos, y actualmente es Ingeniero Agromono. Asimismo, se encuentra trabajando en SGS del Perú S.A.C. en el distrito del Callao.
 
-En cuanto a sus preferencias personales y estilo de vida, Raul nos comenta que es una persona extrovertida. Sus principales pasatiempos actualmente son viajar  y bailar salsa. Además, se considera una persona analítica en lo que respecta a su trabajo y, en términos de enfoque, se define como una persona muy racional. 
+En cuanto a sus preferencias personales y estilo de vida, Raul nos comenta que es una persona extrovertida. Sus principales pasatiempos actualmente son viajar  y bailar salsa. Además, se considera una persona analítica en lo que respecta a su trabajo y, en términos de enfoque, se define como una persona muy racional.
 
-Raul nos compartió sus preferencias tecnológicas: utiliza una laptop con sistema operativo Windows y un dispositivo móvil con sistema operativo Android. Su navegador de preferencia es Google Chrome. Finalmente, en cuanto a redes sociales, Raul utiliza frecuentemente Facebook, Instagram y TikTok. 
+Raul nos compartió sus preferencias tecnológicas: utiliza una laptop con sistema operativo Windows y un dispositivo móvil con sistema operativo Android. Su navegador de preferencia es Google Chrome. Finalmente, en cuanto a redes sociales, Raul utiliza frecuentemente Facebook, Instagram y TikTok.
 
-Raul nos ha compartido su experiencia a la hora de realizar pedidos grupales en la empresa donde actualmente labora. La importancia de elegir donde almorzar durante su jornada laboral es primordial. Prefiere comer en el comedor de la empresa y en algunos casos, comprar su comida por su lugar de trabajo o pedirla, ya que le resulta más fácil, ya que el lugar donde trabaja es zona industrial. 
+Raul nos ha compartido su experiencia a la hora de realizar pedidos grupales en la empresa donde actualmente labora. La importancia de elegir donde almorzar durante su jornada laboral es primordial. Prefiere comer en el comedor de la empresa y en algunos casos, comprar su comida por su lugar de trabajo o pedirla, ya que le resulta más fácil, ya que el lugar donde trabaja es zona industrial.
 
 Raul realiza pedidos grupales con sus colegas de vez en cuando, usualmente cuando hay un antojo común o cuando deciden hacer un pedido en conjunto. Las necesidades varían según las preferencias del grupo.
 
 Al elegir un restaurante, Raul considera la rapidez y la calidad de la comida, él elige estas dos opciones porque el tiempo de comida es limitado y prefiere que al realizar un pedido, llegue rápido y que la calidad sea buena.
 
-Raul ha enfrentado dificultades al recibir sus pedidos, nos comenta que al momento de recibirlo, el pedido que hizo llega incompleto o no llega lo que pidió, y tiene que cancelar el pedido o lo acepta para evitar más complicaciones. 
+Raul ha enfrentado dificultades al recibir sus pedidos, nos comenta que al momento de recibirlo, el pedido que hizo llega incompleto o no llega lo que pidió, y tiene que cancelar el pedido o lo acepta para evitar más complicaciones.
 
-Raul estaría interesado en una plataforma que facilitara los pedidos grupales y ofreciera menús con mayor variedad y evitar los errores en las entregas. Le parece útil, ya que le ahorrará tiempo y evitará más complicaciones. 
+Raul estaría interesado en una plataforma que facilitara los pedidos grupales y ofreciera menús con mayor variedad y evitar los errores en las entregas. Le parece útil, ya que le ahorrará tiempo y evitará más complicaciones.
 
-También nos comenta que estaría dispuesto a pagar una pequeña tarifa adicional por un servicio que le permita gestionar  de manera rápida sus pedidos, y que sea rápido y al mismo tiempo la comida sea de calidad. 
+También nos comenta que estaría dispuesto a pagar una pequeña tarifa adicional por un servicio que le permita gestionar  de manera rápida sus pedidos, y que sea rápido y al mismo tiempo la comida sea de calidad.
 
-Por último, le gustaría que la aplicación de pedido grupales sea amigable con el usuario, fácil de manejar al momento de realizar pedidos y que no tenga caídas en el sistema. 
+Por último, le gustaría que la aplicación de pedido grupales sea amigable con el usuario, fácil de manejar al momento de realizar pedidos y que no tenga caídas en el sistema.
 
 **Entrevista #03: Daniel Vazquez (25 años - San Juan de Lurigancho) - 28 de agosto del 2024**
 
-[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=HvvBXV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NzgyLjczfX0%3D)  (Comienzo 00:13:02 - Fin 00:23:01)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=pkLHZB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NzgyLjYyfX0%3D)  (Comienzo 00:13:02 - Fin 00:23:01)
 
 <p align="center">
   <img src="assets/img/chapter-2/img-entrevista-trabajadores-3.png" alt=" " width="55%">
 </p>
 
-Daniel Vasquez nos comenta que es bachiller de Derecho de la Universidad Nacional Pedro Ruiz Gallo de Chiclayo. Asimismo, se encuentra trabajando en la Corte Superior de Lima. 
+Daniel Vasquez nos comenta que es bachiller de Derecho de la Universidad Nacional Pedro Ruiz Gallo de Chiclayo. Asimismo, se encuentra trabajando en la Corte Superior de Lima.
 
-En cuanto a sus preferencias personales y estilo de vida, Daniel nos comenta que es una persona extrovertida. Sus principales pasatiempos actualmente son bailar y ver videos de stand comedy. Además, utiliza redes sociales como Facebook , instagram y TikTok para buscar alguna información extra o mantenerse al día. Además, se considera una persona analítica en lo que respecta a su trabajo y, en términos de enfoque, se define como una persona muy racional. 
+En cuanto a sus preferencias personales y estilo de vida, Daniel nos comenta que es una persona extrovertida. Sus principales pasatiempos actualmente son bailar y ver videos de stand comedy. Además, utiliza redes sociales como Facebook , instagram y TikTok para buscar alguna información extra o mantenerse al día. Además, se considera una persona analítica en lo que respecta a su trabajo y, en términos de enfoque, se define como una persona muy racional.
 
 
 En cuanto a su uso de tecnología, prefiere dispositivos como un smart watch, celular con sistema operativo Android, y una laptop y tablet con Windows, ya que este sistema operativo es el que utiliza en su trabajo y se siente más cómodo con él. Su navegador de preferencia es Google Chrome.
@@ -540,6 +540,8 @@ En cuanto a pedidos grupales, los realiza junto a sus colegas principalmente cua
 
 Daniel estaría interesado en una plataforma que facilite la gestión de pedidos grupales, incluyendo menús seleccionados de restaurantes locales. Considera que un servicio eficiente que compense calidad y rapidez sería algo por lo que estaría dispuesto a pagar. Le gustaría que la aplicación incluya funciones como pagos compartidos para evitar malentendidos y la posibilidad de añadir extras al pedido.
 
+
+
 **Segmento de Restaurantes**
 
 **Entrevista #04: Juan Esteban Espinoza (56 años - La Molina) 26 de agosto del 2024**
@@ -548,7 +550,7 @@ Daniel estaría interesado en una plataforma que facilite la gestión de pedidos
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-1.png" alt=" " width="50%">
 </p>
 
-[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=CRgyDO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM4Mi42NH19)  (Comienzo 00:23:02 - Fin 00:30:01)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=7h4rjj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM4Mi41OX19)  (Comienzo 00:23:02 - Fin 00:30:01)
 
 Juan Esteban Espinoza es actualmente gerente general y cuenta con 56 años. Dirige dos restaurantes ubicados en los distritos de Mala y Surco, siendo este último de reciente apertura. El restaurante en Mala atrae principalmente a familias, mientras que en Surco se enfoca en parejas y clientes individuales.
 
@@ -566,7 +568,7 @@ Juan Esteban estaría interesado en una herramienta tecnológica que le permita 
 
 **Entrevista #05: Zaid Arauco (47 años - Miraflores) - 26 de agosto del 2024**
 
-[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=10pPdr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTgwMi4wNH19)  (Comienzo 00:30:01 - Fin 00:39:42)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=nJtWhl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTgwMS45NH19)  (Comienzo 00:30:02 - Fin 00:39:42)
 
 <p align="center">
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-2.png" alt=" " width="50%">
@@ -594,7 +596,7 @@ Finalmente, Zaid menciona que, aunque las plataformas de delivery como Rappi cob
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-3.png" alt=" " width="50%">
 </p>
 
-[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=FSU2Up&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjM4My4yM319)  (Comienzo 00:30:01 - Fin 00:43:49)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=8chJ9M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjM4My4wNH19)  (Comienzo 00:39:42 - Fin 00:43:49)
 
 Martín Zuñiga es el dueño y cocinero principal de un restaurante ubicado en La Victoria. Lleva 10 años al frente del negocio, y su experiencia en el rubro le ha permitido conocer a fondo las necesidades y preferencias de sus clientes.
 
@@ -611,6 +613,7 @@ Actualmente, el restaurante no maneja reservas y opera según la llegada de clie
 Martín reconoce que coordinar pedidos grupales puede ser un desafío, sobretodo por la necesidad de mantener la rapidez en el servicio durante las horas pico. Aun así, estaría interesado en utilizar una plataforma que le conectara con grupos de trabajadores para pedidos grupales. Según lo que nos comenta, una plataforma que busque clientes y los dirija a su restaurante sería un gran apoyo, permitiéndole concentrarse en lo que mejor hace: atender a los clientes de la mejor manera.
 
 Finalmente, Martín estaría dispuesto a ofrecer descuentos o menús especiales a través de una plataforma que le garantizara un volumen significativo de pedidos. Considera que una herramienta de este tipo podría optimizar significativamente las operaciones del restaurante durante las horas pico, mejorando tanto la eficiencia como la satisfacción del cliente.
+
 
 
 ### 2.2.3. Análisis de entrevistas

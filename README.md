@@ -409,6 +409,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+Context diagram:
+
+![Context Diagram](assets/img/chapter-4/contextdiagram.jpg)
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
 

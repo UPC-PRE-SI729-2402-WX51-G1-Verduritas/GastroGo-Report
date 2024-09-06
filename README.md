@@ -455,59 +455,59 @@ img
 img
 ### 4.7.2. Class Dictionary
 
-Restaurant:
+-Restaurant:
 
 Descripción: Representa una entidad de restaurante, incluyendo su nombre, dirección, disponibilidad y funciones para notificar y actualizar la disponibilidad.
 
-Customer:
+-Customer:
 
 Descripción: Representa a un cliente, incluyendo su ID, nombre y correo electrónico, con funcionalidades para registrarse, iniciar sesión, hacer pedidos y realizar reservas.
 
-Worker:
+-Worker:
 
 Descripción: Representa a un trabajador en el restaurante, incluyendo su ID, nombre y puesto, con funcionalidades para gestionar pedidos y reservas.
 
-Menu:
+-Menu:
 
 Descripción: Representa un menú, incluyendo su ID, nombre, descripción, precio y categoría. Incluye funcionalidades para agregar, eliminar y actualizar elementos del menú.
 
-MenuItem:
+-MenuItem:
 
 Descripción: Representa un elemento individual dentro de un menú, incluyendo su ID, nombre, descripción y precio.
 
-Order:
+-Order:
 
 Descripción: Representa un pedido de un cliente, incluyendo el ID del pedido, la fecha del pedido, el estado y el monto total. Incluye funcionalidades para calcular el total y actualizar el estado del pedido.
 
-OrderItem:
+-OrderItem:
 
-Descripción: Representa un ítem dentro de un pedido, incluyendo su ID, cantidad, precio y el ítem de menú asociado. Incluye una función para calcular el subtotal.
+-Descripción: Representa un ítem dentro de un pedido, incluyendo su ID, cantidad, precio y el ítem de menú asociado. Incluye una función para calcular el subtotal.
 
-Reservation:
+-Reservation:
 
 Descripción: Representa una reserva de mesa, incluyendo su ID, fecha de reserva, número de personas y ID de la mesa. Incluye funcionalidades para crear, cancelar y actualizar reservas.
 
-OrderList:
+-OrderList:
 
 Descripción: Representa una colección de pedidos, con funcionalidades para agregar, eliminar y obtener pedidos.
 
-ReservationList:
+-ReservationList:
 
 Descripción: Representa una colección de reservas, con funcionalidades para agregar, eliminar y obtener reservas.
 
-PaymentMethod:
+-PaymentMethod:
 
 Descripción: Representa el método de pago para un pedido, incluyendo el ID del pago, el monto y la fecha del pago. Incluye una función para procesar el pago.
 
-Purchase:
+-Purchase:
 
 Descripción: Representa una transacción de compra, incluyendo su ID, fecha y monto total. Está asociada con el cliente y el método de pago.
 
-Sale:
+-Sale:
 
 Descripción: Representa una transacción de venta, incluyendo su ID, fecha y monto total. Está asociada con el trabajador y el método de pago.
 
-MenuManagement:
+-MenuManagement:
 
 Descripción: Representa la gestión de menús, incluyendo la adición, actualización y eliminación de menús y elementos del menú.
 

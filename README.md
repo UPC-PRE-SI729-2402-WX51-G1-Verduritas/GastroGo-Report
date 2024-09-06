@@ -489,7 +489,17 @@ Restaurante:
 | 28        | E6 - US028        | Registro y Confirmación de Pagos Grupales    | Como líder del grupo, quiero poder ver un registro de todos los pagos realizados por los miembros del grupo para confirmar que todos han contribuido. | 5                                 |
 | 29        | E6 - US029        | Opción de Propina Compartida                 | Como miembro del grupo, quiero tener la opción de agregar una propina compartida al total del pedido para recompensar el servicio del restaurante. | 3                                 |
 | 30        | E6 - US030        | Generación Automática de Recomendaciones    | Como usuario, quiero que el sistema genere automáticamente recomendaciones de restaurantes y platos basadas en mis pedidos anteriores para facilitar futuras elecciones. | 5                                 |
-|
+|31        | E7 - US031        | Notificaciones de Recomendaciones            | Como usuario, quiero recibir notificaciones de nuevas recomendaciones basadas en mis pedidos recientes para estar al tanto de opciones que podrían interesarme. | 3                                 |
+| 32        | E7 - US032        | Personalización de Recomendaciones en Función de Pedidos Grupales | Como líder de grupo, quiero recibir recomendaciones de restaurantes y platos basadas en los pedidos grupales anteriores para facilitar futuras decisiones de grupo. | 5                                 |
+| 33        | E8 - US033        | Prioridad de Preparación para Pedidos Grupales | Como chef del restaurante, quiero priorizar la preparación de pedidos grupales grandes para asegurarme de que se entreguen a tiempo. | 5                                 |
+| 34        | E8 - US034        | Confirmación de Capacidad de Gestión para Pedidos Grupales | Como administrador del restaurante, quiero confirmar la capacidad de gestión antes de aceptar un pedido grupal grande para evitar sobrecargar la cocina y asegurar un servicio de calidad. | 5                                 |
+| 35        | E8 - US035        | Coordinación de Entregas para Pedidos Grupales | Como gerente de logística, quiero coordinar la entrega de pedidos grupales grandes para asegurar que lleguen a tiempo y en las mejores condiciones. | 5                                 |
+| 36        | E8 - US036        | Gestión de Cambios y Cancelaciones en Pedidos Grupales | Como administrador del restaurante, quiero gestionar cambios y cancelaciones en pedidos grupales de manera eficiente para minimizar el impacto en la operación del restaurante. | 5                                 |
+| 37        | E9 - US037        | Visualización de Planes de Suscripción       | Como visitante en la landing page, quiero poder visualizar una sección que describa los diferentes planes de suscripción disponibles para que pueda considerar sus beneficios y decidir si suscribirme. | 3                                 |
+| 38        | E9 - US038        | Selección de Plan de Suscripción             | Como empresa o restaurante, quiero poder seleccionar un plan de suscripción dentro de la aplicación para acceder a funcionalidades premium. | 5                                 |
+| 39        | E9 - US039        | Renovación de Plan de Suscripción            | Como empresa o restaurante, quiero poder renovar mi plan de suscripción antes de que expire para evitar la interrupción del servicio. | 3                                 |
+| 40        | E9 - US040        | Cancelación de Plan de Suscripción           | Como empresa o restaurante, quiero poder cancelar mi plan de suscripción en cualquier momento para evitar cargos futuros. | 3                                 |
+
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines

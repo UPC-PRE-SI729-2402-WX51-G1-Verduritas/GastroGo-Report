@@ -396,6 +396,17 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 4.3.1. Landing Page Wireframe
 
 ## 4.3.2 Landing Page Mock Up
+En esta sección se presentarán los mock-ups de la landing page. Estos mock-ups son esquemas de alta fidelidad que muestran la estructura de la página, todas las guías de estilo indicadas en las secciones anteriores están presentes en estos esquemas.
+
+Enlace al Figma:
+https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=1-3&t=wDYwqq80w6CGC5hD-1
+
+Para Desktop Browser:
+![Landing Page Mock-Up](assets/img/chapter-4/landing-page-mock-up.png)
+
+Para Mobile Browser:
+![Landing Page Mobile Mock-Up](assets/img/chapter-4/landing-page-mobile-mock-up.png)
+
 
 
 

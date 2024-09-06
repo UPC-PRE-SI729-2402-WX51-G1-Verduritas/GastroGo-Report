@@ -21,35 +21,15 @@ Startup: Verduritas
 Producto: GastroGo
 
 
-<div style="text-align:center;">
-    <h3>Integrantes:</h3>
-    <table align="center">
-        <tr>
-            <th style="text-align:center;">Member</th>
-            <th style="text-align:center;">Code</th>
-        </tr>
-        <tr>
-            <td>Abanto Vicente, Edery Renzo</td>
-            <td>U201822832</td>
-        </tr>
-        <tr>
-            <td>Cuevas Vera, Jose Angel</td>
-            <td>U202214632</td>
-        </tr>
-        <tr>
-            <td>Pedraza Maldonado, Joaquin Andree </td>
-            <td>U202218514</td>
-        </tr>
-        <tr>
-            <td>Barrutia Vaez, Ricardo Andree</td>
-            <td>U201714765</td>
-        </tr>
-        <tr>
-            <td>Espinoza Inoñan, Fabiola Ximena</td>
-            <td>U202214784</td>
-        </tr>
-    </table>
-</div>
+
+| Member                                | Code       |
+|---------------------------------------|------------|
+| Abanto Vicente, Edery Renzo         | U201822832 |
+| Barrutia Vaez, Ricardo Andree       | U201714765 |
+| Cuevas Vera, Jose Angel        | U202214632 |
+| Espinoza Inoñan, Fabiola Ximena     | U202214784 |
+| Pedraza Maldonado, Joaquin Andree          | U202218514 |
+
 
 
 </div>
@@ -62,138 +42,12 @@ Producto: GastroGo
 ---  
 # Registro de Versiones del Informe
 
-<table>
-        <thead>
-            <tr>
-                <th>Versión</th>
-                <th>Fecha</th>
-                <th>Autor</th>
-                <th>Descripción de modificaciones</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <th>1.0</th>
-                <td>08/30/2024</td>
-                <td>Ricardo</td>
-                <td>Se añadió el Startup profile.</td>
-            </tr>
-              <tr>                
-                <th>1.1</th>
-                <td>08/30/2024</td>
-                <td>Fabiola</td>
-                <td>Se añadió el Solution profile.</td>
-             </tr>
-              <tr>
-                <th>1.2</th>
-                <td>08/30/2024</td>
-                <td>Ricardo</td>
-                <td>Se agregó la sección de los competidores.</td>
-            </tr> 
-             <tr>
-                <th>1.3</th>
-                <td>08/30/2024</td>
-                <td>Fabiola</td>
-                <td>Se agregaron la seccion de entrevistas.</td>
-            </tr> 
-             <tr>
-                <th>1.4</th>
-                <td>08/30/2024</td>
-                <td>Fabiola</td>
-                <td>Se agregó el Needfinding.</td>
-            </tr>
-             <tr>
-                <th>1.5</th>
-                <td>08/30/2024</td>
-                <td>Ricardo</td>
-                <td>Se agregó el Ubiquitous Language.</td>
-            </tr> 
-             <tr>
-                <th>1.6</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó el To-Be Scenario Mapping.</td>
-            </tr>
-             <tr>
-                <th>1.7</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó las User Stories.</td>
-            </tr>
-             <tr>
-                <th>1.8</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó el Impact Mapping.</td>
-            </tr>
-             <tr>
-                <th>1.9</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó el Product Backlog.</td>
-            </tr>
-            <tr>
-                <th>1.10</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó el Style Guidelines.</td>
-            </tr>
-            <tr>
-                <th>1.11</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó la Information Architecture.</td>
-            </tr>
-            <tr>
-                <th>1.12</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó la Landing Page UI Design.</td>
-            </tr>
-            <tr>
-                <th>1.13</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó la Web Applications UX/UI Design.</td>
-            </tr>
-            <tr>
-                <th>1.14</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó la Web Applications Prototyping.</td>
-            </tr>
-            <tr>
-                <th>1.15</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó Domain-Driven Software Architecture.</td>
-            </tr>
-            <tr>
-                <th>1.16</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó la Software Object-Oriented Design.</td>
-            </tr>
-            <tr>
-                <th>1.17</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó la Database Design.</td>
-            </tr>
-             <tr>
-                <th>1.18</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó el Software Configuration Management.</td>
-            </tr>
-             <tr>
-                <th>1.19</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó el Landing Page, Services & Applications Implementation.</td>
-            </tr>
-                    </tbody>
-</table>
+
+| Versión | Fecha      | Autor   | Descripción de modificaciones         |
+|---------|------------|---------|---------------------------------------|
+| 1.0     | 25/08/2024 | Abanto Vicente, Edery Renzo  <br>	Barrutia Vaez, Ricardo Andree	<br> Cuevas Vera, Jose Angel	<br> Espinoza Inoñan, Fabiola Ximena	<br> Pedraza Maldonado, Joaquin Andree | Capítulo I <br> Capítulo II <br> Capítulo III <br> Capítulo IV <br> Capítulo V       |
+
+
 
 <br><br>
 ---  
@@ -202,13 +56,14 @@ Producto: GastroGo
   
 ---  
 # Student Outcome
-El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: *Capacidad de comunicarse efectivamente con un rango de audiencias.*
+El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 5** <br> Criterio: *Capacidad de comunicarse efectivamente con un rango de audiencias.*
 
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
-| Criterio específico | Acciones realizadas | Conclusiones |  
-| - | - | - |  
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Apellido Apellido Nombre Nombre** <br> ***TB1:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TP:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TB2:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TF:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br><br> **Apellido Apellido Nombre Nombre** <br> ***TB1:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TP:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TB2:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TF:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br><br> | ***TB1:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TP:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TB2:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TF:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. | | Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Apellido Apellido Nombre Nombre*** <br> ***TB1:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TP:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TB2:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TF:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br><br> ***Apellido Apellido Nombre Nombre*** <br> ***TB1:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TP:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TB2:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TF:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. | ***TB1:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TP:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TB2:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TF:*** FEtiam imperdiet quam condimentum velit tempor porttitor. |  
+| Criterio específico | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Conclusiones |  
+| - |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| - |  
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | ***TB1:*** <br> **Abanto Vicente, Edery Renzo** <br>Texto <br><br> **Barrutia Vaez, Ricardo Andree** <br> Mi aporte para el desarrollo de la TB1 fue principalmente el desarrollo del Lean UX, análisis competitivo, entrevistas, empathy map, journey map y el capítulo V. Asimismo, desarrollé la barra de navegación, la introducción y el cambio de idioma en la landing page.<br><br> **Cuevas Vera, Jose Angel** <br>Texto <br><br> **Espinoza Inoñan, Fabiola Ximena** <br> En esta entrega me encargue de la investigación, ademas, del diseño y analisis de las entrevistas para el segmento de los trabajadores obteniendo gran información para nuestro proyecto y desarrollo de software. Asimismo tambien desarrollé una parte de la landing page usando HTML y CSS. <br><br> **Pedraza Maldonado, Joaquin Andree** <br> texto <br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | En conclusion durante la elaboración de la TB1, cada miembro del equipo contribuyó de manera significativa al proyecto. A través de la investigación, el análisis, y la colaboración continua, el equipo fue capaz de coordinar y delegar tareas de manera eficiente. Se llevaron a cabo reuniones periódicas para definir objetivos, planificar el trabajo y asegurar el cumplimiento de los plazos establecidos. La comunicación constante y la participación activa de todos los integrantes permitieron el desarrollo de cada fase del proyecto de manera integral, logrando así alcanzar los resultados esperados. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | ***TB1:*** <br> **Abanto Vicente, Edery Renzo** <br><br>  **Barrutia Vaez, Ricardo Andree** <br> Durante el desarrollo de la TB1, se realizaron diversas reuniones con el fin de gestionar el trabajo de manera óptima. A través de estas reuniones, pudimos definir los distintos objetivos a lograr y delegar las tareas correspondientes. Asimismo, se cumplieron las tareas asignadas en el tiempo establecido.<br><br> **Cuevas Vera, Jose Angel** <br>Texto <br><br>**Espinoza Inoñan, Fabiola Ximena** <br>Tras las reuniones realizadas por el equipo, pudimos establecer metas claras para el desarrollo de software. También se designó tareas a cada miembro del equipo como la elaboración del landing page.<br><br> **Pedraza Maldonado, Joaquin Andree** <br> texto <br><br>  | En conclusion el equipo trabajó de manera colaborativa y organizada, asegurando que cada miembro cumpliera con sus responsabilidades. Las reuniones periódicas permitieron establecer metas claras y definir las tareas a realizar, lo que facilitó una gestión eficiente del trabajo. Cada integrante aportó desde su experiencia y conocimiento, enfocándose en áreas específicas del proyecto, como la creación de diagramas, el desarrollo del landing page y la implementación de modelos de negocio.  |
   
 ---  
 # Contenido
@@ -408,7 +263,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 # Conclusiones
+
 ### Conclusiones y recomendaciones
+
 ### Video About-the-Team
   
 ---  
@@ -416,3 +273,6 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   
 ---  
 # Anexos
+- Enlace de la Organización de Github: https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas
+- Videos de Exposiciones:
+- TB1:

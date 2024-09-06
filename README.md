@@ -431,6 +431,10 @@ Payment component diagram:
 
 ![Payment component](assets/img/chapter-4/paymentcomponent.jpg)
 
+Authentication component diagram: 
+
+
+![Authentication component](assets/img/chapter-4/authenticationcomponent.jpg)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams

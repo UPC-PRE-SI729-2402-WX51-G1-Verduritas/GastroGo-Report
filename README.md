@@ -439,6 +439,47 @@ Pantalla de órdenes y detalles del restaurante
 Pantalla para crear menús y visualizar el detalle de cada uno
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
+En esta sección se mostrarán los posibles caminos que puede seguir el usuario (happy path y unhappy path) al momento de navegar por la aplicación web. De esta forma, se podrá tener una base de cómo los usuarios navegarán en la aplicación.
+
+Grupo de Trabajadores:
+
+User Goal: Como líder de grupo de trabajadores, quiero poder iniciar sesión, unirme a GastroGo, recuperar mi contraseña y tener la posibilidad de tener una suscripción para ingresar a la aplicación web.
+
+![First](assets/img/chapter-4/Mockup1.png)
+
+User Goal: Como líder de grupo de trabajadores, quiero ordenar comida, poder mandar una nota que mencione lo que no se desea en el pedido para tener una buena experiencia dentro de la aplicación y disfrutar mi merienda.
+
+![Second](assets/img/chapter-4/Mockup2.jpg)
+
+
+User Goal: Como líder de grupo de trabajadores, quiero poder cancelar una orden en caso no la necesite o prefiera otro restaurante y se le avise al restaurante inmediatamente para evitar incomodidades en la comida.
+
+![Third](assets/img/chapter-4/Mockup3.jpg)
+
+
+User Goal: Como líder de grupo de trabajadores, quiero tener un método de pago para realizar la compra de pedidos para tener los beneficios de la plataforma acorde al plan escogido.
+
+![Fourth](assets/img/chapter-4/Mockup4.jpg)
+
+
+Restaurantes:
+
+User Goal: Como dueño de un restaurante, quiero poder iniciar sesión, unirme a GastroGo, recuperar mi contraseña y pagar la suscripción para ingresar a la aplicación web.
+
+![Fifth](assets/img/chapter-4/Mockup5.jpg)
+
+
+User Goal: Como dueño de un restaurante, quiero añadir los distintos menús que tenemos disponibles y ver los detalles de los que ya estén agregados para poder generar más clientela para mi negocio y aumentar nuestras ganancias.
+
+![Sixth](assets/img/chapter-4/Mockup6.png)
+
+
+User Goal: Como dueño de un restaurante, quiero revisar las órdenes y denegar algunas en caso sobrepase la capacidad del equipo de cocina para preservar la calidad de las órdenes y mantener una buena experiencia para el usuario.
+
+
+![Seventh](assets/img/chapter-4/Mockup7.jpg)
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram

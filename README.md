@@ -446,13 +446,18 @@ Segmento Objetivo: Grupos de trabajadores en oficinas que realizan pedidos de al
 
 ## 3.3. Impact Mapping
 Grupos de Trabajadores:
-![](assets/img/chapter-2/impact-mapping.PNG) 
-![](assets/img/chapter-2/impact-mapping_1.1.PNG) 
+
+![](assets/img/chapter-3/impact-mapping.PNG) 
+
+![](assets/img/chapter-3/impact-mapping_1.1.PNG) 
+
 
 Restaurante:
-![](assets/img/chapter-2/impact-mapping_restaurante.PNG) 
+
+![](assets/img/chapter-3/impact-mapping_restaurante.PNG) 
 
 ## 3.4. Product Backlog
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ## 4.2. Information Architecture

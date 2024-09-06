@@ -349,182 +349,32 @@ Entender el entorno competitivo es crucial para el éxito de cualquier negocio. 
 
 ## 2.1.1. Analisis competitivo
 El análisis competitivo se enfoca en estudiar detalladamente a nuestros competidores para reconocer sus puntos fuertes, débiles, oportunidades y amenazas. Este proceso nos permitirá entender mejor nuestra posición en el mercado y formular estrategias más efectivas.
-<table>
-  <tr>
-    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
-  </tr>
-  <tr>
-    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
-  </tr>
-  <tr>
-    <td colspan="5">Este análisis se llevó a cabo para comprender el mercado y tomar decisiones estratégicas informadas.</td>
-  </tr>
-  <tr>
-    <td colspan="3">Nombre y Logo</td>
-    <td colspan="1" valign="top" style="font-weight: bold;">
-        GastroGo
-        <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/img/chapter-2/img-gastrogo-logo.png" alt="Logo GastroGo" style="width: 65;"></img>
-        </div>
-    <td colspan="1" valign="top" style="font-weight: bold;">
-    Manzana Verde
-    <div style="text-align: center;">
-                <img src="assets/img/chapter-2/img-manzana-verde-logo.png" alt="Logo Manzana Verde" style="width: 40;"></img>
-        </div>
-    </td>
-    <td colspan="1" valign="top" style="font-weight: bold;">
-      PedidosYa
-      <div style="text-align: center; margin-top: 20px;">
-                <img src="assets/img/chapter-2/img-pedidosya-logo.png" alt="Logo PedidosYa" style="width: 65;"></img>
-            </div>
-      </td>
-    <td colspan="1" valign="top" style="font-weight: bold;" >
-      KnowEats
-      <div style="text-align: center; margin-top: 10px;">
-                <img src="assets/img/chapter-2/img-knoweats-logo.png" alt="Logo KnowEats" style="width: 65;"></img>
-            </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1" rowspan="2"><p>Perfil</p></td>
-    <td colspan="2">Overview</td>
-    <td colspan="1" valign="top">Es una aplicación que facilita la realización de pedidos grupales para restaurantes y trabajadores. Las características a destacar son una interfaz intuitiva y fácil de usar, gestión eficiente de pedidos que automatiza el proceso y minimiza errores, visualización clara de menús y precios para facilitar la selección de opciones.</td>
-    <td colspan="1" valign="top">Manzana verde es una aplicación que brinda la posibilidad de ordenar diferentes platos saludables para cumplir uno de sus tres objetivos. (Bajar de peso, Mantenerse saludable y Aumentar la masa corporal).</td>
-    <td colspan="1" valign="top">Pedidos Ya es una aplicación que permite a los usuarios realizar pedidos de comida de una amplia variedad de restaurantes, con la conveniencia de recibir sus pedidos directamente en su puerta. La aplicación se destaca por su facilidad de uso, opciones de pago flexibles y seguimiento en tiempo real del estado del pedido.</td>
-    <td colspan="1" valign="top">KnowEats es una aplicación que permite ordenar comida saludable para evitar cocinar durante la semana y poder mantener una dieta equilibrada. Además, permite almacenar la comida en la refrigeradora para que sus usuarios se puedan organizar de la manera que estos consideren.</td>
-  </tr>
-  <tr>
-    <td colspan="2">Ventaja competitiva¿Qué valor ofrece a los clientes?</td>
-    <td colspan="1" valign="top">Ofrecemos una solución optimizada que automatiza y simplifica el proceso, reduciendo errores y mejorando la eficiencia tanto para los usuarios como para los restaurantes durante la realización de pedidos grupales.</td>
-    <td colspan="1" valign="top">Su capacidad para ofrecer planes de alimentación personalizados que ayudan a los clientes a alcanzar objetivos específicos de salud. Además de la facilidad de acceder a comidas saludables y equilibradas.</td>
-    <td colspan="1" valign="top">La capacidad de ofrecer a los clientes una amplia variedad de opciones gastronómicas con entrega rápida y eficiente. Además de la flexibilidad en los métodos de pago.</td>
-    <td colspan="1" valign="top">Brindan un sistema de “cook and chill”, con el que  su comida envasada puede almacenarse en la nevera durante el lapso de una semana logrando que sus clientes puedan organizar las comidas de la semana. </td>
-  </tr>
-  <tr>
-    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
-    <td colspan="2">Mercado objetivo</td>
-    <td colspan="1" valign="top">Grupos de trabajadores que realicen pedidos grupales y restaurantes.</td>
-    <td colspan="1" valign="top">Personas en búsqueda de mejores hábitos alimenticios pidiendo a  domicilio.</td>
-    <td colspan="1" valign="top">Personas que buscan conveniencia y variedad en la comida, solicitando entregas a domicilio de una amplia gama de restaurantes.</td>
-    <td colspan="1" valign="top">Personas con poco tiempo para cocinar y que no puedan cocinar saludable.</td>
-  </tr>
-  <tr>
-    <td colspan="2">Estrategias de marketing</td>
-    <td colspan="1" valign="top">GastroGo se publicita con anuncios en Google Ads y Instagram. Además, produce contenido relevante para su mercado objetivo, como artículos sobre tendencias gastronómicas, estudios de caso y guías para la gestión eficiente de pedidos grupales en sus redes sociales.</td>
-    <td colspan="1" valign="top">Manzana Verde utiliza anuncios en Google Ads y redes sociales como Facebook e Instagram. También emplea marketing por correo electrónico para enviar a sus clientes ofertas especiales y novedades sobre sus planes de alimentación y servicios.</td>
-    <td colspan="1" valign="top">Pedidos Ya utiliza anuncios en Google Ads y en redes sociales como Facebook e Instagram. Además, emplea marketing por correo electrónico para mantener a los clientes informados sobre promociones y actualizaciones.</td>
-    <td colspan="1" valign="top">KnowEats utiliza anuncios en Google Ads y redes sociales como Facebook e Instagram para promover sus servicios. También implementa marketing por correo electrónico para mantener a los clientes informados sobre nuevos menús, ofertas y actualizaciones sobre la plataforma.</td>
-  </tr>
-  <tr>
-    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
-    <td colspan="2">Productos & Servicios</td>
-    <td colspan="1" valign="top">Gestión de pedidos grupales (Facilita la creación, modificación y confirmación de pedidos grupales).
-Permite pagos individuales o grupales dentro de la plataforma
-Proporciona acceso a menús actualizados de los restaurantes afiliados, permitiendo seleccionar opciones basadas en disponibilidad.
-Guarda registros de pedidos anteriores para facilitar la repetición de pedidos similares en el futuro.</td>
-    <td colspan="1" valign="top">Ofrece planes de alimentación semanal o mensual ajustados a las necesidades nutricionales de cada usuario.
-Servicio de entrega diaria de comidas frescas, directamente a la ubicación del usuario.
-Permite a los usuarios gestionar sus suscripciones de comidas, con la opción de pausar, cancelar o modificar los pedidos.</td>
-    <td colspan="1" valign="top">Facilita la entrega de comida desde una amplia variedad de restaurantes.
-Proporciona actualizaciones minuto a minuto sobre el estado del pedido.
-Ofrece un motor de búsqueda que permite filtrar restaurantes por tipo de cocina, precio, ubicación, y tiempo de entrega.</td>
-    <td colspan="1" valign="top">Proporciona informes sobre los patrones de alimentación del usuario, ayudando a mantener un estilo de vida saludable.
-Sugiere opciones de comida basadas en las preferencias y hábitos alimenticios del usuario.</td>
-  </tr>
-  <tr>
-    <td colspan="2">Precios & Costos</td>
-    <td colspan="1" valign="top">Ofrecen planes de suscripción para cubrir los gastos de gestión y los precios suelen variar según las cantidades, tipo de restaurante y ubicación.</td>
-    <td colspan="1" valign="top">Ofrecen planes de alimentación personalizados que varían según la cantidad de días y la complejidad de las comidas. Los rangos de precios suelen estar entre S/ 15 a S/ 25 por comida, dependiendo del plan y las opciones seleccionadas.</td>
-    <td colspan="1" valign="top">Suelen tener precios que varían entre S/ 20 y S/ 60 por comida, dependiendo de las cantidades,  tipo de restaurante y la ubicación.</td>
-    <td colspan="1" valign="top">Ofrecer menús balanceados para empresas y oficinas, generalmente tiene precios que oscilan entre 4,50 € y 7,50 € por comida. Estos precios pueden variar dependiendo de la cantidad de personas, las especificaciones del menú, y los paquetes personalizados.</td>
-  </tr>
-  <tr>
-    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
-    <td colspan="1" valign="top" align="center">Aplicación Web</td>
-    <td colspan="1" valign="top" align="center">Aplicación Web y Aplicación Móvil.</td>
-    <td colspan="1" valign="top" align="center">Aplicación Web y Aplicación Móvil.</td>
-    <td colspan="1" valign="top" align="center"> Aplicación Web</td>
-  </tr>
-  <tr>
-    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
-    <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
-  </tr>
-  <tr>
-    <td colspan="2">Fortalezas</td>
-    <td colspan="1" valign="top">Aplicación Web moderna e interfaz amigable.
-    
-Automatización en la recepción y procesamiento de pedidos.
 
-Acceso a una amplia variedad de menús y restaurantes.</td>
-    <td colspan="1" valign="top">Disponen de aplicación móvil para sus usuarios.
+### Competitive Analysis Landscape
 
-Proporciona variedad de menús saludables según objetivos del usuario.
-</td>
-    <td colspan="1" valign="top">Amplia red de restaurantes y opciones gastronómicas.
+| | **Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.** |
+|-------------------------------------------|-------------------------------------------------------------------------------------------|
+| **¿Por qué llevar a cabo este análisis?**| Este análisis se llevó a cabo para comprender el mercado y tomar decisiones estratégicas informadas. |
 
-Diversas opciones de pago.
+---
 
-Promociones y descuentos frecuentes.
-</td>
-    <td colspan="1" valign="top">Menús equilibrados y adaptados a necesidades específicas de salud.
 
-Planes flexibles de suscripción.
 
-Opciones de menú variado
-</td>
-  </tr>
-  <tr>
-    <td colspan="2">Debilidades</td>
-    <td colspan="1" valign="top">Dependencia de la adopción por parte de restaurantes.
+|   |   | **GastroGo** | **Manzana Verde** | **PedidosYa** | **KnowEats** |
+|---|---|--------------|-------------------|---------------|--------------|
+| **Nombre y Logo** | | ![Logo GastroGo](assets/img/chapter-2/img-gastrogo-logo.png) | ![Logo Manzana Verde](assets/img/chapter-2/img-manzana-verde-logo.png) | ![Logo PedidosYa](assets/img/chapter-2/img-pedidosya-logo.png) | ![Logo KnowEats](assets/img/chapter-2/img-knoweats-logo.png) |
+| **Perfil** | **Overview** | Es una aplicación que facilita la realización de pedidos grupales para restaurantes y trabajadores.  Las características a destacar son una interfaz intuitiva y fácil de usar, gestión eficiente de pedidos que automatiza el proceso y minimiza errores, visualización clara de menús y precios para facilitar la selección de opciones. | Manzana Verde es una aplicación que brinda la posibilidad de ordenar diferentes platos saludables para cumplir uno de sus tres objetivos: bajar de peso, mantenerse saludable, y aumentar la masa corporal. | PedidosYa es una aplicación que permite a los usuarios realizar pedidos de comida de una amplia variedad de restaurantes, con la conveniencia de recibir sus pedidos directamente en su puerta.  La aplicación se destaca por su facilidad de uso, opciones de pago flexibles y seguimiento en tiempo real del estado del pedido. | KnowEats es una aplicación que permite ordenar comida saludable para evitar cocinar durante la semana y poder mantener una dieta equilibrada.  Además, permite almacenar la comida en la refrigeradora para que sus usuarios se puedan organizar de la manera que estos consideren. |
+| **Ventaja competitiva** | **¿Qué valor ofrece a los clientes?** | Ofrecemos una solución optimizada que automatiza y simplifica el proceso, reduciendo errores y mejorando la eficiencia tanto para los usuarios como para los restaurantes durante la realización de pedidos grupales. | Su capacidad para ofrecer planes de alimentación personalizados que ayudan a los clientes a alcanzar objetivos específicos de salud.  Además de la facilidad de acceder a comidas saludables y equilibradas. | La capacidad de ofrecer a los clientes una amplia variedad de opciones gastronómicas con entrega rápida y eficiente.  Además de la flexibilidad en los métodos de pago. | Brindan un sistema de “cook and chill”, con el que su comida envasada puede almacenarse en la nevera durante el lapso de una semana, logrando que sus clientes puedan organizar las comidas de la semana. |
+| **Perfil de Marketing** | **Mercado objetivo** | Grupos de trabajadores que realicen pedidos grupales y restaurantes. | Personas en búsqueda de mejores hábitos alimenticios pidiendo a domicilio. | Personas que buscan conveniencia y variedad en la comida, solicitando entregas a domicilio de una amplia gama de restaurantes. | Personas con poco tiempo para cocinar y que no puedan cocinar saludable. |
+| **Perfil de Marketing** | **Estrategias de marketing** | GastroGo se publicita con anuncios en Google Ads y Instagram.  Además, produce contenido relevante para su mercado objetivo, como artículos sobre tendencias gastronómicas, estudios de caso y guías para la gestión eficiente de pedidos grupales en sus redes sociales. | Manzana Verde utiliza anuncios en Google Ads y redes sociales como Facebook e Instagram.  También emplea marketing por correo electrónico para enviar a sus clientes ofertas especiales y novedades sobre sus planes de alimentación y servicios. | PedidosYa utiliza anuncios en Google Ads y en redes sociales como Facebook e Instagram.  Además, emplea marketing por correo electrónico para mantener a los clientes informados sobre promociones y actualizaciones. | KnowEats utiliza anuncios en Google Ads y redes sociales como Facebook e Instagram para promover sus servicios.  También implementa marketing por correo electrónico para mantener a los clientes informados sobre nuevos menús, ofertas y actualizaciones sobre la plataforma. |
+| **Perfil de Producto** | **Productos & Servicios** | Gestión de pedidos grupales (Facilita la creación, modificación y confirmación de pedidos grupales).  Permite pagos individuales o grupales dentro de la plataforma.  Proporciona acceso a menús actualizados de los restaurantes afiliados, permitiendo seleccionar opciones basadas en disponibilidad.  Guarda registros de pedidos anteriores para facilitar la repetición de pedidos similares en el futuro. | Ofrece planes de alimentación semanal o mensual ajustados a las necesidades nutricionales de cada usuario.  Servicio de entrega diaria de comidas frescas, directamente a la ubicación del usuario.  Permite a los usuarios gestionar sus suscripciones de comidas, con la opción de pausar, cancelar o modificar los pedidos. | Facilita la entrega de comida desde una amplia variedad de restaurantes.  Proporciona actualizaciones minuto a minuto sobre el estado del pedido.  Ofrece un motor de búsqueda que permite filtrar restaurantes por tipo de cocina, precio, ubicación, y tiempo de entrega. | Proporciona informes sobre los patrones de alimentación del usuario, ayudando a mantener un estilo de vida saludable.  Sugiere opciones de comida basadas en las preferencias y hábitos alimenticios del usuario. |
+| **Precios & Costos** | | Ofrecen planes de suscripción para cubrir los gastos de gestión y los precios suelen variar según las cantidades, tipo de restaurante y ubicación. | Ofrecen planes de alimentación personalizados que varían según la cantidad de días y la complejidad de las comidas.  Los rangos de precios suelen estar entre S/ 15 a S/ 25 por comida, dependiendo del plan y las opciones seleccionadas. | Suelen tener precios que varían entre S/ 20 y S/ 60 por comida, dependiendo de las cantidades, tipo de restaurante y la ubicación. | Ofrecer menús balanceados para empresas y oficinas, generalmente tiene precios que oscilan entre 4,50 € y 7,50 € por comida.  Estos precios pueden variar dependiendo de la cantidad de personas, las especificaciones del menú, y los paquetes personalizados. |
+| **Canales de distribución (Web y/o Móvil)** | | Aplicación Web | Aplicación Web y Aplicación Móvil. | Aplicación Web y Aplicación Móvil. | Aplicación Web |
+| **Análisis SWOT** | **Fortalezas** | Aplicación Web moderna e interfaz amigable.  Automatización en la recepción y procesamiento de pedidos.  Acceso a una amplia variedad de menús y restaurantes. | Disponen de aplicación móvil para sus usuarios.  Proporciona variedad de menús saludables según objetivos del usuario. | Amplia red de restaurantes y opciones gastronómicas.  Diversas opciones de pago.  Promociones y descuentos frecuentes. | Menús equilibrados y adaptados a necesidades específicas de salud.  Planes flexibles de suscripción.  Opciones de menú variado. |
+| **Análisis SWOT** | **Debilidades** | Dependencia de la adopción por parte de restaurantes.  Desafíos en la integración con sistemas existentes en restaurantes.  Resistencia a cambiar métodos tradicionales. | Falta de opciones para comidas no saludables, lo que puede limitar las preferencias de algunos usuarios.  Escasa interacción o soporte personalizado, que puede limitar la capacidad de resolver problemas o ajustar planes. | Las tarifas del servicio pueden aumentar el costo del pedido.  Dependencia de la calidad de los restaurantes asociados. | Menús “personalizados” para necesidades dietéticas muy específicas.  Costos relativamente altos en comparación a preparar la comida por tu cuenta. |
+| **Análisis SWOT** | **Oportunidades** | Incrementar nuestro alcance y satisfacción al cliente mediante la aplicación móvil para ofrecer una experiencia de usuario más accesible y conveniente.  Implementar funciones de integración con sistemas de pago móvil para facilitar transacciones.  Implementación de tecnologías como inteligencia artificial para mejorar la recomendación de restaurantes y la gestión de pedidos. | Ampliación de la oferta de menús para incluir más opciones regionales y personalizadas. | Alianzas con restaurantes exclusivos, ofreciendo opciones premium que atraigan a más usuarios. | Innovación en la logística de distribución para mejorar la eficiencia y reducir costos. |
+| **Análisis SWOT** | **Amenazas** | Dependencia de la aceptación del mercado y de los hábitos de compra de los grupos de trabajadores y restaurantes.  Problemas de escalabilidad al expandir la plataforma a nuevas áreas o grandes volúmenes de pedidos. | Variaciones en la demanda que pueden afectar la estabilidad financiera del servicio.  Competencia con otras aplicaciones de alimentos que ofrecen servicios similares. | Competencia intensa con otras aplicaciones de entrega de comida y restaurantes locales.  Posible saturación del mercado. | Cambios en las regulaciones de seguridad alimentaria y normativas locales que podrían afectar la operación. |
 
-Desafíos en la integración con sistemas existentes en restaurantes.
-
-Resistencia a cambiar métodos tradicionales
-</td>
-    <td colspan="1" valign="top">Falta de opciones para comidas no saludables, lo que puede limitar las preferencias de algunos usuarios.
-
-Escasa interacción o soporte personalizado, que puede limitar la capacidad de resolver problemas o ajustar planes.
-</td>
-    <td colspan="1" valign="top">Las tarifas del servicio pueden aumentar el costo del pedido.
-
-Dependencia de la calidad de los restaurantes asociados.
-</td>
-    <td colspan="1" valign="top">Menús “personalizados” para necesidades dietéticas muy específicas. 
-
-Costos relativamente altos en comparación a preparar la comida por tu cuenta.
-</td>
-  </tr>
-  <tr>
-    <td colspan="2">Oportunidades</td>
-    <td colspan="1" valign="top">Incrementar nuestro alcance y satisfacción al cliente mediante la aplicación móvil para ofrecer una experiencia de usuario más accesible y conveniente.
-
-Implementar funciones de integración con sistemas de pago móvil para facilitar transacciones.
-
-Implementación de tecnologías como inteligencia artificial para mejorar la recomendación de restaurantes y la gestión de pedidos.
-</td>
-    <td colspan="1" valign="top">Ampliación de la oferta de menús para incluir más opciones regionales y personalizadas.</td>
-    <td colspan="1" valign="top">Alianzas con restaurantes exclusivos, ofreciendo opciones premium que atraigan a más usuarios.</td>
-    <td colspan="1" valign="top">Innovación en la logística de distribución para mejorar la eficiencia y reducir costos.</td>
-  </tr>
-  <tr>
-    <td colspan="2">Amenazas</td>
-    <td colspan="1" valign="top">Dependencia de la aceptación del mercado y de los hábitos de compra de los grupos de trabajadores y restaurantes.
-
-Problemas de escalabilidad al expandir la plataforma a nuevas áreas o grandes volúmenes de pedidos.</td>
-    <td colspan="1" valign="top">Variaciones en la demanda que pueden afectar la estabilidad financiera del servicio.
-
-Competencia creciente de otras aplicaciones de planes de alimentación y servicios de comida saludable .</td>
-    <td colspan="1" valign="top">Aumento de la competencia de otras plataformas de entrega de comida con características similares.
-
-Problemas con la satisfacción del cliente debido a posibles errores en los pedidos o en el tiempo de entrega.
-</td>
-    <td colspan="1" valign="top">Competencia de servicios que ofrecen menús más variados o precios más bajos.
-
-Posible saturación del mercado si muchas empresas adoptan soluciones similares.
-</td>
-  </tr>
-</table>
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 

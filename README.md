@@ -456,47 +456,47 @@ En esta sección explicaremos el proceso de despliegue de nuestra página de ate
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-| **Repository** | **Branch**           | **Commit Id**                              | **Commit Message**                                          | **Commit Message Body** | **Committed on (Date)** |
-|----------------|----------------------|--------------------------------------------|-------------------------------------------------------------|---------------------|-------------------------|
-|GastroGo-Landing-Page| develop              | d601ff9579fe58a7fcfe6645c3b6a1aa6d6cc220   | Initial commit                                              |                     | 30/08/2024              |
-|GastroGo-Landing-Page                | develop              | a9547ff52f913db19f386567626132c0e19cfcb2   | feat(readme): add introductory information for repository.  |                 | 06/09/2024              |
-|GastroGo-Landing-Page                | develop              | 60c22dd66c176a7d01d5d3a1f133eb78538b153d   | feat(images): add images for favicon.                       |      | 06/09/2024              |
-|GastroGo-Landing-Page                | develop              | 71b80efe8234afead54fff99c5a1c7c4115f63b3   | feat(styles): add styles.css for the index.html stylesheet. |                 | 06/09/2024              |
-|GastroGo-Landing-Page                | develop              | 330d71d00cec4757c304a8bac42f343a9d25a6c8   | feat(index): add base of index.html for other branches.     |     | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/navbar       | 5d0da1f0c2e5c59f8887f311182b458b87916829   | feat(html): added nav bar html structure.                   |      | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/navbar       | c6cdaa2e3ef8f2945d25abd92075e82137778c20   | feat(styles): added css for nav bar                         |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/navbar       | 5c620cbeff0a7340087ce00ffe69fab9624e06fa   | chore: added logo gastrogo                                  |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/navbar       | c6a03ba1d6909b0380c977233d8c889853fbfb7a  | feat: added scripts for nav bar menu                        |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/introduction | e53740842f95bf2bc6e3f9af723957d3f60f3618   | feat(styles): added introduction css                        |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/introduction | a63dcf88e0434471004f9e2fc6949c71beef83fe   | feat(html): added html introduction section                 |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/introduction | 6d1c4ea8ce1ee60d81722e8093c0bee140a4081f   | chores: added introduction image                            |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/language     | 586af10b92c0dbd1a91bdaf5b22e0db22bcdcb79   | feat: added bar for language switch                         |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/language     | 133e0897df475de8d0c36a731cc6e3947bafcd90   | feat(css): added bar language css                           |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/about-us     | 5c26b87a430cd3de68633dd8c8fdaf79fffd9d03   | feat(html): added abouts us html structure                  |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/about-us     | edca0bb2c804513cf6157b252c0c870ccf1fb8bc   | feat(styles): added about us css                            |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/why-us       | 158de2b53aec0a7d85c41c20feec483affb73166   | feat(html): added why-us html structure                     |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/why-us       | ccfd68415b6924552a2bb4159f3e80e9c1facb20   | feat(styles): added why-us structure                        |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/features     | 4efe37be67aee31a603333eec80c88da54c7d257   | Update index.html                                           |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/features     | 07c51066d3cf5b6a4479f6e1a44fafe32a414714   | feat(styles): added features section css                    |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/features     | 73991d3701ab3c53633ec45f8dc2df62ff3fda04   | chore: added images features section                        |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/how-it-works | f9805a7ff47e40155ec8ba05f1ae7a91eed4cfb1   | chore: added images how it works section                    |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/how-it-works | 26a5fe1e1d6f6cebcd1642b1c276fb58eebdc697   | feat(html): added how it works section html                 |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/how-it-works | 5b485e93310b8edb730de036ebb951816d87a045   | feat(styles): added how it works section css                |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/experience   | 82de489cbc993334a0fb8ae18c73dfa281ee73af   | chore: added image experience1 seccion                      |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/experience   | 031b52d4a2ebba4850665ab970d35f0df84a0e2e   | chore: added image experience2 seccion                      |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/experience   | bd4831b4ad851fd003b46104f278aa87520a921f   | feat(styles): added experience section css                  |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/experience   | fbfd478dcb5f481fdc9cd019f8d8e9053c1f1b0c   | feat(html): added experience section html                   |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/plans        | 9d3f30764ddf050cf5a3c1e53d099de4860aa92b   | chore: added image plans1 section                           |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/plans        | 55650309d28ca1c815ebfa54848c7d7804e3ec1f   | chore: added image plans2 section                           |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/plans        | 855fe7ea8e4d7f43d63a67eadcbb755577bafa02   | chore: added image plans3 section                           |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/plans        | 6161f2e597c3aae131d578d0bec0b50afd3d6124   | feat(styles): added plans section css                           |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/plans        | def9a44e85d18c91b305091a48f36d7b297be580   | feat(html): added plans section html                           |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/contact-us   | b64dfac6840a319c07d620259ba04b0265c77ccd   | chore: added images contact-us                          |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/contact-us   | ab86926dc6c2ea6dcbb64bd43b4431e9e77992db   | feat(styles): added contact-us section css                         |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/contact-us   | a3e97f7a850053341300cf2050aed0254b0cc6e1   | feat(html): added contact-us section html                         |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/footer       | 4f83ae92f8ff72f64b77b843cac686b6d09add25   | chore: added footer images                      |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/footer       | cb337ae09fc9ccfd5b9e9f991f10922bbe4ca181   | feat(html): added footer section html                      |    | 06/09/2024              |
-|GastroGo-Landing-Page                | feature/footer       | e1107f6c07937a0339e5b11309ad6ab7f18b2322   | feat(styles): added footer section css                     |    | 06/09/2024              |
+| **Repository** | **Branch**           | **Commit Id**                              | **Commit Message**                                          | **Committed on (Date)** |
+|----------------|----------------------|--------------------------------------------|-------------------------------------------------------------|-------------------------|
+|GastroGo-Landing-Page| develop              | d601ff9579fe58a7fcfe6645c3b6a1aa6d6cc220   | Initial commit                                             | 30/08/2024              |
+|GastroGo-Landing-Page                | develop              | a9547ff52f913db19f386567626132c0e19cfcb2   | feat(readme): add introductory information for repository.   | 06/09/2024              |
+|GastroGo-Landing-Page                | develop              | 60c22dd66c176a7d01d5d3a1f133eb78538b153d   | feat(images): add images for favicon.                       | 06/09/2024              |
+|GastroGo-Landing-Page                | develop              | 71b80efe8234afead54fff99c5a1c7c4115f63b3   | feat(styles): add styles.css for the index.html stylesheet. | 06/09/2024              |
+|GastroGo-Landing-Page                | develop              | 330d71d00cec4757c304a8bac42f343a9d25a6c8   | feat(index): add base of index.html for other branches.     | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/navbar       | 5d0da1f0c2e5c59f8887f311182b458b87916829   | feat(html): added nav bar html structure.                   | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/navbar       | c6cdaa2e3ef8f2945d25abd92075e82137778c20   | feat(styles): added css for nav bar                         | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/navbar       | 5c620cbeff0a7340087ce00ffe69fab9624e06fa   | chore: added logo gastrogo                                  | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/navbar       | c6a03ba1d6909b0380c977233d8c889853fbfb7a  | feat: added scripts for nav bar menu                        | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/introduction | e53740842f95bf2bc6e3f9af723957d3f60f3618   | feat(styles): added introduction css                        | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/introduction | a63dcf88e0434471004f9e2fc6949c71beef83fe   | feat(html): added html introduction section                 | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/introduction | 6d1c4ea8ce1ee60d81722e8093c0bee140a4081f   | chores: added introduction image                           | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/language     | 586af10b92c0dbd1a91bdaf5b22e0db22bcdcb79   | feat: added bar for language switch                         | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/language     | 133e0897df475de8d0c36a731cc6e3947bafcd90   | feat(css): added bar language css                           | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/about-us     | 5c26b87a430cd3de68633dd8c8fdaf79fffd9d03   | feat(html): added abouts us html structure                  | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/about-us     | edca0bb2c804513cf6157b252c0c870ccf1fb8bc   | feat(styles): added about us css                            | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/why-us       | 158de2b53aec0a7d85c41c20feec483affb73166   | feat(html): added why-us html structure                     | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/why-us       | ccfd68415b6924552a2bb4159f3e80e9c1facb20   | feat(styles): added why-us structure                       | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/features     | 4efe37be67aee31a603333eec80c88da54c7d257   | Update index.html                                           | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/features     | 07c51066d3cf5b6a4479f6e1a44fafe32a414714   | feat(styles): added features section css                    | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/features     | 73991d3701ab3c53633ec45f8dc2df62ff3fda04   | chore: added images features section                        | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/how-it-works | f9805a7ff47e40155ec8ba05f1ae7a91eed4cfb1   | chore: added images how it works section                    | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/how-it-works | 26a5fe1e1d6f6cebcd1642b1c276fb58eebdc697   | feat(html): added how it works section html                 | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/how-it-works | 5b485e93310b8edb730de036ebb951816d87a045   | feat(styles): added how it works section css                | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/experience   | 82de489cbc993334a0fb8ae18c73dfa281ee73af   | chore: added image experience1 seccion                      | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/experience   | 031b52d4a2ebba4850665ab970d35f0df84a0e2e   | chore: added image experience2 seccion                      | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/experience   | bd4831b4ad851fd003b46104f278aa87520a921f   | feat(styles): added experience section css                  | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/experience   | fbfd478dcb5f481fdc9cd019f8d8e9053c1f1b0c   | feat(html): added experience section html                  | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/plans        | 9d3f30764ddf050cf5a3c1e53d099de4860aa92b   | chore: added image plans1 section                           | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/plans        | 55650309d28ca1c815ebfa54848c7d7804e3ec1f   | chore: added image plans2 section                           | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/plans        | 855fe7ea8e4d7f43d63a67eadcbb755577bafa02   | chore: added image plans3 section                           | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/plans        | 6161f2e597c3aae131d578d0bec0b50afd3d6124   | feat(styles): added plans section css                           | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/plans        | def9a44e85d18c91b305091a48f36d7b297be580   | feat(html): added plans section html                          | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/contact-us   | b64dfac6840a319c07d620259ba04b0265c77ccd   | chore: added images contact-us                          | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/contact-us   | ab86926dc6c2ea6dcbb64bd43b4431e9e77992db   | feat(styles): added contact-us section css                         | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/contact-us   | a3e97f7a850053341300cf2050aed0254b0cc6e1   | feat(html): added contact-us section html                         | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/footer       | 4f83ae92f8ff72f64b77b843cac686b6d09add25   | chore: added footer images                      | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/footer       | cb337ae09fc9ccfd5b9e9f991f10922bbe4ca181   | feat(html): added footer section html                      | 06/09/2024              |
+|GastroGo-Landing-Page                | feature/footer       | e1107f6c07937a0339e5b11309ad6ab7f18b2322   | feat(styles): added footer section css                     | 06/09/2024              |
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review

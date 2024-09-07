@@ -405,6 +405,10 @@ El spacing a considerar para mantener el contenido entendible será:
 - Input fields: 40 px (altura), 20 px (espacio entre campos)
 - Margin entre secciones: 60 px
 - Height entre textos: 30 px
+
+**Dimensions:**
+
+Se prefirió utilizar un tono amigable y cercano, sin dejar de lado el respeto a los usuarios. GastroGo busca ser concisa en la comunicación, buscamos persuadir a los usuarios sin necesidad de ser muy serios, ya que esto podría causar un poco de incomodidad a los potenciales clientes.
 	
 ## 4.2. Information Architecture
 

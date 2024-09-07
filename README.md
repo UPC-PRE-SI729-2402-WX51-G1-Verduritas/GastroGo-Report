@@ -434,11 +434,11 @@ Para las pruebas de software de la landing page, se utilizaron las herramientas 
 
 Para gestionar y organizar los distintos cambios en el proyecto, se utilizó una organización en GitHub, lo que facilitó el control de versiones y la colaboración en el código fuente.
 
-- [**Organización en GitHub**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty)
+- [**Organización en GitHub**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas)
 
-- [**Landing Page Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Landing-Page)
+- [**Landing Page Repository**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Landing-Page)
 
-- [**Report Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report)
+- [**Report Repository**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Report)
 
 
 

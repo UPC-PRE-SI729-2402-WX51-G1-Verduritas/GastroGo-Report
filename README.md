@@ -215,10 +215,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 3.1 To-Be Scenario Mapping
 
 Segmento Objetivo: Restaurantes en Lima Metropolitana que gestionan pedidos grupales con frecuencia.
-![to-be scenario mapping](assets/img/chapter-3/to-be-scenario-mapping.PNG)
+![to-be scenario mapping](assets/img/chapter-3/img-to-be-workers-1.jpg)
 
 Segmento Objetivo: Grupos de trabajadores en oficinas que realizan pedidos de almuerzo en conjunto.
-![](assets/img/chapter-3/to-be-scenario-mapping_segmento-2.PNG)
+![](assets/img/chapter-3/img-to-be-restaurant-1.jpg)
 
 ## 3.2. User Stories
 
@@ -376,14 +376,14 @@ Segmento Objetivo: Grupos de trabajadores en oficinas que realizan pedidos de al
 ## 3.3. Impact Mapping
 Grupos de Trabajadores:
 
-![](assets/img/chapter-3/impact-mapping.PNG) 
+![](assets/img/chapter-3/img-impact-map-workers-1.png) 
 
-![](assets/img/chapter-3/impact-mapping_1.1.PNG) 
+![](assets/img/chapter-3/img-impact-map-workers-2.png) 
 
 
 Restaurante:
 
-![](assets/img/chapter-3/impact-mapping_restaurante.PNG) 
+![](assets/img/chapter-3/img-impact-map-restaurant-1.png) 
 
 ## 3.4. Product Backlog
 

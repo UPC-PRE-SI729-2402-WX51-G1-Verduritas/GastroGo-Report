@@ -449,6 +449,11 @@ Para etiquetar los ciertos botones y funcionalidades presentes en la aplicación
 
 ## 4.2.3. SEO Tags and Meta Tags
 
+Hemos utilizado palabras claves para optimizar nuestros SEO Tags y Meta Tags para los motores de búsqueda, así mejoraremos la visibilidad de nuestra página y aplicación web.
+
+**Landing Page**
+
+
 
 ## 4.2.4. Searching Systems
 

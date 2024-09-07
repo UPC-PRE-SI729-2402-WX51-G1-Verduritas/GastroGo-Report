@@ -454,6 +454,16 @@ Hemos utilizado palabras claves para optimizar nuestros SEO Tags y Meta Tags par
 **Landing Page**
 
 
+**Web Application**
+
+Explicación:
+
+- charset UTF-8: codificación de caracteres que se utilizarán en la landing page y aplicación web
+- meta name="viewport" content="width=device-width, initial-scale=1.0: Este la línea de código es para que ambos productos se adapten al dispositivo que el cliente utilice.
+- GastroGo - Corporate ordering platform: Este es el título de nuestra página, aparecerá en la pestaña y por ello será más fácil reconocer nuestro producto.
+- meta name="description" content="Order your dishes, manage your orders, track deliveries and explore all the restaurants available with GastroGo! Start now!: Esta descripción breve es para que, en los motores de búsqueda, pueda mostrar de qué trata la página de manera resumida y clara.
+- meta name="keywords" content="local restaurants, online ordering, food delivery, order tracking, GastroGo": Estas palabras claves permiten que los motores de búsqueda permitan relacionar nuestra página con búsquedas relevantes.
+- meta name="author" content="DevDynasty": Esta línea es para indicar quién es el autor que, en este caso, somos nosotros los desarrolladores.
 
 ## 4.2.4. Searching Systems
 

@@ -596,6 +596,7 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -644,6 +645,11 @@ En esta entrega, el equipo Verduritas logró implementar la landing page, la cua
 Durante el sprint 1, se centró en el desarrollo de la landing page como primera tarea prioritaria. Dado que el enfoque principal fue establecer la estructura y diseño inicial de la página, no se integraron ni utilizaron servicios web en esta etapa. La implementación de servicios web se considerará en sprints futuros, una vez que la landing page esté completamente desplegada.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+- Git: Utilizado como sistema de control de versiones, facilitó la colaboración efectiva entre los miembros del equipo durante el proceso de desarrollo.
+- GitFlow: Implementado como metodología de trabajo, permitió organizar y gestionar de manera eficiente los aportes de cada integrante, garantizando un flujo continuo en el progreso del proyecto.
+- GitHub: Plataforma esencial para el trabajo colaborativo, donde se gestionaron y almacenaron todas las versiones del proyecto, asegurando un control adecuado de los cambios.
+- GitHub Pages: Utilizado para desplegar la landing de forma rápida y sencilla, permitiendo que la aplicación esté disponible públicamente desde un repositorio de GitHub.
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint

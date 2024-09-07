@@ -599,12 +599,6 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
-Durante el sprint 1, se centró en el desarrollo de la landing page como primera tarea prioritaria. Dado que el enfoque principal fue establecer la estructura y diseño inicial de la página, no se integraron ni utilizaron servicios web en esta etapa. La implementación de servicios web se considerará en sprints futuros, una vez que la landing page esté completamente desplegada.
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
 En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
 
 <p align="center">
@@ -644,6 +638,13 @@ En esta entrega, el equipo Verduritas logró implementar la landing page, la cua
 <p align="center">
   <img src="assets/img/chapter-5/img-evidence-9.png" alt=" " width="100%">
 </p>
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante el sprint 1, se centró en el desarrollo de la landing page como primera tarea prioritaria. Dado que el enfoque principal fue establecer la estructura y diseño inicial de la página, no se integraron ni utilizaron servicios web en esta etapa. La implementación de servicios web se considerará en sprints futuros, una vez que la landing page esté completamente desplegada.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 

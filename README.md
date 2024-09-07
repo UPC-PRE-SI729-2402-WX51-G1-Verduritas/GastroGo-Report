@@ -408,6 +408,8 @@ Pantalla de notificaciones para los restaurantes
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+En esta sección se presentarán los wireflow diagrams, que son diagramas que muestran la navegación de la aplicación web. Estos diagramas nos permitirán dar una noción de cómo será la experiencia del usuario al navegar por la aplicación web.
+
 ### 4.4.3. Web Applications Mock-ups
 En esta sección se presentan los mock-ups de la aplicación web. Es decir, a base de los wireframes vistos anteriormente se ha creado una esquematización de alta fidelidad, acorde a las guías de estilo, arquitectura de la información y componentes mencionados en secciones anteriores.
 Enlace al Figma: https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=121-156&t=nBFBpuZ4klesT9br-1

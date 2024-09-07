@@ -218,7 +218,6 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 # Capítulo IV: Product Design
 
 Este capítulo se plantea en el proceso de diseño de los productos digitales que brinda DevDynasty. Asimismo, se enfocará en el diseño visual y la arquitectura de la información con la que se alinearán los productos para crear interfaces de usuario (UI) y experiencias de usuario (UX) efectivas.
-
 ## 4.1. Style Guidelines
 
 En este segmento, se detallarán las guías de estilo específicas para la landing page y aplicación web. Esto será esencial para mantener coherencia en la apariencia visual de los elementos presentes en nuestros productos.
@@ -271,6 +270,7 @@ Se creó una guía específica a seguir para los productos a presentar. Esto inc
 
 Enlace al esquema: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=0-1&t=SCpQeKPmjP50AJMN-1 
 
+![Web Style Guidelines](assets/img/chapter-4/web-style-guidelines.png) <br>
 
 ## 4.2. Information Architecture
 

@@ -342,12 +342,16 @@ En esta sección se presentarán los wireframes de la landing page. Estos wirefr
 
 Enlace al Figma: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=1-3&t=SCpQeKPmjP50AJMN-1 
 
+Para Desktop Browser:
+
+Para Mobile Browser:
+
 
 ## 4.3.2 Landing Page Mock Up
 En esta sección se presentarán los mock-ups de la landing page. Estos mock-ups son esquemas de alta fidelidad que muestran la estructura de la página, todas las guías de estilo indicadas en las secciones anteriores están presentes en estos esquemas.
 
-Enlace al Figma:
-https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=1-3&t=wDYwqq80w6CGC5hD-1
+Enlace al Figma: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=1-3&t=cbyL7czsaZGGdrXc-1
+
 
 Para Desktop Browser:
 

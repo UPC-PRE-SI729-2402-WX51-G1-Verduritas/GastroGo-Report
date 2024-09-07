@@ -533,6 +533,11 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-sprint-verduritas-1.png" alt=" " width="100%">
+</p>
+
 #### 5.2.1.1. Sprint Planning 1
 
 | **Sprint #**                    | Sprint 1                                                                 |

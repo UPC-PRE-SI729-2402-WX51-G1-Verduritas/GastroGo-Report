@@ -590,11 +590,11 @@ Container diagram:
 
 Tracking component diagram:
 
-![Tracking component](assets/img/chapter-4/trackingcomponetn.jpg)
+![Tracking component](assets/img/chapter-4/img-c4-1.png)
 
 Sales component diagram:
 
-![Sales component](assets/img/chapter-4/salescomponent.jpg)
+![Sales component](assets/img/chapter-4/img-c4-2.png)
 
 Payment component diagram:
 

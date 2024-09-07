@@ -473,11 +473,9 @@ Para el sistema de búsqueda interno, en la aplicación web, se implementarán d
 - No solo sería en términos de comida, también al momento de buscar los restaurantes con más estrellas.
 - También tendrán la opción de buscar restaurantes que ellos ya sepan, de esta forma, es más accesible la información de cada local.
 
-
 ## 4.2.5 Navigation Systems
 
-
-
+Para la navegación se crearán menús principales que sean claros para facilitar el proceso a los usuarios de ambos segmentos. Dependiendo del usuario, se determinará el menú y tendrá botones para acceder a las distintas funcionalidades presentes en la aplicación.
 
 ## 4.3. Landing Page UI Design
 

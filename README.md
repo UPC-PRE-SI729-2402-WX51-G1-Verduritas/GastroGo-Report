@@ -361,6 +361,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 # Capítulo IV: Product Design
+
+Este capítulo se plantea en el proceso de diseño de los productos digitales que brinda DevDynasty. Asimismo, se enfocará en el diseño visual y la arquitectura de la información con la que se alinearán los productos para crear interfaces de usuario (UI) y experiencias de usuario (UX) efectivas.
+
 ## 4.1. Style Guidelines
 4.1.1. General Style Guidelines.
 	

@@ -435,7 +435,9 @@ Para la categorización, se escogieron tres esquemas:
 
 La información de los restaurantes, cuando se presente los recuadros de cada uno para los trabajadores, se organizará alfabéticamente. Esto permite que la información esté más ordenada y sea cómodo para el cliente.
 
+- **Cronológico**
 
+La información de los pedidos para cada restaurante será de manera cronológica, el primer pedido que reciban, será puesto en la parte superior de la lista y, consecuentemente, seguirán los nuevos pedido. Así, mantendremos un orden justo para realizar los almuerzos acorde a el orden de llegada.
 
  ## 4.2.2. Labeling Systems.
 

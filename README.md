@@ -526,9 +526,41 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 
 
 ### 5.1.4. Software Deployment Configuration
+En esta sección explicaremos el proceso de despliegue de nuestra página de aterrizaje utilizando el servicio automatizado de GitHub Pages. A continuación, se detallarán los pasos requeridos para alcanzar el despliegue.
+-   Debemos asegurarnos de tener un repositorio con la landing page a desplegar.
 
 <p align="center">
-  <img src="assets/img/chapter-5/img-sprint-1.png" alt=" " width="100%">
+  <img src="assets/img/chapter-5/img-configuration-1.png" alt=" " width="100%">
+</p>
+
+-   Accedemos a nuestro repositorio y debemos de añadir el html, css y js segun corresponda.
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-configuration-2.png" alt=" " width="100%">
+</p>
+
+- Debemos ingresar al apartado de configuracion de nuestro repositorio.
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-configuration-3.png" alt=" " width="100%">
+</p>
+
+- Dentro de la configuracion debemos seleccionar el apartado de GitHub Pages.
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-configuration-3.png" alt=" " width="100%">
+</p>
+
+- Una vez dentro de GitHub Pages debemos seleccionar la branch que deseamos desplegar y presionar el boton de save para que empieze a desplegarse.
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-configuration-4.png" alt=" " width="100%">
+</p>
+
+- Una vez final el build podremos visualizar el enlace con el que podremos visualizar nuestra landing page desplegada.
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-configuration-5.png" alt=" " width="100%">
 </p>
 
 ## 5.2. Landing Page, Services & Applications Implementation

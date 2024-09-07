@@ -427,6 +427,10 @@ En este segmento se explicará la organización escogida para el producto, las e
 
 Se decidió utilizar la jerarquía visual para organizar la información del contenido en los productos, de esta forma, el usuario podría discernir lo que tiene más relevancia. Es por ello que el tamaño de texto varía dependiendo de la importancia de cada oración presente. Por ejemplo, se escogió para los encabezados importantes entre los tamaños 48px - 40px, para los subtítulos 32px - 24px y para los párrafos 16px - 14px. También, se consideró la organización secuencial, para guiar al usuario al momento de realizar el pago de su suscripción en la aplicación web.
 
+**Categorization Schemes**
+
+Para la categorización, se escogieron tres esquemas:
+
  ## 4.2.2. Labeling Systems.
 
 

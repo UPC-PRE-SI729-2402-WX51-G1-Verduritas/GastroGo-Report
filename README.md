@@ -249,9 +249,7 @@ Se estima que en el mercado de pedidos de comida aumentó  un 47% en los último
 
 Según el Instituto Nacional de Estadística e Informática (INEI) (2022), en abril de 2022 la actividad de los restaurantes en Lima Metropolitana aumentó un 47,65 %, lo que refleja un crecimiento significativo en la demanda de servicios gastronómicos. Este incremento resalta la oportunidad y necesidad de plataformas como GastroGo, que buscan optimizar y digitalizar los procesos de pedidos grupales para satisfacer tanto a los restaurantes como a los grupos de trabajadores, mejorando así la eficiencia y la experiencia del cliente en un mercado en expansión. <br><br>
 
-<p align="center">
-  <img src="assets/img/chapter-1/img-inei-estadistica.png" alt=" " width="50%">
-</p>
+![Inei ](assets/img/chapter-1/img-inei-estadistica.png)
 
 
 ### 1.2.2 Lean UX Process

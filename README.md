@@ -417,8 +417,9 @@ Se creó una guía específica a seguir para los productos a presentar. Esto inc
 Enlace al esquema: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=0-1&t=SCpQeKPmjP50AJMN-1 
 
 
-	
 ## 4.2. Information Architecture
+
+En este segmento se explicará la organización escogida para el producto, las etiquetas y la forma de navegación dentro de la plataforma, de esta forma garantiza una experiencia amigable para los usuarios y facilidad de encontrar la información que deseen.
 
 ## 4.1.2. Organization Systems.
 

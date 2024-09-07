@@ -313,8 +313,25 @@ Hemos utilizado palabras claves para optimizar nuestros SEO Tags y Meta Tags par
 
 **Landing Page**
 
+```
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0> // for mobile
+<title>GastroGo - Corporate ordering platform</title>
+<meta name="description" content="Discover the best local restaurants at the palm of your hand and order a good meal for you and your team with GastroGo!">
+<meta name="keywords" content="local restaurants, online ordering, food delivery, GastroGo>
+<meta name="author" content="DevDynasty">
+```
 
 **Web Application**
+
+```
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0> // for mobile
+<title>GastroGo - Corporate ordering platform</title>
+<meta name="description" content="Order your dishes, manage your orders, track deliveries and explore all the restaurants available with GastroGo! Start now!">
+<meta name="keywords" content="local restaurants, online ordering, food delivery, order tracking, GastroGo">
+<meta name="author" content="DevDynasty">
+```
 
 Explicación:
 

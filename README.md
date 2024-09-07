@@ -386,7 +386,7 @@ Se utilizó el nombre completo de la aplicación debido a que es corta y fácil 
 Se utilizó la fuente Roboto debido a su facilidad al momento de leer. Roboto es una fuente bastante utilizada en la mayoría de aplicaciones debido a la legibilidad que presenta. Para utilizarla, tuvimos en cuento el tamaño de letra para los cuatro niveles necesarios para nuestros productos que son los encabezados, cuerpo de texto, botones y enlaces.
 
 
-Typescale recuperado de: https://m2.material.io/design/typography/the-type-system.html 
+*Typescale recuperado de*: https://m2.material.io/design/typography/the-type-system.html 
 
 **Colors:**
 
@@ -395,6 +395,16 @@ Para poder escoger los colores representativos de la aplicación, decidimos basa
 Enlace a la paleta: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=0-1&t=SCpQeKPmjP50AJMN-1 
 
 
+*Color Palette recuperado de*: https://material.io/design/color/the-color-system.html#color-theme-creation
+
+**Spacing:**
+
+El spacing a considerar para mantener el contenido entendible será:
+
+- Button padding: 16 px (vertical), 26 px (vertical)
+- Input fields: 40 px (altura), 20 px (espacio entre campos)
+- Margin entre secciones: 60 px
+- Height entre textos: 30 px
 	
 ## 4.2. Information Architecture
 

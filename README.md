@@ -431,6 +431,12 @@ Se decidió utilizar la jerarquía visual para organizar la información del con
 
 Para la categorización, se escogieron tres esquemas:
 
+- **Alfabético**
+
+La información de los restaurantes, cuando se presente los recuadros de cada uno para los trabajadores, se organizará alfabéticamente. Esto permite que la información esté más ordenada y sea cómodo para el cliente.
+
+
+
  ## 4.2.2. Labeling Systems.
 
 

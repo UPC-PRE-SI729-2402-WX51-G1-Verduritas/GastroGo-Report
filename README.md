@@ -343,9 +343,11 @@ En esta sección se presentarán los wireframes de la landing page. Estos wirefr
 Enlace al Figma: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=1-3&t=SCpQeKPmjP50AJMN-1 
 
 Para Desktop Browser:
+
 ![Landing Page Wireframes](assets/img/chapter-4/landing-page-wireframes.png)
 
 Para Mobile Browser:
+
 ![Landing Page Mobile Wireframes](assets/img/chapter-4/landing-page-mobile-wireframes.png)
 
 ## 4.3.2 Landing Page Mock Up
@@ -373,61 +375,117 @@ En esta sección se presentarán los wireframes de la aplicación web. Estos son
 
 Iniciar Sesión
 
+![Log In](assets/img/chapter-4/LogIn.png)
+
 Pago de membresía
+
+![Membership payment](assets/img/chapter-4/Payments.png)
 
 Recuperar Contraseña
 
+![Recover Password](assets/img/chapter-4/RecoverPassword.png)
+
 Determinar el tipo de usuario (Grupo de Trabajadores o Restaurantes)
+
+![User type](assets/img/chapter-4/UserType.png)
 
 Explicación de Planes
 
+![Plans for App](assets/img/chapter-4/Plans.png)
+
 Ingreso de información para el tipo de usuario
+
+![Forms](assets/img/chapter-4/Forms.png)
 
 Pantalla principal para segmento de grupo de trabajadores
 
+![Home](assets/img/chapter-4/Home.png)
+
 Detalles de cada restaurante para los trabajadores
+
+![Restaurant](assets/img/chapter-4/RestaurantSearch.png)
 
 Ordenar una comida y añadir notas para el restaurante
 
+![Orders](assets/img/chapter-4/Order.png)
+
 Pantalla de órdenes realizadas por el grupo de trabajadores
+
+![img.png](assets/img/chapter-4/OrdersUser.png)
 
 Pantalla de actividades grupales para los trabajadores y pago equitativo de cuenta
 
+![img_1.png](assets/img/chapter-4/Group.png)
+
 Perfil del trabajador y su respectiva suscripción
+
+![img_2.png](assets/img/chapter-4/ProfileWorker.png)
 
 Pantalla de notificaciones para los trabajadores
 
+![img_3.png](assets/img/chapter-4/NotificationsWorker.png)
+
 Pantalla principal para segmento de restaurantes (incluye órdenes recientes y su reputación en la página web)
+
+![img_4.png](assets/img/chapter-4/HomeRestaurants.png)
 
 Pantalla de órdenes y detalles del restaurante
 
+![img_5.png](assets/img/chapter-4/OrdersRestaurants.png)
+
 Pantalla para crear menús y visualizar el detalle de cada uno
+
+![img_6.png](assets/img/chapter-4/MenuRestaurants.png)
 
 Perfil del restaurante y su respectiva suscripción
 
+![img_7.png](assets/img/chapter-4/ProfileRestaurant.png)
+
 Pantalla de notificaciones para los restaurantes
+
+![img_8.png](assets/img/chapter-4/NotificationsRestaurant.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 En esta sección se presentarán los wireflow diagrams, que son diagramas que muestran la navegación de la aplicación web. Estos diagramas nos permitirán dar una noción de cómo será la experiencia del usuario al navegar por la aplicación web.
 
-**Grupo de Trabajadores:**
+Grupo de Trabajadores:
 
 User Goal: Como líder de grupo de trabajadores, quiero poder iniciar sesión, unirme a GastroGo, recuperar mi contraseña y tener la posibilidad de tener una suscripción para ingresar a la aplicación web.
 
+![First](assets/img/chapter-4/Wireframe1.png)
+
 User Goal: Como líder de grupo de trabajadores, quiero ordenar comida, poder mandar una nota que mencione lo que no se desea en el pedido para tener una buena experiencia dentro de la aplicación y disfrutar mi merienda.
+
+![Second](assets/img/chapter-4/Wireframe2.jpg)
+
 
 User Goal: Como líder de grupo de trabajadores, quiero poder cancelar una orden en caso no la necesite o prefiera otro restaurante y se le avise al restaurante inmediatamente para evitar incomodidades en la comida.
 
+![Third](assets/img/chapter-4/Wireframe3.jpg)
+
+
 User Goal: Como líder de grupo de trabajadores, quiero tener un método de pago para realizar la compra de pedidos para tener los beneficios de la plataforma acorde al plan escogido.
 
-**Restaurantes:**
+![Fourth](assets/img/chapter-4/Wireframe4.jpg)
+
+
+Restaurantes:
 
 User Goal: Como dueño de un restaurante, quiero poder iniciar sesión, unirme a GastroGo, recuperar mi contraseña y pagar la suscripción para ingresar a la aplicación web.
 
+![Fifth](assets/img/chapter-4/Wireframe5.jpg)
+
+
 User Goal: Como dueño de un restaurante, quiero añadir los distintos menús que tenemos disponibles y ver los detalles de los que ya estén agregados para poder generar más clientela para mi negocio y aumentar nuestras ganancias.
 
+![Sixth](assets/img/chapter-4/Wireframe6.png)
+
+
 User Goal: Como dueño de un restaurante, quiero revisar las órdenes y denegar algunas en caso sobrepase la capacidad del equipo de cocina para preservar la calidad de las órdenes y mantener una buena experiencia para el usuario.
+
+
+![Seventh](assets/img/chapter-4/Wireframe7.jpg)
 
 ### 4.4.3. Web Applications Mock-ups
 En esta sección se presentan los mock-ups de la aplicación web. Es decir, a base de los wireframes vistos anteriormente se ha creado una esquematización de alta fidelidad, acorde a las guías de estilo, arquitectura de la información y componentes mencionados en secciones anteriores.

@@ -605,6 +605,46 @@ Durante el sprint 1, se centró en el desarrollo de la landing page como primera
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-1.png" alt=" " width="100%">
+</p>
+
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-2.png" alt=" " width="100%">
+</p>
+
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-3.png" alt=" " width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-4.png" alt=" " width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-5.png" alt=" " width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-6.png" alt=" " width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-7.png" alt=" " width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-8.png" alt=" " width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-9.png" alt=" " width="100%">
+</p>
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:

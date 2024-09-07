@@ -216,22 +216,24 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 # Capítulo IV: Product Design
-
-Este capítulo se plantea en el proceso de diseño de los productos digitales que brinda DevDynasty. Asimismo, se enfocará en el diseño visual y la arquitectura de la información con la que se alinearán los productos para crear interfaces de usuario (UI) y experiencias de usuario (UX) efectivas.
+Este capítulo se plantea en el proceso de diseño de los productos digitales que brinda Verduritas. Asimismo, se enfocará en el diseño visual y la arquitectura de la información con la que se alinearán los productos para crear interfaces de usuario (UI) y experiencias de usuario (UX) efectivas.
 ## 4.1. Style Guidelines
 
 En este segmento, se detallarán las guías de estilo específicas para la landing page y aplicación web. Esto será esencial para mantener coherencia en la apariencia visual de los elementos presentes en nuestros productos.
 
 ## 4.1.1. General Style Guidelines
 
-**Branding:**
+**Branding**:
 
-*Brand Overview* GastroGo es una plataforma diseñada para simplificar el procedo de pedidos de almuerzos (comúnmente conocido como menús) para distintos grupos de trabajadores dentro de empresas. Nuestro objetivo es ofrecer al usuario una experiencia fluida para los restaurantes asociados y a los empleados de distintas empresas de la capital. Nos aseguramos que de los empleados puedan obtener un almuerzo de su agrado y facilidad al momento de pedir y recibir. Asimismo, nos enfocamos en brindar a los restaurantes la oportunidad de expandir su clientela en el rubro.
+*Brand Overview*
+GastroGo es una plataforma diseñada para simplificar el procedo de pedidos de almuerzos (comúnmente conocido como menús) para distintos grupos de trabajadores dentro de empresas. Nuestro objetivo es ofrecer al usuario una experiencia fluida para los restaurantes asociados y a los empleados de distintas empresas de la capital. Nos aseguramos que de los empleados puedan obtener un almuerzo de su agrado y facilidad al momento de pedir y recibir. Asimismo, nos enfocamos en brindar a los restaurantes la oportunidad de expandir su clientela en el rubro.
 
-*Brand Name* GastroGo utiliza "Gastro" (abreviatura de la palabra gastronomía) y "Go" (ir en la traducción al español) para transmitir la idea de la aplicación de manera rápida. Tener la abreviación de gastronomía indica, inmediatamente, que la aplicación está enfocada en alimentos. Asimismo, se tiene en cuenta el "go" porque esta palabra suele estar relacionada con movilidad y rapidez. Es por ello que el nombre es fácil de entender desde la perspectiva del usuario, sabrá instantáneamente que el producto es sobre pedidos de comida. Al ser un nombre llamativo, permitirá que captemos la atención de un amplio número de usuarios interesados en encontrar una solución rápida de comida.
+*Brand Name*
+GastroGo utiliza "Gastro" (abreviatura de la palabra gastronomía) y "Go" (ir en la traducción al español) para transmitir la idea de la aplicación de manera rápida. Tener la abreviación de gastronomía indica, inmediatamente, que la aplicación está enfocada en alimentos. Asimismo, se tiene en cuenta el "go" porque esta palabra suele estar relacionada con movilidad y rapidez. Es por ello que el nombre es fácil de entender desde la perspectiva del usuario, sabrá instantáneamente que el producto es sobre pedidos de comida. Al ser un nombre llamativo, permitirá que captemos la atención de un amplio número de usuarios interesados en encontrar una solución rápida de comida.
 
 A continuación, se mostrará el logo:
 
+![GastroGo Logo](assets/img/chapter-4/logo-gastrogo.jpeg)
 
 Se utilizó el nombre completo de la aplicación debido a que es corta y fácil de recordar. También, el uso de un tenedor como imagen central representa los pedidos de comida que se pueden realizar. Incluimos unas líneas que parten del punto central a distintos círculos, esto representa que la conexión que permite GastroGo, de los restaurantes a varios grupos de empleados con la necesidad de recibir su comida para la hora del almuerzo.
 
@@ -239,26 +241,27 @@ Se utilizó el nombre completo de la aplicación debido a que es corta y fácil 
 
 Se utilizó la fuente Roboto debido a su facilidad al momento de leer. Roboto es una fuente bastante utilizada en la mayoría de aplicaciones debido a la legibilidad que presenta. Para utilizarla, tuvimos en cuento el tamaño de letra para los cuatro niveles necesarios para nuestros productos que son los encabezados, cuerpo de texto, botones y enlaces.
 
+![Roboto font](assets/img/chapter-4/typescale.png) <br>
 
-*Typescale recuperado de*: https://m2.material.io/design/typography/the-type-system.html 
+*Typescale recuperado de: https://m2.material.io/design/typography/the-type-system.html*
 
 **Colors:**
 
-Para poder escoger los colores representativos de la aplicación, decidimos basarnos en los efectos que puede producir en los usuarios al momento de verlo. En este caso, se utilizaron los colores azul y naranja, de ahí partimos para crear la paleta de colores. La razón para escoger el azul es porque representa seguridad y es bastante popular en varias aplicaciones reconocidas. Además, es un color calmado, permite que el usuario se sienta cómodo al momento de navegar. Asimismo, decidimos agregar el color naranja como color secundario debido a la calidez que emite al usuario. La razón por la cuál se escogió el naranja es porque es más llamativo, por ello es que preferimos colocarlo en los call to action. 
+Para poder escoger los colores representativos de la aplicación, decidimos basarnos en los efectos que puede producir en los usuarios al momento de verlo. En este caso, se utilizaron los colores azul y naranja, de ahí partimos para crear la paleta de colores. La razón para escoger el azul es porque representa seguridad y es bastante popular en varias aplicaciones reconocidas. Además, es un color calmado, permite que el usuario se sienta cómodo al momento de navegar. Asimismo, decidimos agregar el color naranja como color secundario debido a la calidez que emite al usuario. La razón por la cuál se escogió el naranja es porque es más llamativo, por ello es que preferimos colocarlo en los call to action. Enlace a la paleta: https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=0-1&t=9bAg56CXCBc09MeI-1
 
-Enlace a la paleta: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=0-1&t=SCpQeKPmjP50AJMN-1 
+![Color Palette by Material.io](assets/img/chapter-4/color-palette-material.png) <br>
 
+*Color Palette recuperado de: https://material.io/design/color/the-color-system.html#color-theme-creation*
 
-*Color Palette recuperado de*: https://material.io/design/color/the-color-system.html#color-theme-creation
+![Color Palette created in Figma](assets/img/chapter-4/color-palette.png) <br>
 
 **Spacing:**
 
 El spacing a considerar para mantener el contenido entendible será:
-
-- Button padding: 16 px (vertical), 26 px (vertical)
-- Input fields: 40 px (altura), 20 px (espacio entre campos)
-- Margin entre secciones: 60 px
-- Height entre textos: 30 px
+* Button padding: 16 px (vertical), 26 px (vertical)
+* Input fields: 40 px (altura), 20 px (espacio entre campos)
+* Margin entre secciones: 60 px
+* Height entre textos: 30 px
 
 **Dimensions:**
 

@@ -445,7 +445,7 @@ Acorde a los segmentos objetivos que tenemos: restaurantes dispuestos a presenta
 
  ## 4.2.2. Labeling Systems.
 
-
+Para etiquetar los ciertos botones y funcionalidades presentes en la aplicación web decidimos buscar una opción que permita al usuario intuir que implica cada uno. Es por ello que hemos escogido los que están presentes en Angular (https://material.angular.io/components/icon/overview) para la aplicación web debido a que son fáciles de entender y están relacionadas a lo que representan las funcionalidades. En el caso de la landing page, solo vamos a utilizar íconos para las redes sociales (Instagram, Facebook, X, etc.) disponibles para que se contacten con nosotros.
 
 ## 4.2.3. SEO Tags and Meta Tags
 

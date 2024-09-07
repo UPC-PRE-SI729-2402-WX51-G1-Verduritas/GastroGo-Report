@@ -503,9 +503,10 @@ Para Mobile Browser:
 ![Landing Page Mobile Mock-Up](assets/img/chapter-4/landing-page-mobile-mock-up.png)
 
 
-
-
 ## 4.4. Web Applications UX/UI Design
+
+En este segmento se presentará el proceso de diseño de la aplicación web, desde los wireframes hasta los mock-ups. Se tuvo en cuenta las guías de estilo y arquitectura de información previamente explicadas para mantener una apropiada coherencia visual con la landing page.
+
 ### 4.4.1. Web Applications Wireframes
 
 ### 4.4.2. Web Applications Wireflow Diagrams

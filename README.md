@@ -479,6 +479,8 @@ Para la navegación se crearán menús principales que sean claros para facilita
 
 ## 4.3. Landing Page UI Design
 
+En esta sección mostraremos el proceso de diseño para nuestra landing page, desde los wireframes hasta los mock-ups. Hemos tenido en cuenta las reglas determinadas en la guía de estilo para mantener la coherencia visual en la página y que sea fácil de relacionar con la aplicación web.
+
 ## 4.3.1. Landing Page Wireframe
 
 ## 4.3.2 Landing Page Mock Up

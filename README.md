@@ -387,6 +387,14 @@ Se utilizó la fuente Roboto debido a su facilidad al momento de leer. Roboto es
 
 
 Typescale recuperado de: https://m2.material.io/design/typography/the-type-system.html 
+
+**Colors:**
+
+Para poder escoger los colores representativos de la aplicación, decidimos basarnos en los efectos que puede producir en los usuarios al momento de verlo. En este caso, se utilizaron los colores azul y naranja, de ahí partimos para crear la paleta de colores. La razón para escoger el azul es porque representa seguridad y es bastante popular en varias aplicaciones reconocidas. Además, es un color calmado, permite que el usuario se sienta cómodo al momento de navegar. Asimismo, decidimos agregar el color naranja como color secundario debido a la calidez que emite al usuario. La razón por la cuál se escogió el naranja es porque es más llamativo, por ello es que preferimos colocarlo en los call to action. 
+
+Enlace a la paleta: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=0-1&t=SCpQeKPmjP50AJMN-1 
+
+
 	
 ## 4.2. Information Architecture
 

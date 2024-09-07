@@ -215,13 +215,15 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
+
 # Capítulo IV: Product Design
+
 Este capítulo se plantea en el proceso de diseño de los productos digitales que brinda Verduritas. Asimismo, se enfocará en el diseño visual y la arquitectura de la información con la que se alinearán los productos para crear interfaces de usuario (UI) y experiencias de usuario (UX) efectivas.
 ## 4.1. Style Guidelines
 
 En este segmento, se detallarán las guías de estilo específicas para la landing page y aplicación web. Esto será esencial para mantener coherencia en la apariencia visual de los elementos presentes en nuestros productos.
 
-## 4.1.1. General Style Guidelines
+### 4.1.1. General Style Guidelines
 
 **Branding**:
 
@@ -267,7 +269,7 @@ El spacing a considerar para mantener el contenido entendible será:
 
 Se prefirió utilizar un tono amigable y cercano, sin dejar de lado el respeto a los usuarios. GastroGo busca ser concisa en la comunicación, buscamos persuadir a los usuarios sin necesidad de ser muy serios, ya que esto podría causar un poco de incomodidad a los potenciales clientes.
 
-## 4.1.2. Web Style Guidelines
+### 4.1.2. Web Style Guidelines
 
 Se creó una guía específica a seguir para los productos a presentar. Esto incluye los componentes a utilizar en la página web. Tenemos en cuenta la paleta de colores mencionadas con anterioridad. De esta forma, buscamos llamar la atención de los usuarios, esto permite que puedan navegar los productos con más interés. 
 
@@ -279,7 +281,7 @@ Enlace al esquema: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSourc
 
 En este segmento se explicará la organización escogida para el producto, las etiquetas y la forma de navegación dentro de la plataforma, de esta forma garantiza una experiencia amigable para los usuarios y facilidad de encontrar la información que deseen.
 
-## 4.1.2. Organization Systems.
+### 4.1.2. Organization Systems.
 
 **Visual Organization**
 
@@ -301,11 +303,11 @@ La información de los pedidos para cada restaurante será de manera cronológic
 
 Acorde a los segmentos objetivos que tenemos: restaurantes dispuestos a presentar sus negocios en la aplicación y los grupos de trabajadores, hemos decidido que cada uno vea su respectiva información, porque esta varía debido a que sus metas con la aplicación son distintas. De esta forma, evitamos confusiones al momento de presentar sus respectivos beneficios.
 
- ## 4.2.2. Labeling Systems.
+ ### 4.2.2. Labeling Systems.
 
 Para etiquetar los ciertos botones y funcionalidades presentes en la aplicación web decidimos buscar una opción que permita al usuario intuir que implica cada uno. Es por ello que hemos escogido los que están presentes en Angular (https://material.angular.io/components/icon/overview) para la aplicación web debido a que son fáciles de entender y están relacionadas a lo que representan las funcionalidades. En el caso de la landing page, solo vamos a utilizar íconos para las redes sociales (Instagram, Facebook, X, etc.) disponibles para que se contacten con nosotros.
 
-## 4.2.3. SEO Tags and Meta Tags
+### 4.2.3. SEO Tags and Meta Tags
 
 Hemos utilizado palabras claves para optimizar nuestros SEO Tags y Meta Tags para los motores de búsqueda, así mejoraremos la visibilidad de nuestra página y aplicación web.
 
@@ -323,7 +325,7 @@ Explicación:
 - meta name="keywords" content="local restaurants, online ordering, food delivery, order tracking, GastroGo": Estas palabras claves permiten que los motores de búsqueda permitan relacionar nuestra página con búsquedas relevantes.
 - meta name="author" content="DevDynasty": Esta línea es para indicar quién es el autor que, en este caso, somos nosotros los desarrolladores.
 
-## 4.2.4. Searching Systems
+### 4.2.4. Searching Systems
 
 Para el sistema de búsqueda interno, en la aplicación web, se implementarán distintos filtros para mejorar la experiencia del usuario:
 
@@ -331,7 +333,7 @@ Para el sistema de búsqueda interno, en la aplicación web, se implementarán d
 - No solo sería en términos de comida, también al momento de buscar los restaurantes con más estrellas.
 - También tendrán la opción de buscar restaurantes que ellos ya sepan, de esta forma, es más accesible la información de cada local.
 
-## 4.2.5 Navigation Systems
+### 4.2.5 Navigation Systems
 
 Para la navegación se crearán menús principales que sean claros para facilitar el proceso a los usuarios de ambos segmentos. Dependiendo del usuario, se determinará el menú y tendrá botones para acceder a las distintas funcionalidades presentes en la aplicación.
 
@@ -339,7 +341,7 @@ Para la navegación se crearán menús principales que sean claros para facilita
 
 En esta sección mostraremos el proceso de diseño para nuestra landing page, desde los wireframes hasta los mock-ups. Hemos tenido en cuenta las reglas determinadas en la guía de estilo para mantener la coherencia visual en la página y que sea fácil de relacionar con la aplicación web.
 
-## 4.3.1. Landing Page Wireframe
+### 4.3.1. Landing Page Wireframe
 
 En esta sección se presentarán los wireframes de la landing page. Estos wireframes son esquemas de baja fidelidad que muestran la estructura de la página, sin tener en cuenta la paleta de colores ni las imágenes que se utilizarán. 
 
@@ -353,7 +355,7 @@ Para Mobile Browser:
 
 ![Landing Page Mobile Wireframes](assets/img/chapter-4/landing-page-mobile-wireframes.png)
 
-## 4.3.2 Landing Page Mock Up
+### 4.3.2 Landing Page Mock Up
 En esta sección se presentarán los mock-ups de la landing page. Estos mock-ups son esquemas de alta fidelidad que muestran la estructura de la página, todas las guías de estilo indicadas en las secciones anteriores están presentes en estos esquemas.
 
 Enlace al Figma: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=1-3&t=cbyL7czsaZGGdrXc-1

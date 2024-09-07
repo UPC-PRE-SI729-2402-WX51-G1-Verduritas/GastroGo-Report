@@ -410,6 +410,17 @@ Pantalla de notificaciones para los restaurantes
 
 En esta sección se presentarán los wireflow diagrams, que son diagramas que muestran la navegación de la aplicación web. Estos diagramas nos permitirán dar una noción de cómo será la experiencia del usuario al navegar por la aplicación web.
 
+Grupo de Trabajadores:
+
+User Goal: Como líder de grupo de trabajadores, quiero poder iniciar sesión, unirme a GastroGo, recuperar mi contraseña y tener la posibilidad de tener una suscripción para ingresar a la aplicación web.
+
+User Goal: Como líder de grupo de trabajadores, quiero ordenar comida, poder mandar una nota que mencione lo que no se desea en el pedido para tener una buena experiencia dentro de la aplicación y disfrutar mi merienda.
+
+User Goal: Como líder de grupo de trabajadores, quiero poder cancelar una orden en caso no la necesite o prefiera otro restaurante y se le avise al restaurante inmediatamente para evitar incomodidades en la comida.
+
+User Goal: Como líder de grupo de trabajadores, quiero tener un método de pago para realizar la compra de pedidos para tener los beneficios de la plataforma acorde al plan escogido.
+
+
 ### 4.4.3. Web Applications Mock-ups
 En esta sección se presentan los mock-ups de la aplicación web. Es decir, a base de los wireframes vistos anteriormente se ha creado una esquematización de alta fidelidad, acorde a las guías de estilo, arquitectura de la información y componentes mencionados en secciones anteriores.
 Enlace al Figma: https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=121-156&t=nBFBpuZ4klesT9br-1

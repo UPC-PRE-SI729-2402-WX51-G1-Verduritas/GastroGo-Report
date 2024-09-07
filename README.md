@@ -410,7 +410,7 @@ Pantalla de notificaciones para los restaurantes
 
 En esta sección se presentarán los wireflow diagrams, que son diagramas que muestran la navegación de la aplicación web. Estos diagramas nos permitirán dar una noción de cómo será la experiencia del usuario al navegar por la aplicación web.
 
-Grupo de Trabajadores:
+**Grupo de Trabajadores:**
 
 User Goal: Como líder de grupo de trabajadores, quiero poder iniciar sesión, unirme a GastroGo, recuperar mi contraseña y tener la posibilidad de tener una suscripción para ingresar a la aplicación web.
 
@@ -420,10 +420,18 @@ User Goal: Como líder de grupo de trabajadores, quiero poder cancelar una orden
 
 User Goal: Como líder de grupo de trabajadores, quiero tener un método de pago para realizar la compra de pedidos para tener los beneficios de la plataforma acorde al plan escogido.
 
+**Restaurantes:**
+
+User Goal: Como dueño de un restaurante, quiero poder iniciar sesión, unirme a GastroGo, recuperar mi contraseña y pagar la suscripción para ingresar a la aplicación web.
+
+User Goal: Como dueño de un restaurante, quiero añadir los distintos menús que tenemos disponibles y ver los detalles de los que ya estén agregados para poder generar más clientela para mi negocio y aumentar nuestras ganancias.
+
+User Goal: Como dueño de un restaurante, quiero revisar las órdenes y denegar algunas en caso sobrepase la capacidad del equipo de cocina para preservar la calidad de las órdenes y mantener una buena experiencia para el usuario.
 
 ### 4.4.3. Web Applications Mock-ups
 En esta sección se presentan los mock-ups de la aplicación web. Es decir, a base de los wireframes vistos anteriormente se ha creado una esquematización de alta fidelidad, acorde a las guías de estilo, arquitectura de la información y componentes mencionados en secciones anteriores.
-Enlace al Figma: https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=121-156&t=nBFBpuZ4klesT9br-1
+
+Enlace al Figma: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=1-2&t=cbyL7czsaZGGdrXc-1 
 
 
 Detalles de cada restaurante para los trabajadores

@@ -409,6 +409,14 @@ El spacing a considerar para mantener el contenido entendible será:
 **Dimensions:**
 
 Se prefirió utilizar un tono amigable y cercano, sin dejar de lado el respeto a los usuarios. GastroGo busca ser concisa en la comunicación, buscamos persuadir a los usuarios sin necesidad de ser muy serios, ya que esto podría causar un poco de incomodidad a los potenciales clientes.
+
+## 4.1.2. Web Style Guidelines
+
+Se creó una guía específica a seguir para los productos a presentar. Esto incluye los componentes a utilizar en la página web. Tenemos en cuenta la paleta de colores mencionadas con anterioridad. De esta forma, buscamos llamar la atención de los usuarios, esto permite que puedan navegar los productos con más interés. 
+
+Enlace al esquema: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=0-1&t=SCpQeKPmjP50AJMN-1 
+
+
 	
 ## 4.2. Information Architecture
 

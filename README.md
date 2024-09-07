@@ -509,6 +509,8 @@ En este segmento se presentará el proceso de diseño de la aplicación web, des
 
 ### 4.4.1. Web Applications Wireframes
 
+En esta sección se presentarán los wireframes de la aplicación web. Estos son los esquemas de baja fidelidad, un blueprint para saber cómo vamos a estructurar la aplicación web antes de continuar con las guías de estilo e imágenes.
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-ups

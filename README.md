@@ -467,6 +467,11 @@ Explicación:
 
 ## 4.2.4. Searching Systems
 
+Para el sistema de búsqueda interno, en la aplicación web, se implementarán distintos filtros para mejorar la experiencia del usuario:
+
+- En el caso de los grupos de trabajadores que estén buscando una comida en específico, podrán utilizar filtros para determinar el tipo de almuerzo que busquen. Por ejemplo: comida vegetariana, sin gluten, dietético, etc.
+- No solo sería en términos de comida, también al momento de buscar los restaurantes con más estrellas.
+- También tendrán la opción de buscar restaurantes que ellos ya sepan, de esta forma, es más accesible la información de cada local.
 
 
 ## 4.2.5 Navigation Systems

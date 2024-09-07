@@ -370,6 +370,42 @@ En este segmento se presentará el proceso de diseño de la aplicación web, des
 
 En esta sección se presentarán los wireframes de la aplicación web. Estos son los esquemas de baja fidelidad, un blueprint para saber cómo vamos a estructurar la aplicación web antes de continuar con las guías de estilo e imágenes.
 
+Iniciar Sesión
+
+Pago de membresía
+
+Recuperar Contraseña
+
+Determinar el tipo de usuario (Grupo de Trabajadores o Restaurantes)
+
+Explicación de Planes
+
+Ingreso de información para el tipo de usuario
+
+Pantalla principal para segmento de grupo de trabajadores
+
+Detalles de cada restaurante para los trabajadores
+
+Ordenar una comida y añadir notas para el restaurante
+
+Pantalla de órdenes realizadas por el grupo de trabajadores
+
+Pantalla de actividades grupales para los trabajadores y pago equitativo de cuenta
+
+Perfil del trabajador y su respectiva suscripción
+
+Pantalla de notificaciones para los trabajadores
+
+Pantalla principal para segmento de restaurantes (incluye órdenes recientes y su reputación en la página web)
+
+Pantalla de órdenes y detalles del restaurante
+
+Pantalla para crear menús y visualizar el detalle de cada uno
+
+Perfil del restaurante y su respectiva suscripción
+
+Pantalla de notificaciones para los restaurantes
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-ups

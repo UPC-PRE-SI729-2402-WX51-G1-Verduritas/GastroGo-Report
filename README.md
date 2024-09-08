@@ -53,6 +53,53 @@ Producto: GastroGo
 ---  
 # Project Report Collaboration Insights
 
+Link del repositorio del reporte del TB1: https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Report
+
+Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los puntos a elaborar para la entrega actual, correspondientes a los Capítulos I hasta el Capítulo V: Sprint 1. Quedando de la siguiente manera:
+
+**Imágen de las Contribuciones del equipo:**
+
+![Contribuciones del equipo](assets/img/develop/img-contributors-team.png)
+
+**Imágen de las Contribuciones:**
+
+![Contribuciones Edery](assets/img/develop/img-contributors-Edery.png)
+
+**Imágen de los Commits:**
+
+![Commits Edery](assets/img/develop/img-commits-Edery.png)
+
+**Imágen de las Contribuciones:**
+
+![Contribuciones Ricardo](assets/img/develop/img-contributors-Ricardo.png)
+
+**Imágen de los Commits:**
+
+![Commits Ricardo](assets/img/develop/img-commits-Ricardo.png)
+
+**Imágen de las Contribuciones:**
+
+![Contribuciones Jose](assets/img/develop/img-contributors-Jose.png)
+
+**Imágen de los Commits:**
+
+![Commits Jose](assets/img/develop/img-commits-Jose.png)
+
+**Imágen de las Contribuciones:**
+
+![Contribuciones Fabiola](assets/img/develop/img-contributors-Fabiola.png)
+
+**Imágen de los Commits:**
+
+![Commits Fabiola](assets/img/develop/img-commits-Fabiola.png)
+
+**Imágen de las Contribuciones:**
+
+![Contribuciones Joaquin](assets/img/develop/img-contributors-Joaquin.png)
+
+**Imágen de los Commits:**
+
+![Commits Joaquin](assets/img/develop/img-commits-Joaquin.png)
   
 ---  
 # Student Outcome

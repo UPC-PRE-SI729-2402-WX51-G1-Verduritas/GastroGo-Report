@@ -1777,6 +1777,8 @@ Para gestionar y organizar los distintos cambios en el proyecto, se utilizó una
 - [**Landing Page Repository**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Landing-Page)
 
 - [**Report Repository**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Report)
+  
+- [**Acceptance Test**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/acceptance-test)
 
 
 
@@ -1803,6 +1805,18 @@ Donde:
 - Feature: Es el nombre de la rama.
 
 - Feature-name: Es el nombre de la características que se están por desarrollar
+
+Donde:
+**type:** Especifica el tipo de cambio introducido en el commit. Los tipos mas comunes son:
+- `feat`: Implementación de una nueva característica
+- `fix`: Corrección de errores
+- `chore`: Tareas de mantenimiento
+- `docs`: Actualización de la documentación
+
+**scope:** (opcional) Identifica el área del código que ha sido modificada. 
+
+**description:** Proporciona una breve descripción del cambio realizado.
+
 
 Ejemplo Report:
 - Se crea una rama de `'feature/chapter-1'` a partir de la rama develop
@@ -2067,6 +2081,10 @@ Uno de los aprendizajes más importantes ha sido el valor de la comunicación y 
   
 ---  
 # Anexos
-- Enlace de la Organización de Github: https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas
+-  [**Organización de Github**]( https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas)
+- [**Acceptance Test**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/acceptance-test)
+-  [**Landing Page**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Landing-Page)
 - Videos de Exposiciones:
-- TB1:
+- TB1: [upc-pre-202401-si729-wx51-verduritas-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EXxL52cQz7tMgtQ3JJSryDYBB4yl3rAXfIEsLBUWp-Icwg?e=cegRN9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [**Web Applications Prototyping**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EYhnox1X-wdBqr_LFFwrxS4BJPj_L2JvTeW_dxuLVBFfrA?e=vQ35aZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )
+

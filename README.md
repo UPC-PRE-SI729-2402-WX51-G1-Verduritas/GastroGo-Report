@@ -579,7 +579,8 @@ User Goal: Como dueño de un restaurante, quiero revisar las órdenes y denegar 
 
 En este punto se demostrará el funcionamiento de nuestra aplicación web mediante un prototipo interactivo explicado. De esta forma, obtenemos una guía de lo que esperamos lograr con la aplicación y una noción tangible de su futuro funcionamiento.
 
-Enlace al video del prototipo:
+Enlace de la explicación del prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EYhnox1X-wdBqr_LFFwrxS4BJPj_L2JvTeW_dxuLVBFfrA?e=vQ35aZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram

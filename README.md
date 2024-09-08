@@ -608,10 +608,44 @@ Authentication component diagram:
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
+![Class Diagram](assets/img/chapter-4/img-diagram-class.png)
+
 ### 4.7.2. Class Dictionary
+
+- Menu: Contiene los atributos menuID, name, description, price, category y una lista de menuItems. Los métodos asociados permiten agregar (addItem), remover (removeItem) y actualizar (updateItem) elementos del menú. Está relacionado con la clase MenuItem, ya que cada menú contiene múltiples elementos.
+
+- MenuItem: Se define con los atributos itemID, name, description y price. Aunque no tiene métodos específicos, se relaciona con las clases Menu y OrderItem, ya que un elemento de menú puede formar parte de un pedido y también estar listado dentro de un menú.
+
+- Order: La clase pedido tiene atributos como orderID, orderDate, status, totalAmount y una lista de orderItems. Los métodos asociados incluyen calculateTotal para calcular el total del pedido, updateStatus para cambiar su estado, y addOrderItem o removeOrderItem para gestionar los elementos en el pedido. Está relacionado con las clases OrderItem, Restaurant, Sales y User.
+
+- OrderItem: Los atributos de esta clase son orderItemID, quantity, price y menuItem. Tiene el método calculateSubtotal, que permite calcular el subtotal del elemento en el pedido. Se vincula tanto con la clase Order como con la clase MenuItem, ya que un elemento de pedido hace referencia a un elemento específico del menú.
+
+- Restaurant: Esta clase incluye los atributos name, description, address y openHours. Los métodos le permiten actualizar la disponibilidad (updateAvailability) y la descripción del restaurante (updateDescription). Está relacionado con RestaurantDetails, que ofrece más información sobre el restaurante.
+
+- RestaurantDetails: Los atributos son rating, reviews, dishes y workSchedules. Tiene un único método, updateWorkSchedule, que actualiza los horarios de trabajo. Esta clase está vinculada a la clase Restaurant, proporcionando detalles adicionales que complementan la información del restaurante.
+
+- Suscription: Los atributos de esta clase son id, price, type y status. No tiene métodos asociados explícitamente, pero está vinculada con las clases Delivery y User, lo que indica que los usuarios pueden tener una suscripción y los servicios de entrega pueden estar asociados a esta.
+
+- Sales: Contiene los atributos saleID, saleDate y totalAmount. Los métodos permiten registrar una venta (recordSale), eliminar una venta (removeSale) y obtener una lista de ventas (getSales). Se relaciona con la clase Order, ya que cada venta está asociada con un pedido.
+
+- Service: Esta clase tiene atributos como StatusService, description, DateStart, DateEnd y price. Los métodos incluyen initService para iniciar un servicio, endService para finalizarlo, cancelService para cancelarlo y changeStatus para cambiar el estado del servicio. Está vinculada a las clases Order y Worker, indicando que los servicios pueden estar relacionados con pedidos y trabajadores.
+
+- Delivery: Sus atributos son license, car y subscription, indicando los detalles del vehículo y la suscripción asociada al servicio de entrega. Aunque no tiene métodos explícitos, está relacionada con la clase Suscription, lo que sugiere que las entregas pueden depender del tipo de suscripción del usuario.
+
+- User: Incluye los atributos id, name, password, username, orderList, email y role. Los métodos son login para iniciar sesión, logout para cerrar sesión y checkOrders para revisar los pedidos del usuario. Está vinculada con la clase Order, ya que los usuarios pueden realizar y gestionar pedidos.
+
+- PaymentMethod: Esta clase tiene los atributos paymentID, amount y paymentDate. Su método principal es processPayment, que permite procesar un pago. Está relacionada con las clases Sales, Order y Customer, indicando que los métodos de pago están asociados a ventas y pedidos específicos.
+
+- Notification: Sus atributos incluyen id, price, type y status. No tiene métodos explícitos y no está vinculada específicamente con otras clases en el diagrama, aunque parece ser una entidad utilizada para gestionar notificaciones del sistema.
+
+- Worker: Los atributos de esta clase son position, y los métodos son manageOrder para gestionar pedidos y manageReservation para gestionar reservas. Está vinculada con las clases Order y Reservation, lo que sugiere que los trabajadores pueden administrar tanto pedidos como reservas dentro del sistema.
+
+- Customer: Incluye los atributos paymentMethod y reservationList. Los métodos asociados son placeOrder para hacer un pedido, makeReservation para realizar una reserva y cancelReservation para cancelar una reserva. Está relacionada con las clases Order y Reservation, lo que indica que los clientes pueden hacer pedidos y reservas.
+
+- Controlador: Tiene los atributos service, orderList y users. Los métodos incluyen manageOrder para gestionar pedidos, assignOrderToWorker para asignar pedidos a trabajadores y manageMenus para gestionar los menús. Está vinculado con las clases Order, Service y Worker, lo que indica que este controlador gestiona el flujo general de los pedidos, servicios y asignación de trabajadores.
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-
 Database diagram:
 
 ![Database Diagram](assets/img/chapter-4/databasediagram.png)

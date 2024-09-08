@@ -2078,7 +2078,17 @@ Uno de los aprendizajes más importantes ha sido el valor de la comunicación y 
   
 ---  
 # Bibliografía
-  
+
+- Altametrics. (n.d.). Common challenges in restaurant operations and supply chain management. Altametrics. <br>https://altametrics.com/topics/common-challenges-in-restaurant-operations-and-supply-chain-management/ 
+
+- Picker Express. (n.d.). Logística en restaurantes. Picker Express. <br>https://www.pickerexpress.com/blog/logistica-en-restaurantes 
+
+- Universidad Científica del Sur. (2021). Análisis de la cadena de suministro en restaurantes de Lima Metropolitana (Tesis de licenciatura). Repositorio Institucional de la Universidad Científica del Sur.<br> https://repositorio.cientifica.edu.pe/handle/20.500.12805/728 
+
+- Built In. (2023). How Cheetah and Choco are transforming the food supply chain. Built In.<br> https://builtin.com/articles/food-supply-chain-cheetah-choco 
+
+- Euromonitor International. (2023). Limited-service restaurants in Peru. Euromonitor International. <br>https://www.euromonitor.com/limited-service-restaurants-in-peru/report 
+
 ---  
 # Anexos
 -  [**Organización de Github**]( https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas)

@@ -576,6 +576,11 @@ User Goal: Como dueño de un restaurante, quiero revisar las órdenes y denegar 
 ![Seventh](assets/img/chapter-4/Mockup7.jpg)
 
 ## 4.5. Web Applications Prototyping
+
+En este punto se demostrará el funcionamiento de nuestra aplicación web mediante un prototipo interactivo explicado. De esta forma, obtenemos una guía de lo que esperamos lograr con la aplicación y una noción tangible de su futuro funcionamiento.
+
+Enlace al video del prototipo:
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 Context diagram:

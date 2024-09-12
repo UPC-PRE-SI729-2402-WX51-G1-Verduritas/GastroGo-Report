@@ -1807,7 +1807,9 @@ Donde:
 - Feature-name: Es el nombre de la características que se están por desarrollar
 
 Donde:
+
 **type:** Especifica el tipo de cambio introducido en el commit. Los tipos mas comunes son:
+
 - `feat`: Implementación de una nueva característica
 - `fix`: Corrección de errores
 - `chore`: Tareas de mantenimiento
@@ -1881,46 +1883,32 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 En esta sección explicaremos el proceso de despliegue de nuestra página de aterrizaje utilizando el servicio automatizado de GitHub Pages. A continuación, se detallarán los pasos requeridos para alcanzar el despliegue.
 -   Debemos asegurarnos de tener un repositorio con la landing page a desplegar.
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-configuration-1.png" alt=" " width="100%">
-</p>
+![Configuration 1](assets/img/chapter-5/img-configuration-1.png)
 
 -   Accedemos a nuestro repositorio y debemos de añadir el html, css y js segun corresponda.
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-configuration-2.png" alt=" " width="100%">
-</p>
+![Configuration 2](assets/img/chapter-5/img-configuration-2.png)
 
 - Debemos ingresar al apartado de configuracion de nuestro repositorio.
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-configuration-3.png" alt=" " width="100%">
-</p>
+![Configuration 3](assets/img/chapter-5/img-configuration-3.png)
 
 - Dentro de la configuracion debemos seleccionar el apartado de GitHub Pages.
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-configuration-3.png" alt=" " width="100%">
-</p>
+![Configuration 4](assets/img/chapter-5/img-configuration-4.png)
 
 - Una vez dentro de GitHub Pages debemos seleccionar la branch que deseamos desplegar y presionar el boton de save para que empieze a desplegarse.
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-configuration-4.png" alt=" " width="100%">
-</p>
+![Configuration 5](assets/img/chapter-5/img-configuration-5.png)
 
 - Una vez final el build podremos visualizar el enlace con el que podremos visualizar nuestra landing page desplegada.
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-configuration-5.png" alt=" " width="100%">
-</p>
+![Configuration 6](assets/img/chapter-5/img-configuration-6.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-sprint-verduritas-1.png" alt=" " width="100%">
-</p>
+![Sprint Verduritas](assets/img/chapter-5/img-sprint-verduritas-1.png)
 
 #### 5.2.1.1. Sprint Planning 1
 
@@ -2003,43 +1991,23 @@ En este sprint, se ha completado el desarrollo de la landing page. Para su despl
 
 En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-1.png" alt=" " width="100%">
-</p>
+![Evidence 1](assets/img/chapter-5/img-evidence-1.png)
 
+![Evidence 2](assets/img/chapter-5/img-evidence-2.png)
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-2.png" alt=" " width="100%">
-</p>
+![Evidence 3](assets/img/chapter-5/img-evidence-3.png)
 
+![Evidence 4](assets/img/chapter-5/img-evidence-4.png)
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-3.png" alt=" " width="100%">
-</p>
+![Evidence 5](assets/img/chapter-5/img-evidence-5.png)
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-4.png" alt=" " width="100%">
-</p>
+![Evidence 6](assets/img/chapter-5/img-evidence-6.png)
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-5.png" alt=" " width="100%">
-</p>
+![Evidence 7](assets/img/chapter-5/img-evidence-7.png)
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-6.png" alt=" " width="100%">
-</p>
+![Evidence 8](assets/img/chapter-5/img-evidence-8.png)
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-7.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-8.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-9.png" alt=" " width="100%">
-</p>
+![Evidence 9](assets/img/chapter-5/img-evidence-9.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2058,14 +2026,12 @@ Durante el sprint 1, se centró en el desarrollo de la landing page como primera
 El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
 
 Network graph:
-<p align="center">
-  <img src="assets/img/chapter-5/img-network-github.jpg" alt=" " width="100%">
-</p>
+![Network Graph](assets/img/chapter-5/img-network-github.jpg)
+
 <br>
+
 Code frecuency:
-<p align="center">
-  <img src="assets/img/chapter-5/img-code-frecuency.png" alt=" " width="100%">
-</p>
+![Code Frecuency](assets/img/chapter-5/img-code-frecuency.png)
 
 # Conclusiones
 

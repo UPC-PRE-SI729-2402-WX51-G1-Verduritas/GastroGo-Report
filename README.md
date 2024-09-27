@@ -1991,6 +1991,8 @@ En este sprint, se ha completado el desarrollo de la landing page. Para su despl
 
 En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
 
+Enlace a la landing page desplegada: [GastroGo Landing Page](https://upc-pre-si729-2402-wx51-g1-verduritas.github.io/GastroGo-Landing-Page/)
+
 ![Evidence 1](assets/img/chapter-5/img-evidence-1.png)
 
 ![Evidence 2](assets/img/chapter-5/img-evidence-2.png)
@@ -2033,9 +2035,135 @@ Network graph:
 Code frecuency:
 ![Code Frecuency](assets/img/chapter-5/img-code-frecuency.png)
 
+
+### 5.2.2. Sprint 2
+![Sprint Verduritas 2](assets/img/chapter-5/img-sprint-verduritas-2.png)
+
+
+#### 5.2.2.1. Sprint Planning 2
+| **Sprint #**                    | Sprint 2                                                                                                                                                                                                                                                                                                         |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Date**        | 21/09/2024                                                                                                                                                                                                                                                                                                       |
+| **Time**                        | 22:00 PM                                                                                                                                                                                                                                                                                                         |
+| **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                      |
+| **Prepared By**                 | Ricardo Barrutia                                                                                                                                                                                                                                                                                                 |
+| **Attendees**                   | Ricardo Barrutia, Edery Abanto, Fabiola Espinoza, Joaquin Pedraza                                                                                                                                                                                                                                   |
+| **Sprint Review Summary**       | Se desplego la Landing Page de GastroGo en  y se empezo con el desarrollo del Front-End de la aplicación web.                                                                                                                                                                                                    |
+| **Sprint Retrospective Summary**| Se evaluó la posibilidad de mostrar los call to action de forma personalizada para cada segmento de audiencia. Se inició el desarrollo del Front End de GastroGo, priorizando la creación de componentes enfocados en el segmento de trabajadores.                                                               |
+| **Sprint Goal**                 | En este sprint, el objetivo es desarrollar las páginas principales de la aplicación web y realizar su despliegue. A lo largo de las diversas reuniones del equipo, se asignó el contenido a cada integrante para el front end. Al finalizar el sprint, la Web Application debe estar desplegada en GitHub Pages. |
+| **Sprint Velocity**             | 35                                                                                                                                                                                                                                                                                                               |
+| **Sum of Story Points**         | 43  Story Points                                                                                                                                                                                                                                                                                                             |
+
+
+#### 5.2.2.2. Sprint Backlog 2
+
+| **User Story**                           | **Work-item/Task**             | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status**               |
+|------------------------------------------|--------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|--------------------------|
+| E2 - US013 Edición de cuenta            | W014 Save group preferences    | Permitir la edición de datos personales y de contacto en el perfil.             | 3                      | Edery           | Done                     |
+| E2 - US014 Guardar preferencias de grupo| W013 Account editing           | Implementar un sistema para guardar preferencias de grupo para futuras órdenes. | 3                      | Joaquin         | Done                     |
+| E2 - US017 Encuestas Post-Compra| W017 Post-purchase surveys     | Crear un sistema de encuestas post-compra para mejorar futuras órdenes.         | 4                      | Ricardo         | Done                     |
+| E3 - US018 Búsqueda de restaurantes| W018 Restaurant search         | Habilitar la búsqueda de restaurantes por nombre, categoría o ubicación.                                                                                | 3                      | Fabiola         | Done                     |
+| E3 - US019 Restaurantes recomendados| W019 Recommended restaurants   | Mostrar una lista de restaurantes recomendados por popularidad y satisfacción.                                                                                | 4                      | Ricardo         | Done                     |
+|E3 - US020 Información del restaurante              | W020 Restaurant information    | Proporcionar información detallada de los restaurantes seleccionados.                                                                                | 3                      | Edery           | Done                     |
+|E4 - US024 Confirmar o agregar a votación                 | W024 Confirm or add to vote    | Confirmar o agregar platos personalizados a la votación del grupo.                                                                                | 4                      | Fabiola         | Done                     |
+|E5 - US025 Creación automática de votación                   | W025 Automatic vote creation   | Crear automáticamente votaciones para la elección de platos.                                                                                | 3                      | Joaquin         | Done                     |
+|E5 - US026 Compartir código de votación         | W026 Share voting code         | Generar y compartir un código para participar en la votación.                                                                                | 3                      | Ricardo         | Done                     |
+|E5 - US027 Resolución de empates con sorteo         | W027 Tie resolution by lottery | Resolver empates en votaciones mediante un sorteo.                                                                                | 3                      | Edery           | Done                     |
+|E6 - US028 Dividir el costo del pedido         | W028 Split the order cost      | Dividir automáticamente el costo del pedido entre los participantes.                                                                                | 4                      | Joaquin         | Done                     |
+|E6 - US029 Métodos de pago diversos         | W029 Diverse payment methods                               | Permitir múltiples métodos de pago (tarjeta, PayPal, etc.).                                                                                | 3                      | Ricardo         | Done                     |
+|E6 - US031 Registro y confirmación de pagos grupales         | W031 Group payment registration and confirmation                               | Registrar y confirmar los pagos grupales realizados.                                                                                | 5                      | Ricardo         | Done                     |
+|E6 - US032 Opción de propina compartida         | W032 Shared tip option                               | Habilitar la opción de agregar una propina compartida.                                                                                | 3                      | Ricardo         | Done                     |
+|E6 - US033 Generación automática de recomendaciones         | W033 Automatic recommendation generation                               | Generar recomendaciones automáticas basadas en pedidos anteriores.                                                                                | 3                      | Fabiola         | Done                     |
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review 2
+| **Repository** | **Branch** | **Commit Id**                                               | **Commit Message**                                                       | **Committed on (Date)** |
+|----------------|------------|-------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------|
+|GastroGo-FrontEnd| develop    | initial commit                                              |  930f9b40b621421497a6f43efd4eef39899b14ae                                                          | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            | chore: added material design                                |   b3029af23cd62c564bac21bba5235b86ffcd7501                                         | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            | chore: added dependencies for ngx-translate                 |     6e9e0a774231b595093203fd6dde25ef8121bbe1                                       | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            | chore: clear app.component                                  |  ca69e281e096cd62cded1b56b2089421a7d13cd1                                          | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            | feat(sidenav-bar): added sidenav-bar component              |   8cecb8942695af1188382bc45a9e03b43ae0fc63                                         | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            | feat(sidenav-bar): added sidenav-bar to app.component.html  |   004adf8a79086a907102a261d41185062d912e66                                         | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |  feat(sidenav-bar): added app.component css for sidenav-bar                                                           | c2164ad5266d7db73f1cb48e5391a4d3d9490134                                           | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |  chore: added routes for side-navigator-bar                                                           |  9db69d22fecd23d5962426696d84a577eb8388b6                                          | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |   feat(sidenav-bar): added sidenav-bar css                                                          |   7529483380fb810741c7328c96785f6c923a0ce5                                         | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |   chore: added src/assets route                                                          |   e02d0319880613bb4a13d058ab75e6effd7a3cea                                         | 27/09/2024              |
+
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review 2
+En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
+
+| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                         | **Committed on (Date)** |
+|----------------|------------|--------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
+|acceptance-test| develop    | 55eb1646d73316ec2929ffafa95af8dfcef3adc5   | Initial commit                                                                        | 12/09/2024               |
+|acceptnace-test| develop    | 9a399e19e898f0dd693654c70be3bd1fe67ea40e   | feat(readme): added description readme                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 4b738eb74073aacbdcf2d3a37eabdaf21040c5a5   | chore: added epic 1 acceptance test                                                                     | 12/09/2024               |
+|acceptnace-test| develop    | 06c167e00c191b77c03da4aa7cb13fab0d86c9d7   | chore: added epic 2 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 62b806ee10782f3b6e3125964aaefd0ff552652c   | chore: added epic 3 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 3ca6c4208a62a6b5ffa6d6dffe8d4f088918af5d   | chore: added epic 4 acceptance test                                                                      | 12/09/2024               |
+|acceptnace-test| develop    | 2e7a6166e776f0d2f6d97368d384457e7bde7ca7   | chore: added epic 5 acceptance test                                                                        | 12/09/2024               |
+|acceptnace-test| develop    | 5846374f45b976d826580c0855565212811be5e8   | chore: added epic 6 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | b41662bc5609e8d7bb84b24b99910ab621001c09   | chore: added epic 7 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 64d26478f1b9e23cf51c31a56dbd17e63c4ad283   | chore: added epic 8 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 9520021ae13032e410798dd06dbde7252b5d8d0f   | chore: added epic 9 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 568eb409dc3fbf273ab11fcbf42f88b7ae9662ca   | chore: added epic 10 acceptance test                                                                       | 12/09/2024               |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review 2
+
+En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
+
+Enlace del Frontend: [GastroGo Frontend]()
+
+![Evidence 1 Front](assets/img/chapter-5/img-evidence-front-1.png)
+
+![Evidence 2 Front](assets/img/chapter-5/img-evidence-front-2.png)
+
+![Evidence 3 Front](assets/img/chapter-5/img-evidence-front-3.png)
+
+![Evidence 4 Front](assets/img/chapter-5/img-evidence-front-4.png)
+
+![Evidence 5 Front](assets/img/chapter-5/img-evidence-front-5.png)
+
+![Evidence 6 Front](assets/img/chapter-5/img-evidence-front-6.png)
+
+![Evidence 7 Front](assets/img/chapter-5/img-evidence-front-7.png)
+
+![Evidence 8 Front](assets/img/chapter-5/img-evidence-front-8.png)
+
+![Evidence 9 Front](assets/img/chapter-5/img-evidence-front-9.png)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review 2
+
+Para el desarrollo de la plataforma, específicamente en la parte del Frontend, utilizamos lo siguiente:
+Webstorm (IDE de desarrollo): Usamos Webstorm como nuestro entorno de desarrollo integrado para trabajar en el Frontend.
+Angular (Framework): Optamos por Angular como el framework principal para el desarrollo.
+GitHub: Nuestro repositorio del Frontend está alojado en GitHub, lo que facilita la colaboración y el seguimiento de los cambios en el código.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review 2
+
+El Execution Evidence para la revisión del sprint está orientado a documentar y presentar evidencia sobre el desarrollo logrado a lo largo del sprint, prestando especial atención al progreso en la landing page. Estas pruebas son esenciales para demostrar cómo se han cumplido los objetivos establecidos y qué partes del trabajo están terminadas, asegurando que se corresponden con las expectativas del cliente.
+- Git: Utilizado como sistema de control de versiones, facilitó la colaboración efectiva entre los miembros del equipo durante el proceso de desarrollo.
+- GitFlow: Implementado como metodología de trabajo, permitió organizar y gestionar de manera eficiente los aportes de cada integrante, garantizando un flujo continuo en el progreso del proyecto.
+- GitHub: Plataforma esencial para el trabajo colaborativo, donde se gestionaron y almacenaron todas las versiones del proyecto, asegurando un control adecuado de los cambios.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint 2
+
+El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
+
+Network graph:
+
+![Network Graph Front ](assets/img/chapter-5/img-network-front-github.png)
+
+Code frecuency:
+
+![Code Frecuency Front](assets/img/chapter-5/img-code-front-frecuency.png)
+
 # Conclusiones
 
 ### Conclusiones y recomendaciones
+
 El progreso del proyecto ha logrado alcanzar los objetivos establecidos al inicio, que incluyen tanto la contextualización del problema y su solución como el desarrollo y lanzamiento de la primera versión de la landing page y la implementación de funcionalidades clave. Cada miembro del equipo participó activamente en las diferentes etapas del proyecto.
 
 Uno de los aprendizajes más importantes ha sido el valor de la comunicación y la colaboración entre los miembros del equipo. Además, las herramientas de colaboración, como GitHub y Figma, desempeñaron un papel esencial en la coordinación del trabajo, facilitando una gestión eficaz del código y una visualización clara del diseño de la landing page. Aprendimos que el uso adecuado de estas herramientas mejora la organización, planificación y eficiencia del trabajo en equipo.

@@ -1907,7 +1907,8 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 
 ### 5.1.4. Software Deployment Configuration
 En esta sección explicaremos el proceso de despliegue de nuestra página de aterrizaje utilizando el servicio automatizado de GitHub Pages. A continuación, se detallarán los pasos requeridos para alcanzar el despliegue.
--   Debemos asegurarnos de tener un repositorio con la landing page a desplegar.
+  
+- Debemos asegurarnos de tener un repositorio con la landing page a desplegar.
 
 ![Configuration 1](assets/img/chapter-5/img-configuration-1.png)
 

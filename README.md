@@ -1640,37 +1640,39 @@ User Goal: Como dueño de un restaurante, quiero revisar las órdenes y denegar 
 
 En este punto se demostrará el funcionamiento de nuestra aplicación web mediante un prototipo interactivo explicado. De esta forma, obtenemos una guía de lo que esperamos lograr con la aplicación y una noción tangible de su futuro funcionamiento.
 
-Enlace de la explicación del prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EYhnox1X-wdBqr_LFFwrxS4BJPj_L2JvTeW_dxuLVBFfrA?e=vQ35aZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+Enlace de la explicación del prototipo: [**Web Application**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EYhnox1X-wdBqr_LFFwrxS4BJPj_L2JvTeW_dxuLVBFfrA?e=vQ35aZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 Context diagram:
 
-![Context Diagram](assets/img/chapter-4/contextdiagram.jpg)
+![Context Diagram](assets/img/chapter-4/contextdiagram.png)
+
 ### 4.6.2. Software Architecture Container Diagrams
 Container diagram:
 
+![Container Diagram](assets/img/chapter-4/containerdiagram.png)
 
-![Container Diagram](assets/img/chapter-4/containerdiagram.jpg)
 ### 4.6.3. Software Architecture Components Diagrams
+Restaurant diagram:
 
-Tracking component diagram:
-
-![Tracking component](assets/img/chapter-4/img-c4-1.png)
-
-Sales component diagram:
-
-![Sales component](assets/img/chapter-4/img-c4-2.png)
-
-Payment component diagram:
-
-![Payment component](assets/img/chapter-4/paymentcomponent.jpg)
-
-Authentication component diagram: 
+![Tracking component](assets/img/chapter-4/restaurantdiagram.png)
 
 
-![Authentication component](assets/img/chapter-4/authenticationcomponent.jpg)
+User diagram:
+
+![Sales component](assets/img/chapter-4/userdiagram.png)
+
+
+Payment diagram:
+
+![Payment component](assets/img/chapter-4/paymentdiagram.png)
+
+
+Authentication diagram:
+
+![Authentication component](assets/img/chapter-4/authdiagram.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
@@ -1755,9 +1757,25 @@ Landing Page:
 Visual Studio Code : https://code.visualstudio.com/.es 
 - Es un IDE muy adaptable que ofrece una experiencia de desarrollo optimizada y personalizable. Dispone de una extensa selección de extensiones que permiten ampliar sus capacidades.
 
+Webstorm: https://www.jetbrains.com/webstorm/
+
+- Es un entorno de desarrollo integrado enfocado en proyectos web, que proporciona numerosas herramientas y características diseñadas para la creación de aplicaciones web actuales. Su compatibilidad con tecnologías como JavaScript, HTML y CSS lo hace una opción sólida para desarrolladores web.
+
+
 **Software testing**
 
 Para las pruebas de software de la landing page, se utilizaron las herramientas de desarrollador de los navegadores web más populares, como Google Chrome (https://www.google.com/chrome/), Microsoft Edge (https://www.microsoft.com/en-us/edge), y Mozilla Firefox (https://www.mozilla.org/en-US/firefox/browsers/). Estos navegadores ofrecen aplicaciones tanto para escritorio como para dispositivos móviles, todas completamente gratuitas.
+
+**Project Deployment**
+
+Github Page: https://pages.github.com/
+
+Para llevar a cabo el deployment de la landing page, se utilizó Github Pages, un servicio gratuito que permite alojar sitios web estáticos directamente desde un repositorio de Github. Esta plataforma es ideal para proyectos de desarrollo web que no requieren un servidor backend, ya que ofrece una forma sencilla y rápida de publicar contenido en línea.
+
+Netlify: https://www.netlify.com/
+
+Para llevar a cabo el deployment del front-end, se procedió a vincular el repositorio de Github con el servicio de Vercel. De este modo, el despliegue de la página será de manera óptima.
+
 
 **Software Documentation**
 
@@ -2077,18 +2095,29 @@ Code frecuency:
 
 
 #### 5.2.2.3. Development Evidence for Sprint Review 2
-| **Repository** | **Branch** | **Commit Id**                                               | **Commit Message**                                                       | **Committed on (Date)** |
-|----------------|------------|-------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------|
-|GastroGo-FrontEnd| develop    | initial commit                                              |  930f9b40b621421497a6f43efd4eef39899b14ae                                                          | 27/09/2024              |
-|GastroGo-FrontEnd               |develop            | chore: added material design                                |   b3029af23cd62c564bac21bba5235b86ffcd7501                                         | 27/09/2024              |
-|GastroGo-FrontEnd               |develop            | chore: added dependencies for ngx-translate                 |     6e9e0a774231b595093203fd6dde25ef8121bbe1                                       | 27/09/2024              |
-|GastroGo-FrontEnd               |develop            | chore: clear app.component                                  |  ca69e281e096cd62cded1b56b2089421a7d13cd1                                          | 27/09/2024              |
-|GastroGo-FrontEnd               |develop            | feat(sidenav-bar): added sidenav-bar component              |   8cecb8942695af1188382bc45a9e03b43ae0fc63                                         | 27/09/2024              |
-|GastroGo-FrontEnd               |develop            | feat(sidenav-bar): added sidenav-bar to app.component.html  |   004adf8a79086a907102a261d41185062d912e66                                         | 27/09/2024              |
-|GastroGo-FrontEnd               |develop            |  feat(sidenav-bar): added app.component css for sidenav-bar                                                           | c2164ad5266d7db73f1cb48e5391a4d3d9490134                                           | 27/09/2024              |
-|GastroGo-FrontEnd               |develop            |  chore: added routes for side-navigator-bar                                                           |  9db69d22fecd23d5962426696d84a577eb8388b6                                          | 27/09/2024              |
-|GastroGo-FrontEnd               |develop            |   feat(sidenav-bar): added sidenav-bar css                                                          |   7529483380fb810741c7328c96785f6c923a0ce5                                         | 27/09/2024              |
-|GastroGo-FrontEnd               |develop            |   chore: added src/assets route                                                          |   e02d0319880613bb4a13d058ab75e6effd7a3cea                                         | 27/09/2024              |
+| **Repository** | **Branch** | **Commit Id**                                               | **Commit Message**                                                      | **Committed on (Date)** |
+|----------------|------------|-------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------|
+|GastroGo-FrontEnd| develop    | initial commit                                              |  930f9b40b621421497a6f43efd4eef39899b14ae                                                         | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            | chore: added material design                                |   b3029af23cd62c564bac21bba5235b86ffcd7501                                        | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            | chore: added dependencies for ngx-translate                 |     6e9e0a774231b595093203fd6dde25ef8121bbe1                                      | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            | chore: clear app.component                                  |  ca69e281e096cd62cded1b56b2089421a7d13cd1                                         | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            | feat(sidenav-bar): added sidenav-bar component              |   8cecb8942695af1188382bc45a9e03b43ae0fc63                                        | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            | feat(sidenav-bar): added sidenav-bar to app.component.html  |   004adf8a79086a907102a261d41185062d912e66                                        | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |  feat(sidenav-bar): added app.component css for sidenav-bar                                                           | c2164ad5266d7db73f1cb48e5391a4d3d9490134                                          | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |  chore: added routes for side-navigator-bar                                                           |  9db69d22fecd23d5962426696d84a577eb8388b6                                         | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |   feat(sidenav-bar): added sidenav-bar css                                                          |   7529483380fb810741c7328c96785f6c923a0ce5                                        | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |   chore: added src/assets route                                                          |   e02d0319880613bb4a13d058ab75e6effd7a3cea                                        | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |   feat(home.component): created home.component                                                         |  a0d1db4cb594baac7a34505b3888aef9ea2b863c                                          | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |    feat(home.component): added html for home page                                                        | 4facb547c4f908c7adf39aa17c27a97c333dd473                                           | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |    feat(home.component.css): added css for home page                                                        |  64a54e5d1a2de90f05d20f2c0455d566bb6e6d3b                                          | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |  feat(my-order): added my-order component                                                          | 87e711d3200b93fb4dc8b27826b0fe735013a440                                           | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |   feat(my-order): added css for order.component.css                                                         |  c246fec0b8a5c30b20637bb886c101622f01addd                                          | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |   feat(rol-section): created rol-section-component                                                         | d6996e3792b0a86aff5b490f42d434a11af60971                                           | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |  feat(rol-section): created rol-section-component html                                                          |  34c7ed50a7f25985f4c6bee117c968b2fa649f1e                                          | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |  feat(rol-section): created rol-section-component css                                                          | 0d4c2106dd85f273459cf99025847b180f71b31c                                           | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |   feat(profile): created profile page                                                         |  5a4574d8604e0cba51cf8a5c4d865eaacaf4dfab                                          | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |    feat(restaurant): created restaurant page                                                        |   f048ae9f75c43e3f2c809bb7daed7096e8d6f6fc                                         | 27/09/2024              |
+|GastroGo-FrontEnd               |develop            |    chore: added route-view for restaurant page                                                        |   c3adbe02b390ab3b5683ebe63f82625468711033                                         | 27/09/2024              |
 
 
 
@@ -2114,7 +2143,7 @@ En este sprint, se ha completado el desarrollo de la landing page. Para su despl
 
 En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
 
-Enlace del Frontend: [GastroGo Frontend]()
+Enlace del Frontend: [GastroGo Frontend](https://gastrogo-verduritas.netlify.app)
 
 ![Evidence 1 Front](assets/img/chapter-5/img-evidence-front-1.png)
 
@@ -2126,27 +2155,28 @@ Enlace del Frontend: [GastroGo Frontend]()
 
 ![Evidence 5 Front](assets/img/chapter-5/img-evidence-front-5.png)
 
-![Evidence 6 Front](assets/img/chapter-5/img-evidence-front-6.png)
 
-![Evidence 7 Front](assets/img/chapter-5/img-evidence-front-7.png)
-
-![Evidence 8 Front](assets/img/chapter-5/img-evidence-front-8.png)
-
-![Evidence 9 Front](assets/img/chapter-5/img-evidence-front-9.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review 2
 
 Para el desarrollo de la plataforma, específicamente en la parte del Frontend, utilizamos lo siguiente:
+
 Webstorm (IDE de desarrollo): Usamos Webstorm como nuestro entorno de desarrollo integrado para trabajar en el Frontend.
+
 Angular (Framework): Optamos por Angular como el framework principal para el desarrollo.
+
 GitHub: Nuestro repositorio del Frontend está alojado en GitHub, lo que facilita la colaboración y el seguimiento de los cambios en el código.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review 2
 
 El Execution Evidence para la revisión del sprint está orientado a documentar y presentar evidencia sobre el desarrollo logrado a lo largo del sprint, prestando especial atención al progreso en la landing page. Estas pruebas son esenciales para demostrar cómo se han cumplido los objetivos establecidos y qué partes del trabajo están terminadas, asegurando que se corresponden con las expectativas del cliente.
+
 - Git: Utilizado como sistema de control de versiones, facilitó la colaboración efectiva entre los miembros del equipo durante el proceso de desarrollo.
+
 - GitFlow: Implementado como metodología de trabajo, permitió organizar y gestionar de manera eficiente los aportes de cada integrante, garantizando un flujo continuo en el progreso del proyecto.
+
 - GitHub: Plataforma esencial para el trabajo colaborativo, donde se gestionaron y almacenaron todas las versiones del proyecto, asegurando un control adecuado de los cambios.
+
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint 2
 
@@ -2186,9 +2216,12 @@ Uno de los aprendizajes más importantes ha sido el valor de la comunicación y 
 ---  
 # Anexos
 -  [**Organización de Github**]( https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas)
+-  [**Report Repository**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Report)
 - [**Acceptance Test**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/acceptance-test)
 -  [**Landing Page**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Landing-Page)
+- [**Front End**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-FrontEnd)
+
 - Videos de Exposiciones:
 - TB1: [upc-pre-202401-si729-wx51-verduritas-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EXxL52cQz7tMgtQ3JJSryDYBB4yl3rAXfIEsLBUWp-Icwg?e=cegRN9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - [**Web Applications Prototyping**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EYhnox1X-wdBqr_LFFwrxS4BJPj_L2JvTeW_dxuLVBFfrA?e=vQ35aZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )
-
+- Needfinding: [**upc-pre-202402-si729-wx51-verduritas-needfinding-sprint-1.mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EZ80d-4uHTVKuQRdGAb47hMBjv6m3FXksZM6ieafoOaeLA?e=QO9QOa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)

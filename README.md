@@ -43,10 +43,10 @@ Producto: GastroGo
 # Registro de Versiones del Informe
 
 
-| Versión | Fecha      | Autor   | Descripción de modificaciones         |
-|---------|------------|---------|---------------------------------------|
-| 1.0     | 25/08/2024 | Abanto Vicente, Edery Renzo  <br>	Barrutia Vaez, Ricardo Andree	<br> Cuevas Vera, Jose Angel	<br> Espinoza Inoñan, Fabiola Ximena	<br> Pedraza Maldonado, Joaquin Andree | Capítulo I <br> Capítulo II <br> Capítulo III <br> Capítulo IV <br> Capítulo V       |
-
+| Versión | Fecha      | Autor   | Descripción de modificaciones                                                                                  |
+|---------|------------|---------|----------------------------------------------------------------------------------------------------------------|
+| 1.0     | 25/08/2024 | Abanto Vicente, Edery Renzo  <br>	Barrutia Vaez, Ricardo Andree	<br> Cuevas Vera, Jose Angel	<br> Espinoza Inoñan, Fabiola Ximena	<br> Pedraza Maldonado, Joaquin Andree | Capítulo I <br> Capítulo II <br> Capítulo III <br> Capítulo IV <br> Capítulo V                                 |
+| 2.0     | 27/09/2024 | Abanto Vicente, Edery Renzo  <br>	Barrutia Vaez, Ricardo Andree	<br> Cuevas Vera, Jose Angel	<br> Espinoza Inoñan, Fabiola Ximena	<br> Pedraza Maldonado, Joaquin Andree | Mejora continua del primer sprint , desarrollo del Sprint 2 y primer avance del FrontEnd de la Aplicación Web. |
 
 
 <br><br>
@@ -61,46 +61,94 @@ Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los pu
 
 ![Contribuciones del equipo](assets/img/develop/img-contributors-team.png)
 
-**Imágen de las Contribuciones:**
+**Imágen de las Contribuciones Edery:**
 
 ![Contribuciones Edery](assets/img/develop/img-contributors-Edery.png)
 
-**Imágen de los Commits:**
+**Imágen de los Commits Edery:**
 
 ![Commits Edery](assets/img/develop/img-commits-Edery.png)
 
-**Imágen de las Contribuciones:**
+**Imágen de las Contribuciones Ricardo:**
 
 ![Contribuciones Ricardo](assets/img/develop/img-contributors-Ricardo.png)
 
-**Imágen de los Commits:**
+**Imágen de los Commits Ricardo:**
 
 ![Commits Ricardo](assets/img/develop/img-commits-Ricardo.png)
 
-**Imágen de las Contribuciones:**
+**Imágen de las Contribuciones Jose:**
 
 ![Contribuciones Jose](assets/img/develop/img-contributors-Jose.png)
 
-**Imágen de los Commits:**
+**Imágen de los Commits Jose:**
 
 ![Commits Jose](assets/img/develop/img-commits-Jose.png)
 
-**Imágen de las Contribuciones:**
+**Imágen de las Contribuciones Fabiola:**
 
 ![Contribuciones Fabiola](assets/img/develop/img-contributors-Fabiola.png)
 
-**Imágen de los Commits:**
+**Imágen de los Commits Fabiola:**
 
 ![Commits Fabiola](assets/img/develop/img-commits-Fabiola.png)
 
-**Imágen de las Contribuciones:**
+**Imágen de las Contribuciones Joaquin:**
 
 ![Contribuciones Joaquin](assets/img/develop/img-contributors-Joaquin.png)
 
-**Imágen de los Commits:**
+**Imágen de los Commits Joaquin:**
 
 ![Commits Joaquin](assets/img/develop/img-commits-Joaquin.png)
-  
+
+TP:
+
+Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los puntos a elaborar para la entrega actual, correspondientes a los Capítulos I hasta el Capítulo V: Sprint 1. Quedando de la siguiente manera:
+
+**Imágen de las Contribuciones del equipo:**
+
+![Contribuciones del equipo TP](assets/img/develop/img-contributors-team-tp.png)
+
+**Imágen de las Contribuciones Edery TP:**
+
+![Contribuciones Edery TP](assets/img/develop/img-contributors-edery-tp.png)
+
+**Imágen de los Commits Edery TP:**
+
+![Commits Edery TP](assets/img/develop/img-commits-edery-tp.png)
+
+**Imágen de las Contribuciones Ricardo TP:**
+
+![Contribuciones Ricardo TP](assets/img/develop/img-contributors-ricardo-tp.png)
+
+**Imágen de los Commits Ricardo TP:**
+
+![Commits Ricardo TP](assets/img/develop/img-commits-ricardo-tp.png)
+
+**Imágen de las Contribuciones Jose TP:**
+
+No participo en el desarrollo del tp.
+
+**Imágen de los Commits Jose TP:**
+
+No participo en el desarrollo del tp.
+
+**Imágen de las Contribuciones Fabiola TP:**
+
+![Contribuciones Fabiola TP](assets/img/develop/img-contributors-fabiola-tp.png)
+
+**Imágen de los Commits Fabiola TP:**
+
+![Commits Fabiola TP](assets/img/develop/img-commits-fabiola-tp.png)
+
+**Imágen de las Contribuciones Joaquin TP:**
+
+![Contribuciones Joaquin TP](assets/img/develop/img-contributors-joaquin-tp.png)
+
+**Imágen de los Commits Joaquin TP:**
+
+![Commits Joaquin TP](assets/img/develop/img-commits-joaquin-tp.png)
+
 ---  
 # Student Outcome
 El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 5** <br> Criterio: *Capacidad de comunicarse efectivamente con un rango de audiencias.*

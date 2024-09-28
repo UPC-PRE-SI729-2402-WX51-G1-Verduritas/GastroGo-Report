@@ -2281,5 +2281,11 @@ Uno de los aprendizajes más importantes ha sido el valor de la comunicación y 
 
 - Videos de Exposiciones:
 - TB1: [upc-pre-202401-si729-wx51-verduritas-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EXxL52cQz7tMgtQ3JJSryDYBB4yl3rAXfIEsLBUWp-Icwg?e=cegRN9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+- TP: [upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4](https://upcedupe-my.sharepoint.com/personal/u201714765_upc_edu_pe/_layouts/15/stream.aspx?id=/personal/u201714765_upc_edu_pe/Documents/upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4
+)
+
+
+https://upcedupe-my.sharepoint.com/personal/u201714765_upc_edu_pe/_layouts/15/stream.aspx?id=/personal/u201714765_upc_edu_pe/Documents/upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4
 - [**Web Applications Prototyping**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EYhnox1X-wdBqr_LFFwrxS4BJPj_L2JvTeW_dxuLVBFfrA?e=vQ35aZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )
 - Needfinding: [**upc-pre-202402-si729-wx51-verduritas-needfinding-sprint-1.mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EZ80d-4uHTVKuQRdGAb47hMBjv6m3FXksZM6ieafoOaeLA?e=QO9QOa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)

@@ -1101,8 +1101,8 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 
 
 # Capítulo III: Requirements Specification
+
 ## 3.1. To-Be Scenario Mapping
-## 3.1 To-Be Scenario Mapping
 
 Segmento Objetivo: Restaurantes en Lima Metropolitana que gestionan pedidos grupales con frecuencia.
 ![To Be 1](assets/img/chapter-3/img-to-be-workers-1.jpg)

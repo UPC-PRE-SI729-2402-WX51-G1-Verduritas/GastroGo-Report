@@ -1431,7 +1431,7 @@ En esta sección mostraremos el proceso de diseño para nuestra landing page, de
 
 En esta sección se presentarán los wireframes de la landing page. Estos wireframes son esquemas de baja fidelidad que muestran la estructura de la página, sin tener en cuenta la paleta de colores ni las imágenes que se utilizarán. 
 
-Enlace al Figma: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=1-3&t=SCpQeKPmjP50AJMN-1 
+Enlace al Figma: https://www.figma.com/design/9sn42VvvzeFbUrV67Ig8v5/Open-Source?node-id=1-3&t=kgxUUBtdIW3gYGc3-1
 
 Para Desktop Browser:
 
@@ -1444,7 +1444,7 @@ Para Mobile Browser:
 ### 4.3.2 Landing Page Mock Up
 En esta sección se presentarán los mock-ups de la landing page. Estos mock-ups son esquemas de alta fidelidad que muestran la estructura de la página, todas las guías de estilo indicadas en las secciones anteriores están presentes en estos esquemas.
 
-Enlace al Figma: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=1-3&t=cbyL7czsaZGGdrXc-1
+Enlace al Figma: https://www.figma.com/design/9sn42VvvzeFbUrV67Ig8v5/Open-Source?node-id=1-3&t=kgxUUBtdIW3gYGc3-1
 
 
 Para Desktop Browser:
@@ -1581,7 +1581,7 @@ User Goal: Como dueño de un restaurante, quiero revisar las órdenes y denegar 
 ### 4.4.3. Web Applications Mock-ups
 En esta sección se presentan los mock-ups de la aplicación web. Es decir, a base de los wireframes vistos anteriormente se ha creado una esquematización de alta fidelidad, acorde a las guías de estilo, arquitectura de la información y componentes mencionados en secciones anteriores.
 
-Enlace al Figma: https://www.figma.com/design/960VZNosb8riMpUJHtW4UR/OpenSource?node-id=1-2&t=cbyL7czsaZGGdrXc-1 
+Enlace al Figma: https://www.figma.com/design/9sn42VvvzeFbUrV67Ig8v5/Open-Source?node-id=0-1&t=VmefSWT2lDpPStBJ-1
 
 
 Detalles de cada restaurante para los trabajadores
@@ -1665,10 +1665,10 @@ Container diagram:
 ### 4.6.3. Software Architecture Components Diagrams
 Restaurant diagram:
 
-![Tracking component](assets/img/chapter-4/restaurantdiagram.png)
+![Restaurant component](assets/img/chapter-4/restaurantdiagram.png)
 
 
-User diagram:
+Workers diagram:
 
 ![Sales component](assets/img/chapter-4/userdiagram.png)
 

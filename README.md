@@ -516,6 +516,13 @@ Equipos de trabajadores en entornos laborales que desean simplificar la organiza
 
 Entender el entorno competitivo es crucial para el éxito de cualquier negocio. En esta parte, analizaremos detalladamente quiénes son nuestros competidores, tanto directos como indirectos, y examinaremos las estrategias que utilizan, así como sus fortalezas y debilidades.
 
+|EMPRESA|DESCRIPCIÓN|IMAGEN|
+|-----|-----|----|
+|**Manzana Verde**| Es una plataforma de nutrición que ofrece asesoramiento personalizado y recetas saludables para mejorar el bienestar general. |<img src="assets/img/chapter-2/img-manzana-verde-logo.png" alt="Calm" style="width:100%;">|
+|**Knoweats**| Es una aplicación que ofrece opciones de comida saludable a domicilio, permitiendo a los usuarios hacer pedidos de alimentos nutritivos y equilibrados. |<img src="assets/img/chapter-2/img-knoweats-logo.png" alt="Headspace" style="width:100%;">|
+|**Pedidos Ya**| Es una aplicación de entrega de alimentos y productos que conecta a los usuarios con una amplia variedad de restaurantes y tiendas para realizar pedidos rápidos y convenientes. |<img src="assets/img/chapter-2/img-pedidosya-logo.png" alt="Happify" style="width:100%;">|
+
+
 ## 2.1.1. Analisis competitivo
 El análisis competitivo se enfoca en estudiar detalladamente a nuestros competidores para reconocer sus puntos fuertes, débiles, oportunidades y amenazas. Este proceso nos permitirá entender mejor nuestra posición en el mercado y formular estrategias más efectivas.
 

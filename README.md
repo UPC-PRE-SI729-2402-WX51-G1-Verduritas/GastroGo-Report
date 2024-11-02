@@ -2261,31 +2261,51 @@ Code frecuency:
 
 
 #### 5.2.2.1. Sprint Planning 3
-| **Sprint #**                    | Sprint 3                                                                                                                                                                                                                                                                                                         |
-|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Date**        | 14/10/2024                                                                                                                                                                                                                                                                                                       |
-| **Time**                        | 22:00 PM                                                                                                                                                                                                                                                                                                         |
-| **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                      |
-| **Prepared By**                 | Ricardo Barrutia                                                                                                                                                                                                                                                                                                 |
-| **Attendees**                   | Ricardo Barrutia, Edery Abanto, Fabiola Espinoza, Joaquin Pedraza                                                                                                                                                                                                                                                |
-| **Sprint Review Summary**       | Se desplego el front end de GastroGo y se empezo a desarrollar el backend.                                                                                                                                                                                                                                       |
-| **Sprint Retrospective Summary**| Se finalizo el desarrolllo del front end con la mejora continua respectiva para la landing page y front end. Asimismo se debe                                                                                                                                                                                    |
+| **Sprint #**                    | Sprint 3                                                                                                                                                                                                                                                                                                                                                                              |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Date**        | 14/10/2024                                                                                                                                                                                                                                                                                                                                                                            |
+| **Time**                        | 22:00 PM                                                                                                                                                                                                                                                                                                                                                                              |
+| **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                                                                                           |
+| **Prepared By**                 | Ricardo Barrutia                                                                                                                                                                                                                                                                                                                                                                      |
+| **Attendees**                   | Ricardo Barrutia, Edery Abanto, Fabiola Espinoza, Joaquin Pedraza                                                                                                                                                                                                                                                                                                                     |
+| **Sprint Review Summary**       | Se desplego el front end de GastroGo y se empezo a desarrollar el backend.                                                                                                                                                                                                                                                                                                            |
+| **Sprint Retrospective Summary**| Se finalizo el desarrolllo del front end con la mejora continua respectiva para la landing page y front end. Asimismo se debe                                                                                                                                                                                                                                                         |
 | **Sprint Goal**                 | En este sprint, el objetivo es desarrollar la lógica y funcionalidades principales del backend de la aplicación web, además de su despliegue. Durante las diversas reuniones del equipo, se asignaron tareas específicas a cada integrante para implementar los servicios del backend. Al finalizar el sprint, la aplicación debe estar desplegada en un entorno de pruebas adecuado. |
-| **Sprint Velocity**             |                                                                                                                                                                                                                                                                                                                |
-| **Sum of Story Points**         |   Story Points                                                                                                                                                                                                                                                                                                 |
+| **Sprint Velocity**             | 31                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Sum of Story Points**         | 31 Story Points                                                                                                                                                                                                                                                                                                                                                                       |
 
 
 #### 5.2.2.2. Sprint Backlog 3
+| **User Story**                                            | **Work-item/Task**                                           | **Description**                                                                                                                                                                           | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-----------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------|------------|
+| E2 - US009: Registro de usuario                           | E2 - US009 - W1 Registration Field Validation Implementation | Crear las validaciones para todos los campos obligatorios y incluyendo patrones de formato y manejo de errores.                                                                           | 5                      | Ricardo         | Done       |
+| E2 - US009: Registro de usuario                           | E2 - US009 - W2 Registration Page  Implementation            | Crear la interfaz gráfica del apartado de registro.                                                                                                                                        | 4                      | Ricardo         | Done       |
+| E2 - US010: Inicio de sesión                              | E2 - US010 - W1 Login Credentials Validation                 | Implementar la validación de credenciales en el inicio de sesión, incluyendo manejo de errores para credenciales incorrectas.                                                             | 5                      | Ricardo         | Done       |
+| E2 - US010: Inicio de sesión                              | E2 - US010 - W2 Login Page  Implementation                   | Crear la interfaz gráfica del apartado de login.                                                                                                                                          | 4                      | Ricardo         | Done       |
+| E2 - US011: Recuperación de contraseña                    | E2 - US011 - W1  Password Recovery                           | Implementar el envío de un enlace para restablecer la contraseña al correo electrónico del usuario.                                                                                       | 4                      | Ricardo         | Done       |
+| E2 - US011: Recuperación de contraseña                    | E2 - US011 - W2 Password Recovery   Page  Implementation     | Crear la interfaz gráfica del apartado de recuperación de password.                                                                                                                       | 5                      | Ricardo         | Done       |
+| E2 - US015: Notificación de Confirmación de Pedidos       | E2 - US015 - W1 Group Order Confirmation Notification	       | Implementar la lógica para enviar notificaciones de confirmación a todos los miembros del grupo cuando se confirme un pedido.                                                             | 6                      | Edery           | Done       |
+| E2 - US018: Búsqueda de Restaurantes                      | E2 - US018 - W1 Restaurant Search		                          | Implementar la barra de búsqueda y los filtros para buscar restaurantes.                                                                                                                  | 4                      | Joaquín         | Done       |
+| E2 - US018: Búsqueda de Restaurantes                      | E2 - US018 - W2 Search Logic		                               | Implementar la lógica que procese las solicitudes de búsqueda por nombre, categoría y ubicación.                                                                                          | 4                      | Joaquín         | Done       |
+| E2 - US019: Restaurantes Recomendados                     | E2 - US019 - W1 Recommended Restaurants	                     | Crear la sección de restaurantes recomendados basada en popularidad y satisfacción del cliente, incluyendo personalización según historial de pedidos.                                    | 4                      | Joaquín         | Done       |
+| E2 - US019: Restaurantes Recomendados                     | E2 - US019 - W2 Recommendations Logic                        | Implementar la lógica para personalizar recomendaciones basadas en el historial del usuario.                                                                                              | 5                      | Joaquín         | Done       |
+| E2 - US020: Información del Restaurante	                  | E2 - US020 - W1 Restaurant Information	                      | Crear la interfaz que muestre información detallada del restaurante y su menú.                                                                                                            | 6                      | Joaquín         | Done       |
+| E4 - US024: Confirmar o Agregar a Votación                | E4 - US024 - W1  Diseño de la Interfaz de Votación           | Crear la interfaz de usuario para la votación, incluyendo botones para confirmar o agregar a votación.                                                                                    | 4                      | Edery           | Done       |
+| E4 - US024: Confirmar o Agregar a Votación                | E4 - US024 - W2   Integración de Funcionalidades de Votación | Conectar la interfaz de votación con la lógica de backend para permitir la confirmación o adición de platos a la votación. Asegurarse de que los datos se envíen y reciban correctamente. | 4                      | Edery           | Done       |
+| E6 - US029: Métodos de Pago Diversos                      | E6 - US029 - W1 Payment Interface                            | Crear la interfaz para seleccionar métodos de pago.                                                                                                                                       | 4                      | Ricardo         | Done       |
+| E6 - US029: Métodos de Pago Diversos                      | E6 - US029 - W2 Diverse Payment Methods Selection Logic      | Implementar la lógica para procesar la selección del método de pago y completar la transacción.                                                                                           | 4                      | Ricardo         | Done       |
+| E9 - US041: Selección de Plan de Suscripción              | E9 - US041 - W1  Selection Interface                         | Crear la interfaz para que los usuarios seleccionen un plan de suscripción.                                                                                                               | 5                      | Edery           | Done       |
+| E9 - US042: Renovación de Plan de Suscripción             | E9 - US041 - W1  Subscription Renewal  Reminders             | Implementar la lógica para enviar recordatorios de renovación de suscripción.                                                                                                             | 6                      | Edery           | Done       |
+| E9 - US042: Renovación de Plan de Suscripción             | E9 - US041 - W2  Subscription Renewal Renewal Process        | Crear la interfaz y la lógica para facilitar la renovación de suscripciones.                                                                                                              | 4                      | Ricardo         | Done       |
+| E9 - US043: Cancelación de Plan de Suscripción            | E9 - US043 - W1 Cancellation Option                          | Implementar la interfaz para cancelar el plan de suscripción.                                                                                                                             | 5                      | Ricardo         | Done       |
+| E9 - US043: Cancelación de Plan de Suscripción            | E9 - US043 - W2 Subscription Cancellation Confirmation       | Implementar la lógica para confirmar la cancelación y enviar notificaciones.                                                                                                              | 6                      | Ricardo         | Done       |
+| E10 - US047: Endpoint para Creación y Consulta de Pedidos | E9 - US047 - W1 Endpoint Creation                            | Implementar el endpoint para la creación de pedidos grupales.                                                                                                                             | 8                      | Edery           | Done       |
+| E10 - US047: Endpoint para Creación y Consulta de Pedidos | E9 - US047 - W2  Endpoint Consultation                       | Implementar el endpoint para consultar los pedidos grupales.                                                                                                                              | 8                      | Edery           | Done       |
+| E10 - US048: Endpoint para Actualización y Eliminación    | E9 - US048 - W1 Endpoint Update                              | Implementar el endpoint para actualizar pedidos grupales.                                                                                                                                 | 8                      | Fabiola         | Done       |
+| E10 - US048: Endpoint para Actualización y Eliminación    | E9 - US048 - W2  Endpoint Deletion                           | Implementar el endpoint para eliminar pedidos grupales.                                                                                                                                   | 8                      | Fabiola         | Done       |
+| E10 - US049: Endpoint para Recomendaciones                | E9 - US049 - W1 Endpoint Recommendations Generation          | Implementar el endpoint que genera recomendaciones personalizadas.	                                                                                                                       | 8                      | Joaquín         | Done       |
+| E10 - US049: Endpoint para Recomendaciones                | E9 - US049 - W1 Endpoint Recommendations Preference Handling | Implementar la lógica para manejar las preferencias del usuario y ajustar las recomendaciones.                                                                                            | 8                      | Joaquín         | Done       |
 
-| **User Story**                           | **Work-item/Task**             | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status**               |
-|------------------------------------------|--------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|--------------------------|
-|             |     |              | 4                      | Ricardo         | Done                     |
-|             |     |              | 4                      | Ricardo         | Done                     |
-|             |     |              | 4                      | Ricardo         | Done                     |
-|             |     |              | 4                      | Ricardo         | Done                     |
-|             |     |              | 4                      | Ricardo         | Done                     |
-|             |     |              | 4                      | Ricardo         | Done                     |
-|             |     |              | 4                      | Ricardo         | Done                     |
 
 
 #### 5.2.2.3. Development Evidence for Sprint Review 3
@@ -2379,6 +2399,115 @@ Code frecuency:
 
 ![Code Frecuency Back](assets/img/chapter-5/img-code-back-frecuency.png)
 
+### 5.3. Validation Interviews
+
+Luego de avanzar en el desarrollo de la landing page, la aplicación front-end y la API RESTful del producto GastroGo, realizamos entrevistas de validación para brindar a nuestros usuarios objetivo una primera impresión del software.
+
+#### 5.3.1 Registro de entrevistas
+
+En esta sección se registrarán las entrevistas de validación realizadas a ambos segmentos objetivos. Se adjunta el link del video completo:
+
+Segmento de trabajadores:
+
+Entrevista #01:Jonathan Berrocal (22 años - Villa Maria del Triunfo ) - 30 de octubre de 2024
+
+![Validation 1](assets/img/chapter-5/img-validation-1.png)
+
+[GastroGo - Validation Interviews 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=z8ZmKU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) (
+Comienzo 0:00 - Fin 08:50)
+
+Jonathan Berrocal, como trabajador del segmento objetivo, comentó que la pantalla de inicio de sesión le pareció agradable en general, pero observó que los botones eran un poco grandes y que el diseño podría beneficiarse de más elementos visuales, como imágenes en la sección de slide. También recomendó ajustar el tamaño de los cuadros de texto en la pantalla de pago, ya que algunos se veían demasiado largos, y centrar ciertos elementos de la interfaz que estaban desalineados.
+
+Entrevista #02: Daniel Vazquez (25 años - San Juan de Lurigancho) - 30 de octubre de 2024
+
+![Validation 2](assets/img/chapter-5/img-validation-2.png)
+
+[GastroGo - Validation Interviews 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=5iC0Yj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTMxLjI0fX0%3D) (
+Comienzo 08:50 - Fin 16:48)
+
+Daniel Vázquez encontró que la interfaz de usuario de la aplicación era amigable y atractiva en términos de diseño. Al completar su información personal en la pantalla de registro, comentó que la disposición visual era adecuada y funcional. No tuvo observaciones importantes sobre esta parte, destacando que el proceso era claro y sencillo.
+
+Entrevista #03: Raul Sulca Ynoñan (29 años - Comas) - 30 de octubre de 2024
+
+![Validation 3](assets/img/chapter-5/img-validation-3.png)
+
+[GastroGo - Validation Interviews 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=rMDZXU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTAwOS43OX19) (
+Comienzo 16:48 - Fin 28:40)
+
+El tercer entrevistado, como trabajador del segmento objetivo, no planteó críticas directas, pero mencionó algunas áreas de mejora. Comentó que la funcionalidad de votación en grupo, aunque útil, podría beneficiarse de una interfaz más visualmente atractiva y clara, para hacerla más fácil de usar. También sugirió que la calificación de los restaurantes podría ser más detallada, permitiendo evaluar aspectos específicos como la comida, el servicio y la entrega, lo cual ayudaría a mejorar la precisión de las evaluaciones.
+
+Segmento de trabajadores:
+
+Entrevista #04: Luis Miguel Rojas Piñero (20 años - Miraflores) - 30 de octubre de 2024
+
+![Validation 4](assets/img/chapter-5/img-validation-4.png)
+
+[GastroGo - Validation Interviews 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=IxiwjP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTk0My4zN319) (
+Comienzo 28:41 - Fin 36:41)
+
+Luis Miguel resaltó que la página principal de GastroGo le parece visualmente atractiva y bien organizada. Sin embargo, sugirió que las imágenes de comida podrían confundir al usuario sobre el propósito de la aplicación, haciéndola parecer una app de recetas en lugar de una herramienta para restaurantes. Además, considera positiva la función de órdenes recientes, ya que permite consultar pedidos anteriores, lo cual ayudaría a evitar problemas comunes de confusión en la cocina. También valoró la organización del menú según días y horarios, destacando que facilitaría la atención al cliente al evitar malentendidos en horarios de ofertas.
+
+Entrevista #05: Jose Rolando Unzueta Luza( 24 años - Santiago de Surco ) - 30 de octubre de 2024
+
+![Validation 5](assets/img/chapter-5/img-validation-5.png)
+
+[GastroGo - Validation Interviews 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=FXlSdd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjIwMS42NH19) (
+Comienzo 36:41 - Fin 40:22)
+
+José observó que los botones en GastroGo deberían destacarse más visualmente, ya que algunos no son claramente distinguibles como tales debido a su color o falta de bordes. También mencionó que le gustaría ver una barra lateral más visible y un mejor espaciado entre los elementos para mejorar la legibilidad. En cuanto a la sección de perfil y métodos de pago, propuso que los botones y textos sean más claros y visibles. En general, José expresó que algunos problemas de espaciado y de botones podrían deberse a la resolución de su pantalla.
+
+Entrevista #06: Celso Mauricio Tamariz Salvador( 20 años Chorrillos) - 30 de octubre de 2024
+
+![Validation 6](assets/img/chapter-5/img-validation-6.png)
+
+[GastroGo - Validation Interviews 6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESf_ItTPFM1DjN6FyZ6K5J4BpuZv2mryVK5_rmlmTnPhPg?e=4fXJKJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjQyMy42OX19) (
+Comienzo 40:23 - Fin 44:10)
+
+Celso destacó como positivo el apartado de actividades en grupo, ya que asignar un único responsable para hacer el pedido ayuda a mantener el orden. Valoró también la opción de actualizar el estado del menú en tiempo real. Sugirió mejorar la comunicación entre GastroGo y los restaurantes, especialmente en casos donde las órdenes puedan ser modificadas por demanda presencial. Finalmente, reconoció la organización y seguridad de la aplicación al permitir verificar el estado de los pedidos y recibir notificaciones.
+
+#### 5.3.2 Evaluaciones según heurísticas
+
+En base a la información recolectada a partir de las entrevistas realizadas y nuestras experiencias personales, analizamos las heurísticas de diseño de nuestra aplicación GastroGo:
+
+1. **Visibilidad del estado del sistema:**
+
+El sistema proporciona una visibilidad adecuada del estado, especialmente en la pantalla de inicio de sesión, como destacó Jonathan Berrocal. Sin embargo, algunos elementos, como los botones de perfil y métodos de pago, necesitan mayor claridad visual, según José, ya que algunos botones no son fácilmente distinguibles debido a su color o bordes.
+
+2. **Relación entre el sistema y el mundo real:**
+
+El uso de imágenes de comida en la página principal fue un punto de confusión señalado por Luis Miguel, quien mencionó que podrían hacer que la app se perciba como una aplicación de recetas en lugar de una herramienta para pedidos en restaurantes. Este es un área que requiere ajustes para alinearse mejor con el propósito del sistema.
+
+3. **Libertad y control por parte del usuario:**
+
+Los usuarios como Celso valoraron la opción de actualizar el estado del menú en tiempo real y la flexibilidad que otorga la funcionalidad de actividades en grupo. Sin embargo, la interfaz para la votación en grupo fue señalada por otro entrevistado como una área que podría beneficiarse de ser más visualmente atractiva y clara.
+
+4. **Consistencia y estándares:**
+
+La organización de la información fue percibida como adecuada, especialmente en la pantalla de registro, como señaló Daniel Vázquez. Los usuarios no encontraron dificultades al entender las opciones disponibles en general, pero el espaciado entre elementos y la visibilidad de algunos botones, como mencionó José, podría mejorar.
+
+5. **Prevención de errores:**
+
+Celso destacó que la seguridad y la organización del sistema para verificar el estado de los pedidos y recibir notificaciones ayudan a reducir la posibilidad de errores en el proceso de pedidos. Sin embargo, la confusión generada por las imágenes de comida mencionada por Luis Miguel podría llevar a un malentendido si no se ajusta.
+
+6. **Reconocimiento antes que recuerdo:**
+
+Si bien la mayoría de las funciones fueron bien recibidas por los usuarios, Jonathan Berrocal sugirió que el diseño de la pantalla de inicio podría beneficiarse de más elementos visuales como imágenes en la sección de slides, lo que mejoraría el reconocimiento inmediato de los propósitos de la aplicación.
+
+7. **Flexibilidad y eficiencia de uso:**
+
+La aplicación fue valorada positivamente por usuarios como Celso y Daniel Vázquez por su funcionalidad clara y directa. Sin embargo, José mencionó que algunos problemas de visualización, como el espaciado y la visibilidad de los botones, podrían deberse a la resolución de su pantalla, lo que sugiere una mejora en la flexibilidad visual.
+
+8. **Estética y diseño minimalista:**
+
+El diseño visual fue bien recibido en general. Luis Miguel destacó que la página principal está bien organizada, pero recomendó ajustes en las imágenes para evitar confusiones. Asimismo, Jonathan Berrocal sugirió que el diseño se beneficiaría de más elementos visuales, y José propuso mejorar el espaciado y los botones para una apariencia más limpia.
+
+9. **Ayudar a los usuarios a reconocer, diagnosticar y corregir errores:**
+
+El sistema presenta un buen control sobre la gestión de pedidos y actualizaciones en tiempo real, como resaltó Celso. Sin embargo, la falta de claridad visual en ciertos botones podría hacer que los usuarios no detecten rápidamente errores o acciones pendientes, como observó José.
+
+10. **Ayuda y documentación:**
+
+Aunque no hubo observaciones directas sobre la documentación durante las entrevistas, la claridad de la interfaz y las opciones fue generalmente bien recibida. No obstante, la implementación de ayudas visuales en ciertos componentes podría mejorar la experiencia general de los usuarios.
 
 # Conclusiones
 
@@ -2389,7 +2518,22 @@ El progreso del proyecto ha logrado alcanzar los objetivos establecidos al inici
 Uno de los aprendizajes más importantes ha sido el valor de la comunicación y la colaboración entre los miembros del equipo. Además, las herramientas de colaboración, como GitHub y Figma, desempeñaron un papel esencial en la coordinación del trabajo, facilitando una gestión eficaz del código y una visualización clara del diseño de la landing page. Aprendimos que el uso adecuado de estas herramientas mejora la organización, planificación y eficiencia del trabajo en equipo.
 
 ### Video About-the-Team
-  
+
+Esta sección contiene el video about the team, que presenta a los desarrolladores de la aplicación GastroGo y sus
+contribuciones en el proyecto.
+
+A continuación, se proporciona el enlace al video about the team:
+
+- Microsoft Stream: [GastroGo - About the Team]()
+
+- Youtube : [GastroGo - About the Team]()
+
+Duracion del video: 
+
+Screenshot del video:
+
+![Evidencia About the team ](assets/img/chapter-5/img-about-the-team.png)
+
 ---  
 # Bibliografía
 
@@ -2405,15 +2549,26 @@ Uno de los aprendizajes más importantes ha sido el valor de la comunicación y 
 
 ---  
 # Anexos
--  [**Organización de Github**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas)
--  [**Report Repository**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Report)
-- [**Acceptance Test**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/acceptance-test)
--  [**Landing Page**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Landing-Page)
-- [**Front End**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-FrontEnd)
+-  [**Organización de Github**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas)
+-  [**Report Repository**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Report)
+- [**Acceptance Test**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/acceptance-test)
+-  [**Landing Page**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Landing-Page)
+-  [**Landing Page Deploy**] (https://upc-pre-si729-2402-wx51-g1-verduritas.github.io/GastroGo-Landing-Page/)
+- [**Front End**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-FrontEnd)
+- [**Front End Deploy**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-FrontEnd)
+- [**Back End**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-FrontEnd)
 
 - Videos de Exposiciones:
-- TB1: [upc-pre-202401-si729-wx51-verduritas-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EXxL52cQz7tMgtQ3JJSryDYBB4yl3rAXfIEsLBUWp-Icwg?e=cegRN9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- TB1: [upc-pre-202401-si729-wx51-verduritas-expo-tb1.mp4] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EXxL52cQz7tMgtQ3JJSryDYBB4yl3rAXfIEsLBUWp-Icwg?e=cegRN9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- TP: [upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4](https://upcedupe-my.sharepoint.com/personal/u201714765_upc_edu_pe/_layouts/15/stream.aspx?id=/personal/u201714765_upc_edu_pe/Documents/upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4)
-- [**Web Applications Prototyping**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EYhnox1X-wdBqr_LFFwrxS4BJPj_L2JvTeW_dxuLVBFfrA?e=vQ35aZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )
-- Needfinding: [**upc-pre-202402-si729-wx51-verduritas-needfinding-sprint-1.mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EZ80d-4uHTVKuQRdGAb47hMBjv6m3FXksZM6ieafoOaeLA?e=QO9QOa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- TP: [upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4] (https://upcedupe-my.sharepoint.com/personal/u201714765_upc_edu_pe/_layouts/15/stream.aspx?id=/personal/u201714765_upc_edu_pe/Documents/upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4)
+
+- [**Web Applications Prototyping**] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EYhnox1X-wdBqr_LFFwrxS4BJPj_L2JvTeW_dxuLVBFfrA?e=vQ35aZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )
+
+- Needfinding: [**upc-pre-202402-si729-wx51-verduritas-needfinding-sprint-1.mp4**] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EZ80d-4uHTVKuQRdGAb47hMBjv6m3FXksZM6ieafoOaeLA?e=QO9QOa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+- [GastroGo - About the Product] ()
+
+- [GastroGo - About the Team] ()
+
+- [GastroGo - Validation Interviews] () 

@@ -2353,22 +2353,35 @@ Code frecuency:
 
 
 #### 5.2.2.3. Development Evidence for Sprint Review 3
-| **Repository**    | **Branch** | **Commit Id**                                            | **Commit Message**                                                      | **Committed on (Date)** |
-|-------------------|------------|----------------------------------------------------------|-------------------------------------------------------------------------|-------------------------|
-| GastroGo-Backend  | develop    | chore: initial commit                                           |   39f7e0559d2d55b72f1cc9695a15b6b74c552328                                                        | 19/10/2024              |
-| GastroGo-Backend   |develop            |  feat(shared): added snake class with pluralized table                          |  ee028683ee4808a806f9c57a67eb6e5db3f01c4d                                         | 19/10/2024              |
-| GastroGo-Backend   |develop            |  feat(shared): added snake case and pluralized helper methods                          |  5cb865925c0812435830ca26ef51d00a09879b88                                         | 20/10/2024              |
-| GastroGo-Backend   |develop            |  chore: added pluralize dependency                          |  78c58af776d4d9b54267baeee1905679b069223f                                         | 20/10/2024              |
-| GastroGo-Backend   |develop            |   feat(shared): update model domain                         |    51aa920c92954ea11e15135cdc41542da8ce9f01                                       | 20/10/2024              |
-| GastroGo-Backend   |develop            | feat(shared): added auditable abstract aggregate root                           |  093ac6c87f40c1475028ba01dbe73af445be59fa                                         | 20/10/2024              |
-| GastroGo-Backend   |develop            | feat(shared): added auditable model                           |   8671676d3dae04575f9264086455b402acbf2b8e                                        | 25/10/2024              |
-| GastroGo-Backend   |develop            |  fix: fixed SnakeClassWithPluralizedTablePhysicalNamingStrategy                          |  a3a416f77b33e43d915f27874c9fcd95a922fee2                                         | 2/11/2024               |
-| GastroGo-Backend   |develop            |                               |                                           | 2/11/2024               |
-| GastroGo-Backend   |develop            |                               |                                           | 2/11/2024               |
-| GastroGo-Backend   |develop            |                               |                                           | 2/11/2024               |
-| GastroGo-Backend   |develop            |                               |                                           | 2/11/2024               |
-| GastroGo-Backend   |develop            |                               |                                           | 2/11/2024               |
-| GastroGo-Backend   |develop            |                               |                                           | 2/11/2024               |
+| **Repository**    | **Branch** | **Commit Id**                                                  | **Commit Message**                                                      | **Committed on (Date)** |
+|-------------------|------------|----------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------|
+| GastroGo-Backend  | develop    | chore: initial commit                                          |   39f7e0559d2d55b72f1cc9695a15b6b74c552328                                                        | 19/10/2024              |
+| GastroGo-Backend   |develop            | feat(shared): added snake class with pluralized table          |  ee028683ee4808a806f9c57a67eb6e5db3f01c4d                                         | 19/10/2024              |
+| GastroGo-Backend   |develop            | feat(shared): added snake case and pluralized helper methods   |  5cb865925c0812435830ca26ef51d00a09879b88                                         | 20/10/2024              |
+| GastroGo-Backend   |develop            | chore: added pluralize dependency                              |  78c58af776d4d9b54267baeee1905679b069223f                                         | 20/10/2024              |
+| GastroGo-Backend   |develop            | feat(shared): update model domain                              |    51aa920c92954ea11e15135cdc41542da8ce9f01                                       | 20/10/2024              |
+| GastroGo-Backend   |develop            | feat(shared): added auditable abstract aggregate root          |  093ac6c87f40c1475028ba01dbe73af445be59fa                                         | 20/10/2024              |
+| GastroGo-Backend   |develop            | feat(shared): added auditable model                            |   8671676d3dae04575f9264086455b402acbf2b8e                                        | 25/10/2024              |
+| GastroGo-Backend   |develop            | fix: fixed SnakeClassWithPluralizedTablePhysicalNamingStrategy |  a3a416f77b33e43d915f27874c9fcd95a922fee2                                         | 2/11/2024               |
+| GastroGo-Backend   |develop            | feat(order): added resources for order                         |  567ba2847c09c26fdc10c1391079116a0948bf81                                         | 2/11/2024               |
+| GastroGo-Backend   |develop            |  feat ( order) : Update dependencies                                                              | 214a3056e8b13cb1e6ff5a922120b60cb07e92fe                                          | 2/11/2024               |
+| GastroGo-Backend   |develop            |   feat(team-activities): create clean organization                                                            |  8aaefe6b66ff2ecd1dc7265b145245d37e9efbd1                                         | 2/11/2024               |
+| GastroGo-Backend   |develop            |    feat(team-activities): comments added                                                            |   fdb2c30245708d57c331a02fb6febecadb61768b                                        | 3/11/2024               |
+| GastroGo-Backend   |develop            |    feat(iam): create iam structure                                                            |   0ab65d802633e9490d47e04cc74527989db74c43                                        | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(category): added category status                                                             |  465462801e36bbce9b77d114358902c23bc4ba22                                         | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(price): added value object price                                                             |  db14fbdb3df08e5275842985cc540a012421688b                                         | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(product): added product entity                                                             | ab8759fdfdf4e9c1ef4fecebecb7dd674b064759                                          | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(menu): added menu aggregate                                                             |  4be8ae0eb4126b572a4416de295ae7b1d01b9cf9                                         | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(command): added create commnands from menu and product                                                             |  7c91225f905a635a2f047d82badfb5c3662586ab                                         | 3/11/2024               |
+| GastroGo-Backend   |develop            |    feat(query): added query methods                                                            |    17697c0ca46cd6a6abe3556637c21a3bde9c3f3f                                       | 3/11/2024               |
+| GastroGo-Backend   |develop            |    feat(resource): added resource methods from menu and product                                                            |6b730f9349f1bd8dc9917a2b9194e4b6a3db99ad                                           | 3/11/2024               |
+| GastroGo-Backend   |develop            |    feat(repository): added repositories from menu and products                                                            |   6c5500d8b1009243fda4cb8694be6d14cbe373b6                                        | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(assembler): added pattern assembler                                                             |  d90c4ccc6cbd3bd23106be59c91c947a73eef815                                         | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(query): added product and menu query service                                                             |   4c2dbde76ef3a1aa16d9940ecb3066aa7b122c1b                                        | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(command): added product and menu command service                                                             |   405ecdb09219c292793e9496986b8f087360ddbe                                        | 3/11/2024               |
+| GastroGo-Backend   |develop            |    feat(application): added product and menu servicies implements                                                         |    b88ef27a79937f029323ad4e6ed80ee772278911                                       | 3/11/2024               |
+| GastroGo-Backend   |develop            |    feat(controller): added menu controller                                                         |    42c8379c5d8d49b88fd5a5048d8fa36873e6919c                                       | 3/11/2024               |
+
 
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review 3
@@ -2395,7 +2408,7 @@ En esta entrega, el equipo Verduritas logró implementar la landing page, la cua
 
 Enlace del Backend: 
 
-![Evidence 1 Back](assets/img/chapter-5/img-evidence-back-1.png)
+![Evidence 1 Back](assets/img/chapter-5/img-evidence-back-1.jpg)
 
 
 

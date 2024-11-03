@@ -2408,7 +2408,7 @@ En esta entrega, el equipo Verduritas logró implementar la landing page, la cua
 
 Enlace del Backend: 
 
-![Evidence 1 Back](assets/img/chapter-5/img-evidence-back-1.jpg)
+![Evidence 1 Back](assets/img/chapter-5/img-evidence-back-1.png)
 
 
 

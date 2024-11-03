@@ -1753,23 +1753,17 @@ Enlace de la explicación del prototipo: [**Web Application**](https://upcedupe-
 ### 4.6.1. Software Architecture Context Diagram
 Context diagram:
 
-![Context Diagram](assets/img/chapter-4/contextdiagram.png)
+![Context Diagram](assets/img/chapter-4/img-context-diagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 Container diagram:
 
-![Container Diagram](assets/img/chapter-4/containerdiagram.png)
+![Container Diagram](assets/img/chapter-4/img-container-diagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
-Restaurant diagram:
+Booking diagram:
 
-![Restaurant component](assets/img/chapter-4/restaurantdiagram.png)
-
-
-Workers diagram:
-
-![Sales component](assets/img/chapter-4/userdiagram.png)
-
+![Booking Diagram](assets/img/chapter-4/img-booking-diagram.jpg)
 
 Payment diagram:
 
@@ -1778,7 +1772,15 @@ Payment diagram:
 
 Authentication diagram:
 
-![Authentication component](assets/img/chapter-4/authdiagram.png)
+![Authentication component](assets/img/chapter-4/img-auth-diagram.png)
+
+
+Comunication  diagram:
+
+![Comunication  component](assets/img/chapter-4/img-communication-diagram.jpg)
+
+
+
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
@@ -2351,21 +2353,22 @@ Code frecuency:
 
 
 #### 5.2.2.3. Development Evidence for Sprint Review 3
-| **Repository**    | **Branch** | **Commit Id**                                               | **Commit Message**                                                      | **Committed on (Date)** |
-|-------------------|------------|-------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------|
-| GastroGo-Backend  | develop    | initial commit                                              |                                                           | 27/09/2024              |
-| GastroGo-Backend   |develop            |                               |                                           | 27/09/2024              |
-|GastroGo-Backend   |develop            |                  |                                           | 27/09/2024              |
-| GastroGo-Backend   |develop            |                                 |                                           | 27/09/2024              |
-| GastroGo-Backend   |develop            |                                 |                                           | 27/09/2024              |
-| GastroGo-Backend   |develop            |                                 |                                           | 27/09/2024              |
-| GastroGo-Backend   |develop            |                                 |                                           | 27/09/2024              |
-| GastroGo-Backend   |develop            |                                 |                                           | 27/09/2024              |
-| GastroGo-Backend   |develop            |                                 |                                           | 27/09/2024              |
-| GastroGo-Backend   |develop            |                                 |                                           | 27/09/2024              |
-| GastroGo-Backend   |develop            |                                 |                                           | 27/09/2024              |
-| GastroGo-Backend   |develop            |                                 |                                           | 27/09/2024              |
-| GastroGo-Backend   |develop            |                                 |                                           | 27/09/2024              |
+| **Repository**    | **Branch** | **Commit Id**                                            | **Commit Message**                                                      | **Committed on (Date)** |
+|-------------------|------------|----------------------------------------------------------|-------------------------------------------------------------------------|-------------------------|
+| GastroGo-Backend  | develop    | chore: initial commit                                           |   39f7e0559d2d55b72f1cc9695a15b6b74c552328                                                        | 19/10/2024              |
+| GastroGo-Backend   |develop            |  feat(shared): added snake class with pluralized table                          |  ee028683ee4808a806f9c57a67eb6e5db3f01c4d                                         | 19/10/2024              |
+| GastroGo-Backend   |develop            |  feat(shared): added snake case and pluralized helper methods                          |  5cb865925c0812435830ca26ef51d00a09879b88                                         | 20/10/2024              |
+| GastroGo-Backend   |develop            |  chore: added pluralize dependency                          |  78c58af776d4d9b54267baeee1905679b069223f                                         | 20/10/2024              |
+| GastroGo-Backend   |develop            |   feat(shared): update model domain                         |    51aa920c92954ea11e15135cdc41542da8ce9f01                                       | 20/10/2024              |
+| GastroGo-Backend   |develop            | feat(shared): added auditable abstract aggregate root                           |  093ac6c87f40c1475028ba01dbe73af445be59fa                                         | 20/10/2024              |
+| GastroGo-Backend   |develop            | feat(shared): added auditable model                           |   8671676d3dae04575f9264086455b402acbf2b8e                                        | 25/10/2024              |
+| GastroGo-Backend   |develop            |  fix: fixed SnakeClassWithPluralizedTablePhysicalNamingStrategy                          |  a3a416f77b33e43d915f27874c9fcd95a922fee2                                         | 2/11/2024               |
+| GastroGo-Backend   |develop            |                               |                                           | 2/11/2024               |
+| GastroGo-Backend   |develop            |                               |                                           | 2/11/2024               |
+| GastroGo-Backend   |develop            |                               |                                           | 2/11/2024               |
+| GastroGo-Backend   |develop            |                               |                                           | 2/11/2024               |
+| GastroGo-Backend   |develop            |                               |                                           | 2/11/2024               |
+| GastroGo-Backend   |develop            |                               |                                           | 2/11/2024               |
 
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review 3

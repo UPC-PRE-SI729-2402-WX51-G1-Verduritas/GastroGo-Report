@@ -47,6 +47,7 @@ Producto: GastroGo
 |---------|------------|---------|----------------------------------------------------------------------------------------------------------------|
 | 1.0     | 25/08/2024 | Abanto Vicente, Edery Renzo  <br>	Barrutia Vaez, Ricardo Andree	<br> Cuevas Vera, Jose Angel	<br> Espinoza Inoñan, Fabiola Ximena	<br> Pedraza Maldonado, Joaquin Andree | Capítulo I <br> Capítulo II <br> Capítulo III <br> Capítulo IV <br> Capítulo V                                 |
 | 2.0     | 27/09/2024 | Abanto Vicente, Edery Renzo  <br>	Barrutia Vaez, Ricardo Andree	<br> Cuevas Vera, Jose Angel	<br> Espinoza Inoñan, Fabiola Ximena	<br> Pedraza Maldonado, Joaquin Andree | Mejora continua del primer sprint , desarrollo del Sprint 2 y primer avance del FrontEnd de la Aplicación Web. |
+| 3.0     | 3/11/2024  | Abanto Vicente, Edery Renzo  <br>	Barrutia Vaez, Ricardo Andree	<br> Cuevas Vera, Jose Angel	<br> Espinoza Inoñan, Fabiola Ximena	<br> Pedraza Maldonado, Joaquin Andree | Mejora continua del segundo sprint , desarrollo del Sprint 3 y primer avance del Backend de la Aplicación Web. |
 
 
 <br><br>
@@ -149,16 +150,58 @@ No participo en el desarrollo del tp.
 
 ![Commits Joaquin TP](assets/img/develop/img-commits-joaquin-tp.png)
 
+TB2:
+
+Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los puntos a elaborar para la entrega actual, correspondientes a los Capítulos I hasta el Capítulo V: Sprint 1. Quedando de la siguiente manera:
+
+**Imágen de las Contribuciones del equipo:**
+
+![Contribuciones del equipo TB2](assets/img/develop/img-contributors-team-tb2.png)
+
+**Imágen de las Contribuciones Edery TP:**
+
+![Contribuciones Edery TB2](assets/img/develop/img-contributors-edery-tb2.png)
+
+**Imágen de los Commits Edery TP:**
+
+![Commits Edery TB2](assets/img/develop/img-commits-edery-tb2.png)
+
+**Imágen de las Contribuciones Ricardo TP:**
+
+![Contribuciones Ricardo TB2](assets/img/develop/img-contributors-ricardo-tb2.png)
+
+**Imágen de los Commits Ricardo TP:**
+
+![Commits Ricardo TB2](assets/img/develop/img-commits-ricardo-tb2.png)
+
+
+**Imágen de las Contribuciones Fabiola TP:**
+
+![Contribuciones Fabiola TB2](assets/img/develop/img-contributors-fabiola-tb2.png)
+
+**Imágen de los Commits Fabiola TP:**
+
+![Commits Fabiola TB2](assets/img/develop/img-commits-fabiola-tb2.png)
+
+**Imágen de las Contribuciones Joaquin TP:**
+
+![Contribuciones Joaquin TB2](assets/img/develop/img-contributors-joaquin-tb2.png)
+
+**Imágen de los Commits Joaquin TP:**
+
+![Commits Joaquin TB2](assets/img/develop/img-commits-joaquin-tb2.png)
+
 ---  
 # Student Outcome
 El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: *Capacidad de comunicarse efectivamente con un rango de audiencias.*
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
-|-------------------------|--------------------------|-------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia | ***TB1:*** <br> **Abanto Vicente, Edery Renzo** <br> En la TB1, me comuniqué de manera efectiva al participar en varias presentaciones y reuniones, donde expliqué claramente los diagramas de baja fidelidad y las propuestas de mejoras al equipo. <br><br> **Barrutia Vaez, Ricardo Andree** <br> Durante el desarrollo de la TB1, me comuniqué de manera efectiva al presentar mis aportes, que incluyeron el desarrollo del Lean UX, el análisis competitivo, entrevistas, empathy map, journey map y el capítulo V. También informé sobre la implementación de la barra de navegación, la introducción y la funcionalidad de cambio de idioma en la landing page. Mi capacidad para compartir estos detalles permitió que todos los miembros del equipo comprendieran claramente el progreso y la dirección del proyecto. <br><br> **Cuevas Vera, Jose Angel** <br> Me he comunicado de manera efectiva con mis compañeros para la repartición de tareas y así poder cumplir esta entrega. Y tambien realicé una parte de landing page. <br><br> **Espinoza Inoñan, Fabiola Ximena** <br>Comuniqué de manera efectiva los resultados de la investigación y análisis de entrevistas al equipo, destacando información clave para el proyecto y el desarrollo de software. También expliqué el diseño y desarrollo de la landing page usando HTML y CSS a diferentes grupos de la audiencia. <br><br> **Pedraza Maldonado, Joaquin Andree** <br> Me comuniqué de manera efectiva el diagrama de clases y los diagramas de arquitectura, adaptando el lenguaje para que los conceptos complejos fueran comprensibles para los distintos niveles de conocimiento dentro del equipo. Esto facilitó el entendimiento y la colaboración entre todos los miembros del equipo. <br><br> ***TP:*** <br>**Abanto Vicente, Edery Renzo**<br> Mantuve comunicacion activa con mi grupo de trabajo en cada reunion para la realización de diagramas y más. <br><br> **Barrutia Vaez, Ricardo Andree** <br> Como líder del grupo, mantuve una comunicación efectiva durante la realización del trabajo al coordinar la distribución de tareas en nuestras reuniones. Proporcioné apoyo a mis compañeros en el desarrollo del front-end, compartiendo ejemplos  que les sirvieron como guía. Esto facilitó el entendimiento de los objetivos y ayudó a asegurar que todos cumplieran con lo acordado para la entrega, promoviendo un ambiente de colaboración y enfoque en los resultados.<br> <br> **Cuevas Vera, Jose Angel** <br> No participó en esta entrega <br><br> **Espinoza Inoñan, Fabiola Ximena** <br> Me he comunicado de manera efectiva para realizar los cambios realizados para mejorar la presentación del proyecto. Además, expliqué el desarrollo de la landing page y las actualizaciones en el front-end, especialmente en la sección "team-activities".<br><br>  **Pedraza Maldonado, Joaquin Andree** <br> Mantuve comunicación clara y efectiva juntos a mis compañeros para el desarrollo de los diagramas y landing page. <br> | El equipo mantuvo una comunicación clara y efectiva durante todo el proyecto. A través de reuniones regulares, se establecieron metas, se asignaron tareas y se solucionaron problemas de manera conjunta. El uso de herramientas como GitHub y metodologías ágiles facilitó la coordinación y el seguimiento, asegurando que cada miembro entendiera sus responsabilidades y contribuyera al cumplimiento de los objetivos en cada etapa del proyecto. Quedando en evidencia la participación de todos los integrantes del equipo y el compromiso que tienen con este proyecto y el curso. |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | ***TB1:*** <br> **Abanto Vicente, Edery Renzo** <br> Documenté de manera clara y concisa los diagramas de baja fidelidad y las mejoras propuestas, asegurando que la información escrita fuera comprensible. <br><br> **Barrutia Vaez, Ricardo Andree** <br> Durante el desarrollo de la TB1, gestioné la comunicación escrita mediante actas y resúmenes de nuestras reuniones, que fueron fundamentales para organizar el trabajo de manera óptima. Estos documentos permitieron definir claramente los objetivos a alcanzar y delegar las tareas correspondientes, asegurando que todos los miembros del equipo comprendieran sus responsabilidades. Además, se registró el cumplimiento de las tareas asignadas dentro de los plazos establecidos, lo que contribuyó a mantener el enfoque y la coherencia del proyecto. <br><br> **Cuevas Vera, Jose Angel** <br> Redacté de manera efectiva para el desarrollo de las historias de usuario y product backlog. <br><br> **Espinoza Inoñan, Fabiola Ximena** <br> Para la primera entrega, comuniqué por escrito de manera clara y efectiva los resultados de la investigación y análisis de las entrevistas al segmento de los trabajadores. También detallé el desarrollo de una parte de la landing page utilizando HTML y CSS. <br><br> **Pedraza Maldonado, Joaquin Andree** <br> Redacté la documentación de los diagramas de clases y de arquitectura de software junto a mi compañero, explicando cada sección de manera clara y asegurando que fuera comprensible. <br><br> ***TP:*** <br>**Abanto Vicente, Edery Renzo**<br> Documenté el desarrollo de las vistas en Angular para las secciones de "Restaurants" y "Profile", explicando el código y la funcionalidad implementada de manera clara y detallada. <br><br> **Barrutia Vaez, Ricardo Andree** <br> Como líder del grupo, aseguré una comunicación escrita efectiva durante la realización del trabajo práctico. Documenté el progreso del equipo y las dificultades que surgieron en el desarrollo del front-end, así como las estrategias adoptadas para superarlas. Las actas de las reuniones del sprint 2 reflejaron nuestros objetivos iniciales y cómo cada miembro del equipo contribuyó a alcanzarlos, garantizando que todos estuvieran alineados y informados sobre el avance del proyecto. <br>  <br> **Cuevas Vera, Jose Angel** <br> No participó en esta entrega <br><br> **Espinoza Inoñan, Fabiola Ximena** <br>Para el TP redacté los cambios realizados para mejorar la presentación del proyecto, describiendo las mejoras que se hizo. <br><br> **Pedraza Maldonado, Joaquin Andree** <br> Redacté las correcciones para esta entrega de manera clara y efectiva junto a mis compañeros y tambien, realicé la documentación del front-end, especificamente "my orders."  <br> | El equipo logró una comunicación escrita efectiva a lo largo del proyecto, utilizando reportes y documentación clara para establecer metas y distribuir responsabilidades de manera equitativa. Los avances en el desarrollo del software se comunicaron de manera precisa, lo que facilitó la planificación y el cumplimiento de los objetivos en cada entrega. Además, la documentación generada promovió un entorno colaborativo que fomentó la participación activa de todos los miembros, asegurando la coherencia y calidad del proyecto. |
+| **Criterio específico**                                               | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Conclusiones**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | ***TB1:*** <br> **Abanto Vicente, Edery Renzo** <br> En la TB1, me comuniqué de manera efectiva al participar en varias presentaciones y reuniones, donde expliqué claramente los diagramas de baja fidelidad y las propuestas de mejoras al equipo. <br><br> **Barrutia Vaez, Ricardo Andree** <br> Durante el desarrollo de la TB1, me comuniqué de manera efectiva al presentar mis aportes, que incluyeron el desarrollo del Lean UX, el análisis competitivo, entrevistas, empathy map, journey map y el capítulo V. También informé sobre la implementación de la barra de navegación, la introducción y la funcionalidad de cambio de idioma en la landing page. Mi capacidad para compartir estos detalles permitió que todos los miembros del equipo comprendieran claramente el progreso y la dirección del proyecto. <br><br> **Cuevas Vera, Jose Angel** <br> Me he comunicado de manera efectiva con mis compañeros para la repartición de tareas y así poder cumplir esta entrega. Y tambien realicé una parte de landing page. <br><br> **Espinoza Inoñan, Fabiola Ximena** <br>Comuniqué de manera efectiva los resultados de la investigación y análisis de entrevistas al equipo, destacando información clave para el proyecto y el desarrollo de software. También expliqué el diseño y desarrollo de la landing page usando HTML y CSS a diferentes grupos de la audiencia. <br><br> **Pedraza Maldonado, Joaquin Andree** <br> Me comuniqué de manera efectiva el diagrama de clases y los diagramas de arquitectura, adaptando el lenguaje para que los conceptos complejos fueran comprensibles para los distintos niveles de conocimiento dentro del equipo. Esto facilitó el entendimiento y la colaboración entre todos los miembros del equipo. <br><br> ***TP:*** <br>**Abanto Vicente, Edery Renzo**<br> Mantuve comunicacion activa con mi grupo de trabajo en cada reunion para la realización de diagramas y más. <br><br> **Barrutia Vaez, Ricardo Andree** <br> Como líder del grupo, mantuve una comunicación efectiva durante la realización del trabajo al coordinar la distribución de tareas en nuestras reuniones. Proporcioné apoyo a mis compañeros en el desarrollo del front-end, compartiendo ejemplos  que les sirvieron como guía. Esto facilitó el entendimiento de los objetivos y ayudó a asegurar que todos cumplieran con lo acordado para la entrega, promoviendo un ambiente de colaboración y enfoque en los resultados.<br> <br> **Cuevas Vera, Jose Angel** <br> No participó en esta entrega <br><br> **Espinoza Inoñan, Fabiola Ximena** <br> Me he comunicado de manera efectiva para realizar los cambios realizados para mejorar la presentación del proyecto. Además, expliqué el desarrollo de la landing page y las actualizaciones en el front-end, especialmente en la sección "team-activities".<br><br>  **Pedraza Maldonado, Joaquin Andree** <br> Mantuve comunicación clara y efectiva juntos a mis compañeros para el desarrollo de los diagramas y landing page. <br>  <br>  ***TB2:***  <br> **Abanto Vicente, Edery Renzo**<br>Me comuniqué con el líder de equipo para coordinar los nuevos cambios a realizar en front-end y con mis compañeros para verificar el estado del proyecto<br><br> **Barrutia Vaez, Ricardo Andree**<br> En esta TB2, como líder del equipo, me aseguré de que durante las reuniones, se explicaran lo que cada uno debía hacer y cómo avanzar con el proyecto. También, cuando surgieron problemas, traté de comunicar las soluciones de manera simple para que todos las entendieran sin complicaciones. Me aseguré de que, tanto el frontend como el backend, estuvieran bien desarrollados. <br> <br>**Espinoza Inoñan, Fabiola Ximena**<br> Mantuve una buena comunicación con mi equipo de trabajo para concluir este sprint, nos repartimos las tareas a desarrollar en el front y back. Hubo comunicación para cumplir esta entrega del proyecto. <br><br> **Pedraza Maldonado, Joaquin Andree**<br>Tuve una buena comunicación con mi grupo para completar este entregable a tiempo y terminar con mi parte del front y hacer mi parte del backend<br> | El equipo mantuvo una comunicación clara y efectiva durante todo el proyecto. A través de reuniones regulares, se establecieron metas, se asignaron tareas y se solucionaron problemas de manera conjunta. El uso de herramientas como GitHub y metodologías ágiles facilitó la coordinación y el seguimiento, asegurando que cada miembro entendiera sus responsabilidades y contribuyera al cumplimiento de los objetivos en cada etapa del proyecto. Quedando en evidencia la participación de todos los integrantes del equipo y el compromiso que tienen con este proyecto y el curso. |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | ***TB1:*** <br> **Abanto Vicente, Edery Renzo** <br> Documenté de manera clara y concisa los diagramas de baja fidelidad y las mejoras propuestas, asegurando que la información escrita fuera comprensible. <br><br> **Barrutia Vaez, Ricardo Andree** <br> Durante el desarrollo de la TB1, gestioné la comunicación escrita mediante actas y resúmenes de nuestras reuniones, que fueron fundamentales para organizar el trabajo de manera óptima. Estos documentos permitieron definir claramente los objetivos a alcanzar y delegar las tareas correspondientes, asegurando que todos los miembros del equipo comprendieran sus responsabilidades. Además, se registró el cumplimiento de las tareas asignadas dentro de los plazos establecidos, lo que contribuyó a mantener el enfoque y la coherencia del proyecto. <br><br> **Cuevas Vera, Jose Angel** <br> Redacté de manera efectiva para el desarrollo de las historias de usuario y product backlog. <br><br> **Espinoza Inoñan, Fabiola Ximena** <br> Para la primera entrega, comuniqué por escrito de manera clara y efectiva los resultados de la investigación y análisis de las entrevistas al segmento de los trabajadores. También detallé el desarrollo de una parte de la landing page utilizando HTML y CSS. <br><br> **Pedraza Maldonado, Joaquin Andree** <br> Redacté la documentación de los diagramas de clases y de arquitectura de software junto a mi compañero, explicando cada sección de manera clara y asegurando que fuera comprensible. <br><br> ***TP:*** <br>**Abanto Vicente, Edery Renzo**<br> Documenté el desarrollo de las vistas en Angular para las secciones de "Restaurants" y "Profile", explicando el código y la funcionalidad implementada de manera clara y detallada. <br><br> **Barrutia Vaez, Ricardo Andree** <br> Como líder del grupo, aseguré una comunicación escrita efectiva durante la realización del trabajo práctico. Documenté el progreso del equipo y las dificultades que surgieron en el desarrollo del front-end, así como las estrategias adoptadas para superarlas. Las actas de las reuniones del sprint 2 reflejaron nuestros objetivos iniciales y cómo cada miembro del equipo contribuyó a alcanzarlos, garantizando que todos estuvieran alineados y informados sobre el avance del proyecto. <br>  <br> **Cuevas Vera, Jose Angel** <br> No participó en esta entrega <br><br> **Espinoza Inoñan, Fabiola Ximena** <br>Para el TP redacté los cambios realizados para mejorar la presentación del proyecto, describiendo las mejoras que se hizo. <br><br> **Pedraza Maldonado, Joaquin Andree** <br> Redacté las correcciones para esta entrega de manera clara y efectiva junto a mis compañeros y tambien, realicé la documentación del front-end, especificamente "my orders."  <br>  <br> ***TB2:***  <br> **Abanto Vicente, Edery Renzo**<br>Liste las tareas a realizar para el equipo en el grupo de comunicación Discord para una mayor organización<br><br> **Barrutia Vaez, Ricardo Andree**<br> Para esta entrega, me aseguré de repartir las tareas de manera que todos tuvieran claro qué hacer y qué faltaba. Fui escribiendo resúmenes de las reuniones y de lo que íbamos avanzando en el sprint, tratando de que fuera fácil de entender. Si surgía algún problema, se tomaba en cuenta para gestionarlo y también cómo lo íbamos solucionando, así todos estábamos al día para poder progresar en la entrega. <br> <br>**Espinoza Inoñan, Fabiola Ximena**<br> Nos comunicamos de manera efectiva para este sprint, usamos las redes sociales como apoyo y empezamos a marcar las tareas que nos faltaban completar y mantener un orden. <br> <br> **Pedraza Maldonado, Joaquin Andree**<br>Nos comunicamos correctamente para completar las actividades de este sprint efectivamente<br>                                                                                                                                                                                                                                                                                                                     | El equipo logró una comunicación escrita efectiva a lo largo del proyecto, utilizando reportes y documentación clara para establecer metas y distribuir responsabilidades de manera equitativa. Los avances en el desarrollo del software se comunicaron de manera precisa, lo que facilitó la planificación y el cumplimiento de los objetivos en cada entrega. Además, la documentación generada promovió un entorno colaborativo que fomentó la participación activa de todos los miembros, asegurando la coherencia y calidad del proyecto.                                             |
+|                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 
 ---  
@@ -515,6 +558,13 @@ Equipos de trabajadores en entornos laborales que desean simplificar la organiza
 ## 2.1 Competidores
 
 Entender el entorno competitivo es crucial para el éxito de cualquier negocio. En esta parte, analizaremos detalladamente quiénes son nuestros competidores, tanto directos como indirectos, y examinaremos las estrategias que utilizan, así como sus fortalezas y debilidades.
+
+|EMPRESA|DESCRIPCIÓN|IMAGEN|
+|-----|-----|----|
+|**Manzana Verde**| Es una plataforma de nutrición que ofrece asesoramiento personalizado y recetas saludables para mejorar el bienestar general. |<img src="assets/img/chapter-2/img-manzana-verde-logo.png" alt="Calm" style="width:100%;">|
+|**Knoweats**| Es una aplicación que ofrece opciones de comida saludable a domicilio, permitiendo a los usuarios hacer pedidos de alimentos nutritivos y equilibrados. |<img src="assets/img/chapter-2/img-knoweats-logo.png" alt="Headspace" style="width:100%;">|
+|**Pedidos Ya**| Es una aplicación de entrega de alimentos y productos que conecta a los usuarios con una amplia variedad de restaurantes y tiendas para realizar pedidos rápidos y convenientes. |<img src="assets/img/chapter-2/img-pedidosya-logo.png" alt="Happify" style="width:100%;">|
+
 
 ## 2.1.1. Analisis competitivo
 El análisis competitivo se enfoca en estudiar detalladamente a nuestros competidores para reconocer sus puntos fuertes, débiles, oportunidades y amenazas. Este proceso nos permitirá entender mejor nuestra posición en el mercado y formular estrategias más efectivas.
@@ -1703,23 +1753,17 @@ Enlace de la explicación del prototipo: [**Web Application**](https://upcedupe-
 ### 4.6.1. Software Architecture Context Diagram
 Context diagram:
 
-![Context Diagram](assets/img/chapter-4/contextdiagram.png)
+![Context Diagram](assets/img/chapter-4/img-context-diagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 Container diagram:
 
-![Container Diagram](assets/img/chapter-4/containerdiagram.png)
+![Container Diagram](assets/img/chapter-4/img-container-diagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
-Restaurant diagram:
+Booking diagram:
 
-![Restaurant component](assets/img/chapter-4/restaurantdiagram.png)
-
-
-Workers diagram:
-
-![Sales component](assets/img/chapter-4/userdiagram.png)
-
+![Booking Diagram](assets/img/chapter-4/img-booking-diagram.jpg)
 
 Payment diagram:
 
@@ -1728,7 +1772,15 @@ Payment diagram:
 
 Authentication diagram:
 
-![Authentication component](assets/img/chapter-4/authdiagram.png)
+![Authentication component](assets/img/chapter-4/img-auth-diagram.png)
+
+
+Comunication  diagram:
+
+![Comunication  component](assets/img/chapter-4/img-communication-diagram.jpg)
+
+
+
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
@@ -2248,78 +2300,91 @@ Code frecuency:
 ![Code Frecuency Front](assets/img/chapter-5/img-code-front-frecuency.png)
 
 
-### 5.2.2. Sprint 2
-
-![Sprint Verduritas 2](assets/img/chapter-5/img-sprint-verduritas-2.png)
-
-
-#### 5.2.2.1. Sprint Planning 2
+### 5.2.2. Sprint 3
+![Sprint Verduritas 3](assets/img/chapter-5/img-sprint-verduritas-3.png)
 
 
-
-| **Sprint #**                    | Sprint 2                                                                                                                                                                                                                                                                                                                         |
-|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Date**        |                                                                                                                                                                                                                                                                                                                      |
-| **Time**                        |                                                                                                                                                                                                                                                                                                                         |
-| **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                                      |
-| **Prepared By**                 |                                                                                                                                                                                                                                                                                                                      |
-| **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza,                                                                                                                                                                                                                                                            |
-| **Sprint Review Summary**       | Se desplego la Landing Page de GastroGo en  y se empezo con el desarrollo del Front-End de la aplicación web.                                                                                                                                                                                                         |
-| **Sprint Retrospective Summary**|                                                                               |
-| **Sprint Goal**                 |  |
-| **Sprint Velocity**             |                                                                                                                                                                                                                                                                                                                               |
-| **Sum of Story Points**         |                                                                                                                                                                                                                                                                                                                                |
-
-
-#### 5.2.2.2. Sprint Backlog 2
-
-| **User Story**                           | **Work-item/Task**             | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status**               |
-|------------------------------------------|--------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|--------------------------|
-| E2 - US013 Edición de cuenta            | W014 Save group preferences    | Permitir la edición de datos personales y de contacto en el perfil.             | 3                      |        | Done                     |
-| E2 - US014 Guardar preferencias de grupo| W013 Account editing           | Implementar un sistema para guardar preferencias de grupo para futuras órdenes. | 3                      |           | Done                     |
-| E2 - US017 Encuestas Post-Compra| W017 Post-purchase surveys     | Crear un sistema de encuestas post-compra para mejorar futuras órdenes.         | 4                      |           | Done                     |
-| E3 - US018 Búsqueda de restaurantes| W018 Restaurant search         | Habilitar la búsqueda de restaurantes por nombre, categoría o ubicación.                                                                                | 3                      | Fabiola         | Done                     |
-| E3 - US019 Restaurantes recomendados| W019 Recommended restaurants   | Mostrar una lista de restaurantes recomendados por popularidad y satisfacción.                                                                                | 4                      | Ricardo         | Done                     |
-|E3 - US020 Información del restaurante              | W020 Restaurant information    | Proporcionar información detallada de los restaurantes seleccionados.                                                                                | 3                      |           | Done                     |
-|E4 - US024 Confirmar o agregar a votación                 | W024 Confirm or add to vote    | Confirmar o agregar platos personalizados a la votación del grupo.                                                                                | 4                      | Fabiola         | Done                     |
-|E5 - US025 Creación automática de votación                   | W025 Automatic vote creation   | Crear automáticamente votaciones para la elección de platos.                                                                                | 3                      |           | Done                     |
-|E5 - US026 Compartir código de votación         | W026 Share voting code         | Generar y compartir un código para participar en la votación.                                                                                | 3                      | Ricardo         | Done                     |
-|E5 - US027 Resolución de empates con sorteo         | W027 Tie resolution by lottery | Resolver empates en votaciones mediante un sorteo.                                                                                | 3                      |           | Done                     |
-|E6 - US028 Dividir el costo del pedido         | W028 Split the order cost      | Dividir automáticamente el costo del pedido entre los participantes.                                                                                | 4                      |           | Done                     |
-|E6 - US029 Métodos de pago diversos         | W029 Diverse payment methods                               | Permitir múltiples métodos de pago (tarjeta, PayPal, etc.).                                                                                | 3                      |           | Done                     |
-|E6 - US031 Registro y confirmación de pagos grupales         | W031 Group payment registration and confirmation                               | Registrar y confirmar los pagos grupales realizados.                                                                                | 5                      |           | Done                     |
-|E6 - US032 Opción de propina compartida         | W032 Shared tip option                               | Habilitar la opción de agregar una propina compartida.                                                                                | 3                      |            | Done                     |
-|E6 - US033 Generación automática de recomendaciones         | W033 Automatic recommendation generation                               | Generar recomendaciones automáticas basadas en pedidos anteriores.                                                                                | 3                      |            | Done                     |
+#### 5.2.2.1. Sprint Planning 3
+| **Sprint #**                    | Sprint 3                                                                                                                                                                                                                                                                                                                                                                              |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Date**        | 14/10/2024                                                                                                                                                                                                                                                                                                                                                                            |
+| **Time**                        | 22:00 PM                                                                                                                                                                                                                                                                                                                                                                              |
+| **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                                                                                           |
+| **Prepared By**                 | Ricardo Barrutia                                                                                                                                                                                                                                                                                                                                                                      |
+| **Attendees**                   | Ricardo Barrutia, Edery Abanto, Fabiola Espinoza, Joaquin Pedraza                                                                                                                                                                                                                                                                                                                     |
+| **Sprint Review Summary**       | Se desplego el front end de GastroGo y se empezo a desarrollar el backend.                                                                                                                                                                                                                                                                                                            |
+| **Sprint Retrospective Summary**| Se finalizo el desarrolllo del front end con la mejora continua respectiva para la landing page y front end. Asimismo se debe                                                                                                                                                                                                                                                         |
+| **Sprint Goal**                 | En este sprint, el objetivo es desarrollar la lógica y funcionalidades principales del backend de la aplicación web, además de su despliegue. Durante las diversas reuniones del equipo, se asignaron tareas específicas a cada integrante para implementar los servicios del backend. Al finalizar el sprint, la aplicación debe estar desplegada en un entorno de pruebas adecuado. |
+| **Sprint Velocity**             | 31                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Sum of Story Points**         | 31 Story Points                                                                                                                                                                                                                                                                                                                                                                       |
 
 
-#### 5.2.2.3. Development Evidence for Sprint Review 2
-
-| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                                       | **Committed on (Date)** |
-|----------------|------------|--------------------------------------------|--------------------------------------------------------------------------|-------------------------|
-|GastroGo-FrontEnd| develop    |    |                                                            | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                            | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                | 21/09/2024              | 
-|GastroGo-FrontEnd               |develop            |    |                                      | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |  | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                          | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                          | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                          | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                          | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                          | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                         | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                          | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                          | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                          | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                          | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                          | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                          | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                         | /09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                                                                          | /09/2024              |
-                                                                        
+#### 5.2.2.2. Sprint Backlog 3
+| **User Story**                                            | **Work-item/Task**                                           | **Description**                                                                                                                                                                           | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-----------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------|------------|
+| E2 - US009: Registro de usuario                           | E2 - US009 - W1 Registration Field Validation Implementation | Crear las validaciones para todos los campos obligatorios y incluyendo patrones de formato y manejo de errores.                                                                           | 5                      | Ricardo         | Done       |
+| E2 - US009: Registro de usuario                           | E2 - US009 - W2 Registration Page  Implementation            | Crear la interfaz gráfica del apartado de registro.                                                                                                                                        | 4                      | Ricardo         | Done       |
+| E2 - US010: Inicio de sesión                              | E2 - US010 - W1 Login Credentials Validation                 | Implementar la validación de credenciales en el inicio de sesión, incluyendo manejo de errores para credenciales incorrectas.                                                             | 5                      | Ricardo         | Done       |
+| E2 - US010: Inicio de sesión                              | E2 - US010 - W2 Login Page  Implementation                   | Crear la interfaz gráfica del apartado de login.                                                                                                                                          | 4                      | Ricardo         | Done       |
+| E2 - US011: Recuperación de contraseña                    | E2 - US011 - W1  Password Recovery                           | Implementar el envío de un enlace para restablecer la contraseña al correo electrónico del usuario.                                                                                       | 4                      | Ricardo         | Done       |
+| E2 - US011: Recuperación de contraseña                    | E2 - US011 - W2 Password Recovery   Page  Implementation     | Crear la interfaz gráfica del apartado de recuperación de password.                                                                                                                       | 5                      | Ricardo         | Done       |
+| E2 - US015: Notificación de Confirmación de Pedidos       | E2 - US015 - W1 Group Order Confirmation Notification	       | Implementar la lógica para enviar notificaciones de confirmación a todos los miembros del grupo cuando se confirme un pedido.                                                             | 6                      | Edery           | Done       |
+| E2 - US018: Búsqueda de Restaurantes                      | E2 - US018 - W1 Restaurant Search		                          | Implementar la barra de búsqueda y los filtros para buscar restaurantes.                                                                                                                  | 4                      | Joaquín         | Done       |
+| E2 - US018: Búsqueda de Restaurantes                      | E2 - US018 - W2 Search Logic		                               | Implementar la lógica que procese las solicitudes de búsqueda por nombre, categoría y ubicación.                                                                                          | 4                      | Joaquín         | Done       |
+| E2 - US019: Restaurantes Recomendados                     | E2 - US019 - W1 Recommended Restaurants	                     | Crear la sección de restaurantes recomendados basada en popularidad y satisfacción del cliente, incluyendo personalización según historial de pedidos.                                    | 4                      | Joaquín         | Done       |
+| E2 - US019: Restaurantes Recomendados                     | E2 - US019 - W2 Recommendations Logic                        | Implementar la lógica para personalizar recomendaciones basadas en el historial del usuario.                                                                                              | 5                      | Joaquín         | Done       |
+| E2 - US020: Información del Restaurante	                  | E2 - US020 - W1 Restaurant Information	                      | Crear la interfaz que muestre información detallada del restaurante y su menú.                                                                                                            | 6                      | Joaquín         | Done       |
+| E4 - US024: Confirmar o Agregar a Votación                | E4 - US024 - W1  Diseño de la Interfaz de Votación           | Crear la interfaz de usuario para la votación, incluyendo botones para confirmar o agregar a votación.                                                                                    | 4                      | Edery           | Done       |
+| E4 - US024: Confirmar o Agregar a Votación                | E4 - US024 - W2   Integración de Funcionalidades de Votación | Conectar la interfaz de votación con la lógica de backend para permitir la confirmación o adición de platos a la votación. Asegurarse de que los datos se envíen y reciban correctamente. | 4                      | Edery           | Done       |
+| E6 - US029: Métodos de Pago Diversos                      | E6 - US029 - W1 Payment Interface                            | Crear la interfaz para seleccionar métodos de pago.                                                                                                                                       | 4                      | Ricardo         | Done       |
+| E6 - US029: Métodos de Pago Diversos                      | E6 - US029 - W2 Diverse Payment Methods Selection Logic      | Implementar la lógica para procesar la selección del método de pago y completar la transacción.                                                                                           | 4                      | Ricardo         | Done       |
+| E9 - US041: Selección de Plan de Suscripción              | E9 - US041 - W1  Selection Interface                         | Crear la interfaz para que los usuarios seleccionen un plan de suscripción.                                                                                                               | 5                      | Edery           | Done       |
+| E9 - US042: Renovación de Plan de Suscripción             | E9 - US041 - W1  Subscription Renewal  Reminders             | Implementar la lógica para enviar recordatorios de renovación de suscripción.                                                                                                             | 6                      | Edery           | Done       |
+| E9 - US042: Renovación de Plan de Suscripción             | E9 - US041 - W2  Subscription Renewal Renewal Process        | Crear la interfaz y la lógica para facilitar la renovación de suscripciones.                                                                                                              | 4                      | Ricardo         | Done       |
+| E9 - US043: Cancelación de Plan de Suscripción            | E9 - US043 - W1 Cancellation Option                          | Implementar la interfaz para cancelar el plan de suscripción.                                                                                                                             | 5                      | Ricardo         | Done       |
+| E9 - US043: Cancelación de Plan de Suscripción            | E9 - US043 - W2 Subscription Cancellation Confirmation       | Implementar la lógica para confirmar la cancelación y enviar notificaciones.                                                                                                              | 6                      | Ricardo         | Done       |
+| E10 - US047: Endpoint para Creación y Consulta de Pedidos | E9 - US047 - W1 Endpoint Creation                            | Implementar el endpoint para la creación de pedidos grupales.                                                                                                                             | 8                      | Edery           | Done       |
+| E10 - US047: Endpoint para Creación y Consulta de Pedidos | E9 - US047 - W2  Endpoint Consultation                       | Implementar el endpoint para consultar los pedidos grupales.                                                                                                                              | 8                      | Edery           | Done       |
+| E10 - US048: Endpoint para Actualización y Eliminación    | E9 - US048 - W1 Endpoint Update                              | Implementar el endpoint para actualizar pedidos grupales.                                                                                                                                 | 8                      | Fabiola         | Done       |
+| E10 - US048: Endpoint para Actualización y Eliminación    | E9 - US048 - W2  Endpoint Deletion                           | Implementar el endpoint para eliminar pedidos grupales.                                                                                                                                   | 8                      | Fabiola         | Done       |
+| E10 - US049: Endpoint para Recomendaciones                | E9 - US049 - W1 Endpoint Recommendations Generation          | Implementar el endpoint que genera recomendaciones personalizadas.	                                                                                                                       | 8                      | Joaquín         | Done       |
+| E10 - US049: Endpoint para Recomendaciones                | E9 - US049 - W1 Endpoint Recommendations Preference Handling | Implementar la lógica para manejar las preferencias del usuario y ajustar las recomendaciones.                                                                                            | 8                      | Joaquín         | Done       |
 
 
 
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review 2
+#### 5.2.2.3. Development Evidence for Sprint Review 3
+| **Repository**    | **Branch** | **Commit Id**                                                  | **Commit Message**                                                      | **Committed on (Date)** |
+|-------------------|------------|----------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------|
+| GastroGo-Backend  | develop    | chore: initial commit                                          |   39f7e0559d2d55b72f1cc9695a15b6b74c552328                                                        | 19/10/2024              |
+| GastroGo-Backend   |develop            | feat(shared): added snake class with pluralized table          |  ee028683ee4808a806f9c57a67eb6e5db3f01c4d                                         | 19/10/2024              |
+| GastroGo-Backend   |develop            | feat(shared): added snake case and pluralized helper methods   |  5cb865925c0812435830ca26ef51d00a09879b88                                         | 20/10/2024              |
+| GastroGo-Backend   |develop            | chore: added pluralize dependency                              |  78c58af776d4d9b54267baeee1905679b069223f                                         | 20/10/2024              |
+| GastroGo-Backend   |develop            | feat(shared): update model domain                              |    51aa920c92954ea11e15135cdc41542da8ce9f01                                       | 20/10/2024              |
+| GastroGo-Backend   |develop            | feat(shared): added auditable abstract aggregate root          |  093ac6c87f40c1475028ba01dbe73af445be59fa                                         | 20/10/2024              |
+| GastroGo-Backend   |develop            | feat(shared): added auditable model                            |   8671676d3dae04575f9264086455b402acbf2b8e                                        | 25/10/2024              |
+| GastroGo-Backend   |develop            | fix: fixed SnakeClassWithPluralizedTablePhysicalNamingStrategy |  a3a416f77b33e43d915f27874c9fcd95a922fee2                                         | 2/11/2024               |
+| GastroGo-Backend   |develop            | feat(order): added resources for order                         |  567ba2847c09c26fdc10c1391079116a0948bf81                                         | 2/11/2024               |
+| GastroGo-Backend   |develop            |  feat ( order) : Update dependencies                                                              | 214a3056e8b13cb1e6ff5a922120b60cb07e92fe                                          | 2/11/2024               |
+| GastroGo-Backend   |develop            |   feat(team-activities): create clean organization                                                            |  8aaefe6b66ff2ecd1dc7265b145245d37e9efbd1                                         | 2/11/2024               |
+| GastroGo-Backend   |develop            |    feat(team-activities): comments added                                                            |   fdb2c30245708d57c331a02fb6febecadb61768b                                        | 3/11/2024               |
+| GastroGo-Backend   |develop            |    feat(iam): create iam structure                                                            |   0ab65d802633e9490d47e04cc74527989db74c43                                        | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(category): added category status                                                             |  465462801e36bbce9b77d114358902c23bc4ba22                                         | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(price): added value object price                                                             |  db14fbdb3df08e5275842985cc540a012421688b                                         | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(product): added product entity                                                             | ab8759fdfdf4e9c1ef4fecebecb7dd674b064759                                          | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(menu): added menu aggregate                                                             |  4be8ae0eb4126b572a4416de295ae7b1d01b9cf9                                         | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(command): added create commnands from menu and product                                                             |  7c91225f905a635a2f047d82badfb5c3662586ab                                         | 3/11/2024               |
+| GastroGo-Backend   |develop            |    feat(query): added query methods                                                            |    17697c0ca46cd6a6abe3556637c21a3bde9c3f3f                                       | 3/11/2024               |
+| GastroGo-Backend   |develop            |    feat(resource): added resource methods from menu and product                                                            |6b730f9349f1bd8dc9917a2b9194e4b6a3db99ad                                           | 3/11/2024               |
+| GastroGo-Backend   |develop            |    feat(repository): added repositories from menu and products                                                            |   6c5500d8b1009243fda4cb8694be6d14cbe373b6                                        | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(assembler): added pattern assembler                                                             |  d90c4ccc6cbd3bd23106be59c91c947a73eef815                                         | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(query): added product and menu query service                                                             |   4c2dbde76ef3a1aa16d9940ecb3066aa7b122c1b                                        | 3/11/2024               |
+| GastroGo-Backend   |develop            |   feat(command): added product and menu command service                                                             |   405ecdb09219c292793e9496986b8f087360ddbe                                        | 3/11/2024               |
+| GastroGo-Backend   |develop            |    feat(application): added product and menu servicies implements                                                         |    b88ef27a79937f029323ad4e6ed80ee772278911                                       | 3/11/2024               |
+| GastroGo-Backend   |develop            |    feat(controller): added menu controller                                                         |    42c8379c5d8d49b88fd5a5048d8fa36873e6919c                                       | 3/11/2024               |
+
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review 3
 En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
 
 | **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                         | **Committed on (Date)** |
@@ -2337,66 +2402,172 @@ En este sprint, se ha completado el desarrollo de la landing page. Para su despl
 |acceptnace-test| develop    | 9520021ae13032e410798dd06dbde7252b5d8d0f   | chore: added epic 9 acceptance test                                                                       | 12/09/2024               |
 |acceptnace-test| develop    | 568eb409dc3fbf273ab11fcbf42f88b7ae9662ca   | chore: added epic 10 acceptance test                                                                       | 12/09/2024               |
 
-
-
-#### 5.2.2.5. Execution Evidence for Sprint Review 2
+#### 5.2.2.5. Execution Evidence for Sprint Review 3
 
 En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
 
-Enlace del Frontend:
+Enlace del Backend: 
 
-![Evidence 1 Front](assets/img/chapter-5/img-evidence-front-1.png)
-
-![Evidence 2 Front](assets/img/chapter-5/img-evidence-front-2.png)
-
-![Evidence 3 Front](assets/img/chapter-5/img-evidence-front-3.png)
-
-![Evidence 4 Front](assets/img/chapter-5/img-evidence-front-4.png)
-
-![Evidence 5 Front](assets/img/chapter-5/img-evidence-front-5.png)
-
-![Evidence 6 Front](assets/img/chapter-5/img-evidence-front-6.png)
-
-![Evidence 7 Front](assets/img/chapter-5/img-evidence-front-7.png)
-
-![Evidence 8 Front](assets/img/chapter-5/img-evidence-front-8.png)
-
-![Evidence 9 Front](assets/img/chapter-5/img-evidence-front-9.png)
+![Evidence 1 Back](assets/img/chapter-5/img-evidence-back-1.jpg)
 
 
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review 2
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review 3
+
 Para el desarrollo de la plataforma, específicamente en la parte del Frontend, utilizamos lo siguiente:
 
 Webstorm (IDE de desarrollo): Usamos Webstorm como nuestro entorno de desarrollo integrado para trabajar en el Frontend.
+
+IntelliJ IDEA (IDE de desarrollo): Usamos IntelliJ IDEA como nuestro entorno de desarrollo integrado para trabajar en el Backend.
+
+Java (Lenguaje de programación): Optamos por Java como el lenguaje principal para el desarrollo del Backend.
 
 Angular (Framework): Optamos por Angular como el framework principal para el desarrollo.
 
 GitHub: Nuestro repositorio del Frontend está alojado en GitHub, lo que facilita la colaboración y el seguimiento de los cambios en el código.
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review 2
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review 3
+
 El Execution Evidence para la revisión del sprint está orientado a documentar y presentar evidencia sobre el desarrollo logrado a lo largo del sprint, prestando especial atención al progreso en la landing page. Estas pruebas son esenciales para demostrar cómo se han cumplido los objetivos establecidos y qué partes del trabajo están terminadas, asegurando que se corresponden con las expectativas del cliente.
 
 - Git: Utilizado como sistema de control de versiones, facilitó la colaboración efectiva entre los miembros del equipo durante el proceso de desarrollo.
+
 - GitFlow: Implementado como metodología de trabajo, permitió organizar y gestionar de manera eficiente los aportes de cada integrante, garantizando un flujo continuo en el progreso del proyecto.
+
 - GitHub: Plataforma esencial para el trabajo colaborativo, donde se gestionaron y almacenaron todas las versiones del proyecto, asegurando un control adecuado de los cambios.
 
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint 2 
+#### 5.2.1.8. Team Collaboration Insights during Sprint 3
 
 El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
 
 Network graph:
 
-![Network Graph Front ](assets/img/chapter-5/img-network-front-github.png)
-
-
+![Network Graph Back ](assets/img/chapter-5/img-network-back-github.png)
 
 Code frecuency:
 
-![Code Frecuency Front](assets/img/chapter-5/img-code-front-frecuency.png)
+![Code Frecuency Back](assets/img/chapter-5/img-code-back-frecuency.png)
 
+### 5.3. Validation Interviews
 
+Luego de avanzar en el desarrollo de la landing page, la aplicación front-end y la API RESTful del producto GastroGo, realizamos entrevistas de validación para brindar a nuestros usuarios objetivo una primera impresión del software.
+
+#### 5.3.1 Registro de entrevistas
+
+En esta sección se registrarán las entrevistas de validación realizadas a ambos segmentos objetivos. Se adjunta el link del video completo:
+
+Segmento de trabajadores:
+
+Entrevista #01:Jonathan Berrocal (22 años - Villa Maria del Triunfo ) - 30 de octubre de 2024
+
+![Validation 1](assets/img/chapter-5/img-validation-1.png)
+
+[GastroGo - Validation Interviews 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESMTn0rRecROnN-rvLAZpq4Bzrv_zlz8GJ00XffEK1v5Ug?e=uQPRoS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) (Comienzo 0:00 - Fin 08:50)
+
+Jonathan Berrocal, como trabajador del segmento objetivo, comentó que la pantalla de inicio de sesión le pareció agradable en general, pero observó que los botones eran un poco grandes y que el diseño podría beneficiarse de más elementos visuales, como imágenes en la sección de slide. También recomendó ajustar el tamaño de los cuadros de texto en la pantalla de pago, ya que algunos se veían demasiado largos, y centrar ciertos elementos de la interfaz que estaban desalineados.
+
+Entrevista #02: Daniel Vazquez (25 años - San Juan de Lurigancho) - 30 de octubre de 2024
+
+![Validation 2](assets/img/chapter-5/img-validation-2.png)
+
+[GastroGo - Validation Interviews 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESMTn0rRecROnN-rvLAZpq4Bzrv_zlz8GJ00XffEK1v5Ug?e=lw5R99&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTMxLjUxfX0%3D)(Comienzo 08:50 - Fin 16:48)
+
+Daniel Vázquez encontró que la interfaz de usuario de la aplicación era amigable y atractiva en términos de diseño. Al completar su información personal en la pantalla de registro, comentó que la disposición visual era adecuada y funcional. No tuvo observaciones importantes sobre esta parte, destacando que el proceso era claro y sencillo.
+
+Entrevista #03: Raul Sulca Ynoñan (29 años - Comas) - 30 de octubre de 2024
+
+![Validation 3](assets/img/chapter-5/img-validation-3.png)
+
+[GastroGo - Validation Interviews 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESMTn0rRecROnN-rvLAZpq4Bzrv_zlz8GJ00XffEK1v5Ug?e=IYQyJA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTAwOS4wN319)(Comienzo 16:48 - Fin 28:40)
+
+El tercer entrevistado, como trabajador del segmento objetivo, no planteó críticas directas, pero mencionó algunas áreas de mejora. Comentó que la funcionalidad de votación en grupo, aunque útil, podría beneficiarse de una interfaz más visualmente atractiva y clara, para hacerla más fácil de usar. También sugirió que la calificación de los restaurantes podría ser más detallada, permitiendo evaluar aspectos específicos como la comida, el servicio y la entrega, lo cual ayudaría a mejorar la precisión de las evaluaciones.
+
+Segmento de trabajadores:
+
+Entrevista #04: Luis Miguel Rojas Piñero (20 años - Miraflores) - 30 de octubre de 2024
+
+![Validation 4](assets/img/chapter-5/img-validation-4.png)
+
+[GastroGo - Validation Interviews 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESMTn0rRecROnN-rvLAZpq4Bzrv_zlz8GJ00XffEK1v5Ug?e=llnY4x&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTcyMi4xMn19) (Comienzo 28:41 - Fin 36:41)
+
+Luis Miguel resaltó que la página principal de GastroGo le parece visualmente atractiva y bien organizada. Sin embargo, sugirió que las imágenes de comida podrían confundir al usuario sobre el propósito de la aplicación, haciéndola parecer una app de recetas en lugar de una herramienta para restaurantes. Además, considera positiva la función de órdenes recientes, ya que permite consultar pedidos anteriores, lo cual ayudaría a evitar problemas comunes de confusión en la cocina. También valoró la organización del menú según días y horarios, destacando que facilitaría la atención al cliente al evitar malentendidos en horarios de ofertas.
+
+Entrevista #05: Jose Rolando Unzueta Luza( 24 años - Santiago de Surco ) - 30 de octubre de 2024
+
+![Validation 5](assets/img/chapter-5/img-validation-5.png)
+
+[GastroGo - Validation Interviews 5](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESMTn0rRecROnN-rvLAZpq4Bzrv_zlz8GJ00XffEK1v5Ug?e=3oRs1P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjIwMi40fX0%3D) (Comienzo 36:41 - Fin 40:22)
+
+José observó que los botones en GastroGo deberían destacarse más visualmente, ya que algunos no son claramente distinguibles como tales debido a su color o falta de bordes. También mencionó que le gustaría ver una barra lateral más visible y un mejor espaciado entre los elementos para mejorar la legibilidad. En cuanto a la sección de perfil y métodos de pago, propuso que los botones y textos sean más claros y visibles. En general, José expresó que algunos problemas de espaciado y de botones podrían deberse a la resolución de su pantalla.
+
+Entrevista #06: Celso Mauricio Tamariz Salvador( 20 años Chorrillos) - 30 de octubre de 2024
+
+![Validation 6](assets/img/chapter-5/img-validation-6.png)
+
+[GastroGo - Validation Interviews 6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESMTn0rRecROnN-rvLAZpq4Bo-Q-pLNuoj8KDkdgWtGXKg?e=cMn87f&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjQyNC40OX19) (Comienzo 40:23 - Fin 44:10)
+
+Celso destacó como positivo el apartado de actividades en grupo, ya que asignar un único responsable para hacer el pedido ayuda a mantener el orden. Valoró también la opción de actualizar el estado del menú en tiempo real. Sugirió mejorar la comunicación entre GastroGo y los restaurantes, especialmente en casos donde las órdenes puedan ser modificadas por demanda presencial. Finalmente, reconoció la organización y seguridad de la aplicación al permitir verificar el estado de los pedidos y recibir notificaciones.
+
+#### 5.3.2 Evaluaciones según heurísticas
+
+En base a la información recolectada a partir de las entrevistas realizadas y nuestras experiencias personales, analizamos las heurísticas de diseño de nuestra aplicación GastroGo:
+
+1. **Visibilidad del estado del sistema:**
+
+El sistema proporciona una visibilidad adecuada del estado, especialmente en la pantalla de inicio de sesión, como destacó Jonathan Berrocal. Sin embargo, algunos elementos, como los botones de perfil y métodos de pago, necesitan mayor claridad visual, según José, ya que algunos botones no son fácilmente distinguibles debido a su color o bordes.
+
+2. **Relación entre el sistema y el mundo real:**
+
+El uso de imágenes de comida en la página principal fue un punto de confusión señalado por Luis Miguel, quien mencionó que podrían hacer que la app se perciba como una aplicación de recetas en lugar de una herramienta para pedidos en restaurantes. Este es un área que requiere ajustes para alinearse mejor con el propósito del sistema.
+
+3. **Libertad y control por parte del usuario:**
+
+Los usuarios como Celso valoraron la opción de actualizar el estado del menú en tiempo real y la flexibilidad que otorga la funcionalidad de actividades en grupo. Sin embargo, la interfaz para la votación en grupo fue señalada por otro entrevistado como una área que podría beneficiarse de ser más visualmente atractiva y clara.
+
+4. **Consistencia y estándares:**
+
+La organización de la información fue percibida como adecuada, especialmente en la pantalla de registro, como señaló Daniel Vázquez. Los usuarios no encontraron dificultades al entender las opciones disponibles en general, pero el espaciado entre elementos y la visibilidad de algunos botones, como mencionó José, podría mejorar.
+
+5. **Prevención de errores:**
+
+Celso destacó que la seguridad y la organización del sistema para verificar el estado de los pedidos y recibir notificaciones ayudan a reducir la posibilidad de errores en el proceso de pedidos. Sin embargo, la confusión generada por las imágenes de comida mencionada por Luis Miguel podría llevar a un malentendido si no se ajusta.
+
+6. **Reconocimiento antes que recuerdo:**
+
+Si bien la mayoría de las funciones fueron bien recibidas por los usuarios, Jonathan Berrocal sugirió que el diseño de la pantalla de inicio podría beneficiarse de más elementos visuales como imágenes en la sección de slides, lo que mejoraría el reconocimiento inmediato de los propósitos de la aplicación.
+
+7. **Flexibilidad y eficiencia de uso:**
+
+La aplicación fue valorada positivamente por usuarios como Celso y Daniel Vázquez por su funcionalidad clara y directa. Sin embargo, José mencionó que algunos problemas de visualización, como el espaciado y la visibilidad de los botones, podrían deberse a la resolución de su pantalla, lo que sugiere una mejora en la flexibilidad visual.
+
+8. **Estética y diseño minimalista:**
+
+El diseño visual fue bien recibido en general. Luis Miguel destacó que la página principal está bien organizada, pero recomendó ajustes en las imágenes para evitar confusiones. Asimismo, Jonathan Berrocal sugirió que el diseño se beneficiaría de más elementos visuales, y José propuso mejorar el espaciado y los botones para una apariencia más limpia.
+
+9. **Ayudar a los usuarios a reconocer, diagnosticar y corregir errores:**
+
+El sistema presenta un buen control sobre la gestión de pedidos y actualizaciones en tiempo real, como resaltó Celso. Sin embargo, la falta de claridad visual en ciertos botones podría hacer que los usuarios no detecten rápidamente errores o acciones pendientes, como observó José.
+
+10. **Ayuda y documentación:**
+
+Aunque no hubo observaciones directas sobre la documentación durante las entrevistas, la claridad de la interfaz y las opciones fue generalmente bien recibida. No obstante, la implementación de ayudas visuales en ciertos componentes podría mejorar la experiencia general de los usuarios.
+
+### 5.4. Video About the Product
+
+Esta sección contiene el video about the product, que presenta a los usuarios potenciales las principales funcionalidades de la aplicación GastroGo.
+
+A continuación, se proporciona el enlace al video about the product:
+
+- Microsoft Stream: [GastroGo - About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EfEu4sk86fpMuO--MX591l4BRJjszGEIwyF2Pq-OHH_jhw?e=eem7CR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+- Youtube : [GastroGo - About the Product](https://youtu.be/LWEZqjZMLME)
+
+Duracion del video: 1:25 minutos
+
+Screenshot del video:
+
+![Evidencia About the Product ](assets/img/chapter-5/img-about-the-product.png)
 
 # Conclusiones
 
@@ -2407,7 +2578,21 @@ El progreso del proyecto ha logrado alcanzar los objetivos establecidos al inici
 Uno de los aprendizajes más importantes ha sido el valor de la comunicación y la colaboración entre los miembros del equipo. Además, las herramientas de colaboración, como GitHub y Figma, desempeñaron un papel esencial en la coordinación del trabajo, facilitando una gestión eficaz del código y una visualización clara del diseño de la landing page. Aprendimos que el uso adecuado de estas herramientas mejora la organización, planificación y eficiencia del trabajo en equipo.
 
 ### Video About-the-Team
-  
+
+Esta sección contiene el video about the team, que presenta a los desarrolladores de la aplicación GastroGo y sus contribuciones en el proyecto.
+
+A continuación, se proporciona el enlace al video about the team:
+
+- Microsoft Stream: [GastroGo - About the Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/Eckb1cIce8hEnHciHpWfbmcBuuWIRZbg1wseCK70IK-Kpg?e=2EFem3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+
+- Youtube : [GastroGo - About the Team](https://youtu.be/MZ_tn18gABE)
+
+Duracion del video: 01:53
+
+Screenshot del video:
+
+![Evidencia About the team ](assets/img/chapter-5/img-about-the-team.png)
+
 ---  
 # Bibliografía
 
@@ -2423,19 +2608,37 @@ Uno de los aprendizajes más importantes ha sido el valor de la comunicación y 
 
 ---  
 # Anexos
--  [**Organización de Github**]( https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas)
--  [**Report Repository**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Report)
-- [**Acceptance Test**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/acceptance-test)
--  [**Landing Page**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Landing-Page)
-- [**Front End**](https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-FrontEnd)
+
+-  [**Organización de Github**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas)
+
+-  [**Report Repository**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Report)
+
+- [**Acceptance Test**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/acceptance-test)
+
+-  [**Landing Page**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Landing-Page)
+
+-  [**Landing Page Deploy**] (https://upc-pre-si729-2402-wx51-g1-verduritas.github.io/GastroGo-Landing-Page/)
+
+- [**Front End**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-FrontEnd)
+
+- [**Front End Deploy**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-FrontEnd)
+
+- [**Back End**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-FrontEnd)
 
 - Videos de Exposiciones:
-- TB1: [upc-pre-202401-si729-wx51-verduritas-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EXxL52cQz7tMgtQ3JJSryDYBB4yl3rAXfIEsLBUWp-Icwg?e=cegRN9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- TP: [upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4](https://upcedupe-my.sharepoint.com/personal/u201714765_upc_edu_pe/_layouts/15/stream.aspx?id=/personal/u201714765_upc_edu_pe/Documents/upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4
-)
+- TB1: [upc-pre-202401-si729-wx51-verduritas-expo-tb1.mp4] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EXxL52cQz7tMgtQ3JJSryDYBB4yl3rAXfIEsLBUWp-Icwg?e=cegRN9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+- TP: [upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4] (https://upcedupe-my.sharepoint.com/personal/u201714765_upc_edu_pe/_layouts/15/stream.aspx?id=/personal/u201714765_upc_edu_pe/Documents/upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4)
 
-https://upcedupe-my.sharepoint.com/personal/u201714765_upc_edu_pe/_layouts/15/stream.aspx?id=/personal/u201714765_upc_edu_pe/Documents/upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4
-- [**Web Applications Prototyping**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EYhnox1X-wdBqr_LFFwrxS4BJPj_L2JvTeW_dxuLVBFfrA?e=vQ35aZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )
-- Needfinding: [**upc-pre-202402-si729-wx51-verduritas-needfinding-sprint-1.mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EZ80d-4uHTVKuQRdGAb47hMBjv6m3FXksZM6ieafoOaeLA?e=QO9QOa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- TB2: [upc-pre-202402-si729-wx51-verduritas-validation-sprint-3.mp4] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESMTn0rRecROnN-rvLAZpq4Bzrv_zlz8GJ00XffEK1v5Ug?e=PbUWt8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+
+- [**Web Applications Prototyping**] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EYhnox1X-wdBqr_LFFwrxS4BJPj_L2JvTeW_dxuLVBFfrA?e=vQ35aZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )
+
+- Needfinding: [**upc-pre-202402-si729-wx51-verduritas-needfinding-sprint-1.mp4**] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EZ80d-4uHTVKuQRdGAb47hMBjv6m3FXksZM6ieafoOaeLA?e=QO9QOa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+- [GastroGo - About the Product] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EfEu4sk86fpMuO--MX591l4BRJjszGEIwyF2Pq-OHH_jhw?e=1DMar1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+
+- [GastroGo - About the Team] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/Eckb1cIce8hEnHciHpWfbmcBuuWIRZbg1wseCK70IK-Kpg?e=gTZFsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+
+- [GastroGo - Validation Interviews] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESMTn0rRecROnN-rvLAZpq4Bzrv_zlz8GJ00XffEK1v5Ug?e=7zygSK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) 

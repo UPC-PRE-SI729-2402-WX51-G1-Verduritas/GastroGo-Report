@@ -2449,6 +2449,154 @@ Code frecuency:
 
 ![Code Frecuency Back](assets/img/chapter-5/img-code-back-frecuency.png)
 
+
+### 5.2.2. Sprint 4
+
+![Sprint Verduritas 4](assets/img/chapter-5/img-sprint-devdynasty-4.png)
+
+
+#### 5.2.2.1. Sprint Planning 4
+
+| **Sprint #**                     | Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Date**         | 25/10/2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Time**                         | 19:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Location**                     | Google Meet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Prepared By**                  | Ricardo Barrutia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Attendees**                    | Joaquin Pedraza, Edery Abanto, Fabiola Espinoza,                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Sprint Review Summary**        | Durante este sprint, se desarrollaron e implementaron los endpoints para la gestión del menú y la creación de órdenes, asegurando su despliegue en un entorno de pruebas en Azure. Además, se logró la integración con el frontend, permitiendo la visualización y gestión de estos datos desde la interfaz de usuario. Los endpoints quedaron documentados, funcionales y accesibles, cumpliendo con los objetivos del sprint.                                                                                                               |
+| **Sprint Retrospective Summary** | El sprint fue exitoso en cuanto al desarrollo de los endpoints de menú y órdenes, cumpliendo con los objetivos planificados, aunque no se logró el despliegue en el entorno de pruebas. Se identificaron áreas de mejora en la claridad de requisitos y en la implementación de pruebas.                                                                                                                                                                                                                                                      |
+| **Sprint Goal**                  | En este sprint, el objetivo es desarrollar e implementar los endpoints para la gestión del menú y creación de órdenes en el backend de la aplicación web, asegurando su despliegue en un entorno de pruebas en Azure. Además, se debe integrar estos endpoints con el frontend para permitir la visualización del menú y la creación de órdenes desde la interfaz de usuario. Al finalizar el sprint, los endpoints deben estar funcionales, documentados, accesibles desde el entorno de pruebas y completamente integrados con el frontend. |
+| **Sprint Velocity**              | 35                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Sum of Story Points**          | 35                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+#### 5.2.2.2. Sprint Backlog 4
+
+| **User Story**                                            | **Work-item/Task**                                           | **Description**                                                                                                                                                                           | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-----------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------|------------|
+|    E2 - US012: Cierre de sesión                     |E2 - US012 - W1 Frontend Logout UI  |  Diseñar y desarrollar la interfaz de usuario para el cierre de sesión.                                                                          | 4                      | Ricardo         | Pending    |
+|    E2 - US012: Cierre de sesión                     |E2 - US012 - W2 Backend Logout Logic  |  Implementar la lógica de cierre de sesión en el backend y manejar la expiración de tokens.                                                                          | 4                      | Ricardo         | Pending    |
+|    E2 - US016: Recordatorios de entrega                     |E2 - US016 - W1 Notification Logic  |  Desarrollar la lógica para enviar recordatorios de entrega a cada miembro del grupo.                                                                          | 5                      | Edery         | Done       |
+|    E2 - US016: Recordatorios de entrega                     |E2 - US016 - W2 Notification UI  |  Crear la interfaz de usuario para mostrar las notificaciones de recordatorio.                                                                         | 4                      | Ricardo         | Done       |
+|   E3 - US021: Selección de platos                     |E3 - US021 - W1 Menu UI Design  |  Diseñar la interfaz de selección de platos del menú para pedidos grupales.                                                                         | 4                      | Fabiola           | Done       |
+|   E3 - US021: Selección de platos                     |E3 - US021 - W2 Menu Backend Logic  |  Implementar la lógica en el backend para almacenar y gestionar la selección de platos.                                                                         | 4                      | Fabiola           | Done       |
+|   E3 - US021: Selección de platos                     |E3 - US021 - W3 Menu Data Integration  |  Integrar la selección de platos con los datos del restaurante y sus menús.                                                                         | 5                      | Fabiola           | Done       |
+|   E4 - US022: Selección personalizada                     |E4 - US022 - W1 Custom Plate UI  |  Crear la interfaz para que el líder del grupo seleccione y personalice un plato del menú.                                                                         | 5                      | Edery          | Done       |
+|   E4 - US022: Selección personalizada                     |E4 - US022 - W2 Custom Plate Backend  |  Implementar la lógica en el backend para almacenar las personalizaciones de platos.                                                                         | 5                      | Edery          | Done       |
+|   E6 - US030: Notificaciones de pago pendiente                    |E6 - US030 - W1 Payment Reminder Logic  |  Desarrollar la lógica para enviar notificaciones de recordatorio de pagos pendientes.                                                                        | 5                      | Ricardo       | Done       |
+|   E6 - US030: Notificaciones de pago pendiente                    |E6 - US030 - W2 Payment Reminder UI  |  Crear la interfaz para mostrar recordatorios de pago a los usuarios.                                                                        | 5                      | Ricardo       | Done       |
+|  E7 - US034: Notificaciones de recomendaciones                        | E7 - US034 - W1 Rec Notification Logic            | Implementar la lógica para generar recomendaciones basadas en pedidos anteriores.                                                                                                                                       | 4                      | Edery          | Done       |
+|  E7 - US034: Notificaciones de recomendaciones                        | E7 - US034 - W2 Rec Notification UI           | Crear la interfaz de usuario para notificar nuevas recomendaciones.                                                                                                                                       | 4                      | Ricardo          | Done       |
+| E9 - US042: Renovación de Plan de Suscripción             | E9 - US041 - W2  Subscription Renewal Renewal Process        | Crear la interfaz y la lógica para facilitar la renovación de suscripciones.                                                                                                              | 4                      | Ricardo         | Done       |
+| E9 - US043: Cancelación de Plan de Suscripción            | E9 - US043 - W1 Cancellation Option                          | Implementar la interfaz para cancelar el plan de suscripción.                                                                                                                             | 5                      | Ricardo         | Done       |
+| E9 - US043: Cancelación de Plan de Suscripción            | E9 - US043 - W2 Subscription Cancellation Confirmation       | Implementar la lógica para confirmar la cancelación y enviar notificaciones.                                                                                                              | 6                      | Ricardo         | Done       |
+| E10 - US047: Endpoint para Creación y Consulta de Pedidos | E9 - US047 - W1 Endpoint Creation                            | Implementar el endpoint para la creación de pedidos grupales.                                                                                                                             | 8                      | Joaquin          | Done       |
+| E10 - US047: Endpoint para Creación y Consulta de Pedidos | E9 - US047 - W2  Endpoint Consultation                       | Implementar el endpoint para consultar los pedidos grupales.                                                                                                                              | 8                      | Joaquin          | Done       |
+| E10 - US048: Endpoint para Actualización y Eliminación    | E9 - US048 - W1 Endpoint Update                              | Implementar el endpoint para actualizar pedidos grupales.                                                                                                                                 | 8                      | Fabiola         | Done       |
+| E10 - US048: Endpoint para Actualización y Eliminación    | E9 - US048 - W2  Endpoint Deletion                           | Implementar el endpoint para eliminar pedidos grupales.                                                                                                                                   | 8                      | Fabiola         | Done       |
+| E10 - US049: Endpoint para Recomendaciones                | E9 - US049 - W1 Endpoint Recommendations Generation          | Implementar el endpoint que genera recomendaciones personalizadas.	                                                                                                                       | 8                      | Joaquin           | Done       |
+| E10 - US049: Endpoint para Recomendaciones                | E9 - US049 - W1 Endpoint Recommendations Preference Handling | Implementar la lógica para manejar las preferencias del usuario y ajustar las recomendaciones.                                                                                            | 8                      | Ricardo           | Done       |
+
+#### 5.2.2.3. Development Evidence for Sprint Review 4
+
+| **Repository**   | **Branch**                           | **Commit Message**                                                                                                                | **Committed on (Date)** |
+|------------------|------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| GastroGo-Backend | develop      | chore: changed the bounded context name from worker to booking and fixed the directory.                                                                                                                   | 13/11/2024              |
+| GastroGo-Backend | develop      | fix: update dependencies                                                                                                            | 13/11/2024              |
+| GastroGo-Backend | develop      |  fix: update versions of the dependencies for build of the project                                                                                                          | 13/11/2024              |
+| GastroGo-Backend | develop      |   fix(booking): fixed the namespace and directories of orders and team activities.                                                                                                         | 16/11/2024              |
+| GastroGo-Backend | develop      | feat(booking): added roles enum to define roles of member and leader.                                                                                                           | 13/11/2024              |
+| GastroGo-Backend | develop      | feat(booking): added role class to manage the role assigment.                                                                                                           | 13/11/2024              |
+| GastroGo-Backend | develop      |  feat(booking): added commands for TeamActivities.                                                                                                          | 13/11/2024              |
+| GastroGo-Backend | develop      |  feat(booking): created queries for TeamActivity.                                                                                                          | 13/11/2024              |
+| GastroGo-Backend | develop      |  feat(booking): added new command service to team activity.                                                                                                          | 13/11/2024              |
+| GastroGo-Backend | develop      |  feat(booking): added new methods for the repository and new commands and queries.                                                                                                          | 13/11/2024              |
+| GastroGo-Backend | develop  | feat(booking): added team activity repository.                                                                                                           | 13/11/2024              |
+| GastroGo-Backend | develop |  feat(booking): added assemblers.                                                                                                          | 13/11/2024              |
+| GastroGo-Backend | develop   |   feat(booking): created team activity controller.                                                                                                         | 13/11/2024              |
+| GastroGo-Backend | develop    | chore: changed app settings                                                                                                           | 13/11/2024              |
+| GastroGo-Backend | develop | feat(booking): added fk of team activity to Role.                                                                                                           | 13/11/2024              |
+| GastroGo-Backend | develop | feat(booking): add Order Details to the bounded context                                                                                                           | 13/11/2024              |
+| GastroGo-Backend | develop | Add or update the Azure App Service build and deployment workflow config                                                                                                           | 13/11/2024              |
+| GastroGo-Backend | develop |   feat(AppDbContext): add Order Details configuration                                                                                                         | 13/11/2024              |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review 4
+
+En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
+
+| **Repository**  | **Branch** | **Commit Id**                            | **Commit Message**                     | **Committed on (Date)** |
+|-----------------|------------|------------------------------------------|----------------------------------------|-------------------------|
+| acceptance-test | develop    | 55eb1646d73316ec2929ffafa95af8dfcef3adc5 | Initial commit                         | 12/09/2024              |
+| acceptnace-test | develop    | 9a399e19e898f0dd693654c70be3bd1fe67ea40e | feat(readme): added description readme | 12/09/2024              |
+| acceptnace-test | develop    | 4b738eb74073aacbdcf2d3a37eabdaf21040c5a5 | chore: added epic 1 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 06c167e00c191b77c03da4aa7cb13fab0d86c9d7 | chore: added epic 2 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 62b806ee10782f3b6e3125964aaefd0ff552652c | chore: added epic 3 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 3ca6c4208a62a6b5ffa6d6dffe8d4f088918af5d | chore: added epic 4 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 2e7a6166e776f0d2f6d97368d384457e7bde7ca7 | chore: added epic 5 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 5846374f45b976d826580c0855565212811be5e8 | chore: added epic 6 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | b41662bc5609e8d7bb84b24b99910ab621001c09 | chore: added epic 7 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 64d26478f1b9e23cf51c31a56dbd17e63c4ad283 | chore: added epic 8 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 9520021ae13032e410798dd06dbde7252b5d8d0f | chore: added epic 9 acceptance test    | 12/09/2024              |
+| acceptnace-test | develop    | 568eb409dc3fbf273ab11fcbf42f88b7ae9662ca | chore: added epic 10 acceptance test   | 12/09/2024              |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review 4
+
+En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que
+ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos
+diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y
+un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los
+visitantes.
+
+Enlace del Backend:
+
+![Evidence 1 Back TF](assets/img/chapter-5/img-evidence-back-1-tf.jpg)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review 4
+
+Para el desarrollo de la plataforma, específicamente en la parte del Frontend, utilizamos lo siguiente:
+
+Webstorm (IDE de desarrollo): Usamos Webstorm como nuestro entorno de desarrollo integrado para trabajar en el Frontend.
+
+IntelliJ IDEA: Usamos IntelliJ IDEA como nuestro entorno de desarrollo integrado para
+trabajar en el Backend.
+
+Java (Lenguaje de programación): Optamos por C# como el lenguaje de programación principal para el desarrollo del Backend.
+
+Angular (Framework): Optamos por Angular como el framework principal para el desarrollo del Frontend.
+
+GitHub: Nuestro repositorio del Frontend está alojado en GitHub, lo que facilita la colaboración y el seguimiento de los
+cambios en el código.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review 4
+
+El Execution Evidence para la revisión del sprint está orientado a documentar y presentar evidencia sobre el desarrollo
+logrado a lo largo del sprint, prestando especial atención al progreso en la landing page. Estas pruebas son esenciales
+para demostrar cómo se han cumplido los objetivos establecidos y qué partes del trabajo están terminadas, asegurando que
+se corresponden con las expectativas del cliente.
+
+- Git: Utilizado como sistema de control de versiones, facilitó la colaboración efectiva entre los miembros del equipo
+  durante el proceso de desarrollo.
+- GitFlow: Implementado como metodología de trabajo, permitió organizar y gestionar de manera eficiente los aportes de
+  cada integrante, garantizando un flujo continuo en el progreso del proyecto.
+- GitHub: Plataforma esencial para el trabajo colaborativo, donde se gestionaron y almacenaron todas las versiones del
+  proyecto, asegurando un control adecuado de los cambios.
+- Azure: Utilizado para el despliegue del backend, permitió alojar la aplicación en un entorno de pruebas para
+  verificar su funcionamiento y realizar ajustes necesarios antes de la entrega final.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint 4
+
+El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y code frecuency mediante la plataforma GitHub:
+
+Network graph:
+
+![Network Graph Back TF](assets/img/chapter-5/img-network-back-github-tf.png)
+
+Code frecuency:
+
+![Code Frecuency Back TF](assets/img/chapter-5/img-code-back-frecuency-tf.png)
+
+
+
 ### 5.3. Validation Interviews
 
 Luego de avanzar en el desarrollo de la landing page, la aplicación front-end y la API RESTful del producto GastroGo, realizamos entrevistas de validación para brindar a nuestros usuarios objetivo una primera impresión del software.

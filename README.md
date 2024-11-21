@@ -48,6 +48,7 @@ Producto: GastroGo
 | 1.0     | 25/08/2024 | Abanto Vicente, Edery Renzo  <br>	Barrutia Vaez, Ricardo Andree	<br> Cuevas Vera, Jose Angel	<br> Espinoza Inoñan, Fabiola Ximena	<br> Pedraza Maldonado, Joaquin Andree | Capítulo I <br> Capítulo II <br> Capítulo III <br> Capítulo IV <br> Capítulo V                                 |
 | 2.0     | 27/09/2024 | Abanto Vicente, Edery Renzo  <br>	Barrutia Vaez, Ricardo Andree	<br> Cuevas Vera, Jose Angel	<br> Espinoza Inoñan, Fabiola Ximena	<br> Pedraza Maldonado, Joaquin Andree | Mejora continua del primer sprint , desarrollo del Sprint 2 y primer avance del FrontEnd de la Aplicación Web. |
 | 3.0     | 3/11/2024  | Abanto Vicente, Edery Renzo  <br>	Barrutia Vaez, Ricardo Andree	<br> Cuevas Vera, Jose Angel	<br> Espinoza Inoñan, Fabiola Ximena	<br> Pedraza Maldonado, Joaquin Andree | Mejora continua del segundo sprint , desarrollo del Sprint 3 y primer avance del Backend de la Aplicación Web. |
+| 4.0     | 20/11/2024 | Abanto Vicente, Edery Renzo  <br>	Barrutia Vaez, Ricardo Andree	<br> Cuevas Vera, Jose Angel	<br> Espinoza Inoñan, Fabiola Ximena	<br> Pedraza Maldonado, Joaquin Andree  | Despliegue del Backend de la Aplicación Web, estableciendo la conexión con el Frontend para asegurar la comunicación entre ambos sistemas, y finalizar las ultimas user story del sprint. |
 
 
 <br><br>
@@ -154,42 +155,54 @@ TB2:
 
 Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los puntos a elaborar para la entrega actual, correspondientes a los Capítulos I hasta el Capítulo V: Sprint 1. Quedando de la siguiente manera:
 
-**Imágen de las Contribuciones del equipo:**
+**Imágen de las Contribuciones del equipo TB2:**
 
 ![Contribuciones del equipo TB2](assets/img/develop/img-contributors-team-tb2.png)
 
-**Imágen de las Contribuciones Edery TP:**
+**Imágen de las Contribuciones Edery TB2:**
 
 ![Contribuciones Edery TB2](assets/img/develop/img-contributors-edery-tb2.png)
 
-**Imágen de los Commits Edery TP:**
+**Imágen de los Commits Edery TB2:**
 
 ![Commits Edery TB2](assets/img/develop/img-commits-edery-tb2.png)
 
-**Imágen de las Contribuciones Ricardo TP:**
+**Imágen de las Contribuciones Ricardo TB2:**
 
 ![Contribuciones Ricardo TB2](assets/img/develop/img-contributors-ricardo-tb2.png)
 
-**Imágen de los Commits Ricardo TP:**
+**Imágen de los Commits Ricardo TB2:**
 
 ![Commits Ricardo TB2](assets/img/develop/img-commits-ricardo-tb2.png)
 
 
-**Imágen de las Contribuciones Fabiola TP:**
+**Imágen de las Contribuciones Fabiola TB2:**
 
 ![Contribuciones Fabiola TB2](assets/img/develop/img-contributors-fabiola-tb2.png)
 
-**Imágen de los Commits Fabiola TP:**
+**Imágen de los Commits Fabiola TB2:**
 
 ![Commits Fabiola TB2](assets/img/develop/img-commits-fabiola-tb2.png)
 
-**Imágen de las Contribuciones Joaquin TP:**
+**Imágen de las Contribuciones Joaquin TB2:**
 
 ![Contribuciones Joaquin TB2](assets/img/develop/img-contributors-joaquin-tb2.png)
 
-**Imágen de los Commits Joaquin TP:**
+**Imágen de los Commits Joaquin TB2:**
 
 ![Commits Joaquin TB2](assets/img/develop/img-commits-joaquin-tb2.png)
+
+TF:
+
+Durante la realizacion del informe, se realizaron reuniones y se asignaron los temas a desarrollar para la entrega
+correspondiente a los Capítulos I al V del Sprint 1, estos los insights de la organizacion de Github.
+
+Contribuciones del equipo
+
+![Contribuciones del equipo TF](assets/img/develop/img-contributors-team-tf.png)
+
+
+
 
 ---  
 # Student Outcome
@@ -2314,7 +2327,7 @@ Code frecuency:
 | **Attendees**                   | Ricardo Barrutia, Edery Abanto, Fabiola Espinoza, Joaquin Pedraza                                                                                                                                                                                                                                                                                                                     |
 | **Sprint Review Summary**       | Se desplego el front end de GastroGo y se empezo a desarrollar el backend.                                                                                                                                                                                                                                                                                                            |
 | **Sprint Retrospective Summary**| Se finalizo el desarrolllo del front end con la mejora continua respectiva para la landing page y front end. Asimismo se debe                                                                                                                                                                                                                                                         |
-| **Sprint Goal**                 | En este sprint, el objetivo es desarrollar la lógica y funcionalidades principales del backend de la aplicación web, además de su despliegue. Durante las diversas reuniones del equipo, se asignaron tareas específicas a cada integrante para implementar los servicios del backend. Al finalizar el sprint, la aplicación debe estar desplegada en un entorno de pruebas adecuado. |
+| **Sprint Goal**                 | En este sprint se tiene como objetivo el desarrollo de la paginas principales de la aplicacion web y el despliegue de la misma. Durante las diversas reuniones del equipo se determinó el contenido por cada integrante para el front end. Una vez concluido el sprint, la Web Application debe estar desplegada en GitHub Pages  |
 | **Sprint Velocity**             | 31                                                                                                                                                                                                                                                                                                                                                                                    |
 | **Sum of Story Points**         | 31 Story Points                                                                                                                                                                                                                                                                                                                                                                       |
 
@@ -2659,47 +2672,95 @@ Celso destacó como positivo el apartado de actividades en grupo, ya que asignar
 
 #### 5.3.2 Evaluaciones según heurísticas
 
-En base a la información recolectada a partir de las entrevistas realizadas y nuestras experiencias personales, analizamos las heurísticas de diseño de nuestra aplicación GastroGo:
+En esta sección se presenta el análisis realizado a la interfaz de la aplicación **GastroGo** utilizando principios heurísticos de usabilidad. Se destacan las áreas de mejora con el objetivo de optimizar la experiencia del usuario y aumentar la eficacia del producto.
 
-1. **Visibilidad del estado del sistema:**
+<div style="align-items: center; text-align: center">
+<h3>UX Heuristics & Principles Evaluation<p>Usability – Inclusive Design – Information Architecture</p></h3> 
+</div>
 
-El sistema proporciona una visibilidad adecuada del estado, especialmente en la pantalla de inicio de sesión, como destacó Jonathan Berrocal. Sin embargo, algunos elementos, como los botones de perfil y métodos de pago, necesitan mayor claridad visual, según José, ya que algunos botones no son fácilmente distinguibles debido a su color o bordes.
+#### Carrera: Ingeniería de Software
+#### Curso: Desarrollo de aplicaciones Open Source
+#### Sección: WX51
+#### Auditor: Verduritas
+#### Clientes: Jonathan Berrocal,Daniel Vazquez, Raul Sulca Ynoñan, Luis Miguel Rojas Piñero, Luis Miguel Rojas Piñero, Celso Mauricio Tamariz Salvador
 
-2. **Relación entre el sistema y el mundo real:**
+### Aplicación a Evaluar: GastroGo
 
-El uso de imágenes de comida en la página principal fue un punto de confusión señalado por Luis Miguel, quien mencionó que podrían hacer que la app se perciba como una aplicación de recetas en lugar de una herramienta para pedidos en restaurantes. Este es un área que requiere ajustes para alinearse mejor con el propósito del sistema.
+### Tareas a Evaluar:
 
-3. **Libertad y control por parte del usuario:**
+### Escala de Severidad:
 
-Los usuarios como Celso valoraron la opción de actualizar el estado del menú en tiempo real y la flexibilidad que otorga la funcionalidad de actividades en grupo. Sin embargo, la interfaz para la votación en grupo fue señalada por otro entrevistado como una área que podría beneficiarse de ser más visualmente atractiva y clara.
+##### Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
-4. **Consistencia y estándares:**
+| Nivel | Descripción                                                                                                                                                                                                 |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                                  |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja de cara a resolverlo en el siguiente release.          |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta.                                                  |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                                            |
 
-La organización de la información fue percibida como adecuada, especialmente en la pantalla de registro, como señaló Daniel Vázquez. Los usuarios no encontraron dificultades al entender las opciones disponibles en general, pero el espaciado entre elementos y la visibilidad de algunos botones, como mencionó José, podría mejorar.
+### Tabla Resumen:
 
-5. **Prevención de errores:**
+| #  | Problema                                                                                                                            | Escala de Severidad | Heurística/Principio violada(o)                        |
+|----|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------------------------------------------------|
+| 1  | Algunas fuentes de letras son muy pequeñas.                                                                                         | 2                   | Inclusive Design: Proporciona experiencias comparables |
+| 2  | La interfaz de añadir un trabajador no se adecua al tamaño de la pantalla.                                                          | 3                   | Inclusive Design: Proporciona experiencias comparables |
+| 3  | No hay un control que permita regresar a la página anterior en las pantallas de inicio de sesión y registro.                        | 2                   | Usability: Libertad y control del usuario              |
+| 4  | No se indica en el menú la opción que se ha seleccionado.                                                                           | 1                   | Inclusive Design: Visibilidad del estado del sistema.  |
+| 5  | La ruta de la opción “Home” lleva a una página en blanco.                                                                           | 4                   | Information Architecture: Is it usable?.               |
+| 6  | No hay un botón en la landing page para regresar al inicio de la página.                                                            | 2                   | Usabilidad: Libertad y control del usuario.            |
+| 7  | Cambiar el tamaño de la letra en la ruta dirigida para el sign in o el sign up.                                                     | 2                   | Usabilidad: Consistencia y estándares.                 |
+| 8  | Al entrar a la interfaz, en la parte de “home”, poner una descripción para qué se usa la aplicación o para qué sirve cada segmento. | 4                   | Usabilidad: Reconocimiento en vez de recuerdo.         |
 
-Celso destacó que la seguridad y la organización del sistema para verificar el estado de los pedidos y recibir notificaciones ayudan a reducir la posibilidad de errores en el proceso de pedidos. Sin embargo, la confusión generada por las imágenes de comida mencionada por Luis Miguel podría llevar a un malentendido si no se ajusta.
+### Descripción de Problemas:
 
-6. **Reconocimiento antes que recuerdo:**
+- **Problema #1**: Algunas fuentes de letras son muy pequeñas.
+    - **Severidad**: 2
+    - **Heurística/Principio violada(o)**: Inclusive Design: Proporciona experiencias comparables
+    - **Problema**: En varias pantallas de la aplicación, el tamaño de las letras es demasiado pequeño. Esto puede dificultar la lectura de la información para algunos usuarios.
+    - **Recomendación**: Aumentar el tamaño de las letras para facilitar su lectura.
 
-Si bien la mayoría de las funciones fueron bien recibidas por los usuarios, Jonathan Berrocal sugirió que el diseño de la pantalla de inicio podría beneficiarse de más elementos visuales como imágenes en la sección de slides, lo que mejoraría el reconocimiento inmediato de los propósitos de la aplicación.
+- **Problema #2**: La interfaz de añadir un trabajador no se adecua al tamaño de la pantalla.
+    - **Severidad**: 3
+    - **Heurística/Principio violada(o)**: Inclusive Design: Proporciona experiencias comparables
+    - **Problema**: Al agregar un nuevo trabajador, la interfaz no es responsive, lo que dificulta su uso en pantallas más pequeñas.
+    - **Recomendación**: Hacer que la interfaz sea responsive para que se adapte a diferentes tamaños de pantalla.
 
-7. **Flexibilidad y eficiencia de uso:**
+- **Problema #3**: No hay un control que permita regresar a la página anterior en las pantallas de inicio de sesión y registro.
+    - **Severidad**: 2
+    - **Heurística/Principio violada(o)**: Usability: Libertad y control del usuario
+    - **Problema**: Falta un botón de retroceso, lo que limita la navegación del usuario.
+    - **Recomendación**: Agregar un botón para volver a la página anterior.
 
-La aplicación fue valorada positivamente por usuarios como Celso y Daniel Vázquez por su funcionalidad clara y directa. Sin embargo, José mencionó que algunos problemas de visualización, como el espaciado y la visibilidad de los botones, podrían deberse a la resolución de su pantalla, lo que sugiere una mejora en la flexibilidad visual.
+- **Problema #4**: No se indica en el menú la opción que se ha seleccionado.
+    - **Severidad**: 1
+    - **Heurística/Principio violada(o)**: Inclusive Design: Visibilidad del estado del sistema.
+    - **Problema**: No se resalta la opción seleccionada en el menú, lo que puede confundir al usuario.
+    - **Recomendación**: Resaltar la opción activa en el menú.
 
-8. **Estética y diseño minimalista:**
+- **Problema #5**: Cambiar el tamaño de la letra en la ruta dirigida para el sign in o el sign up.
+    - **Severidad**: 2
+    - **Heurística/Principio violada(o)**: Usabilidad: Consistencia y estándares.
+    - **Problema**: Inconsistencias en el tamaño de la letra entre diferentes páginas.
+    - **Recomendación**: Mantener un tamaño de letra consistente.
 
-El diseño visual fue bien recibido en general. Luis Miguel destacó que la página principal está bien organizada, pero recomendó ajustes en las imágenes para evitar confusiones. Asimismo, Jonathan Berrocal sugirió que el diseño se beneficiaría de más elementos visuales, y José propuso mejorar el espaciado y los botones para una apariencia más limpia.
+- **Problema #6**: Al entrar a la interfaz, en la parte de “home”, poner una descripción para qué se usa la aplicación o para qué sirve cada segmento.
+    - **Severidad**: 4
+    - **Heurística/Principio violada(o)**: Usabilidad: Reconocimiento en vez de recuerdo.
+    - **Problema**: Falta de descripción clara en la página principal.
+    - **Recomendación**: Incluir descripciones breves de los segmentos y su función en la aplicación.
+- **Problema #7**: Falta de retroalimentación visual al completar una acción (por ejemplo, agregar un pedido).
+    - **Severidad**: 3
+    - **Heurística/Principio violada(o)**: Usabilidad: Visibilidad del estado del sistema.
+    - **Problema**: Los usuarios no reciben una confirmación visual inmediata después de realizar una acción importante, lo que puede generar incertidumbre sobre si la acción fue exitosa.
+    - **Recomendación**: Incluir mensajes de éxito o animaciones breves que indiquen claramente cuando una acción ha sido completada con éxito.
 
-9. **Ayudar a los usuarios a reconocer, diagnosticar y corregir errores:**
+- **Problema #8**: Los botones no tienen un estado hover claro.
+    - **Severidad**: 2
+    - **Heurística/Principio violada(o)**: Usabilidad: Retroalimentación.
+    - **Problema**: Al pasar el cursor sobre los botones, no hay un cambio visual claro que indique que se puede interactuar con ellos.
+    - **Recomendación**: Añadir un cambio de color o sombra en los botones cuando se pase el cursor sobre ellos.
 
-El sistema presenta un buen control sobre la gestión de pedidos y actualizaciones en tiempo real, como resaltó Celso. Sin embargo, la falta de claridad visual en ciertos botones podría hacer que los usuarios no detecten rápidamente errores o acciones pendientes, como observó José.
-
-10. **Ayuda y documentación:**
-
-Aunque no hubo observaciones directas sobre la documentación durante las entrevistas, la claridad de la interfaz y las opciones fue generalmente bien recibida. No obstante, la implementación de ayudas visuales en ciertos componentes podría mejorar la experiencia general de los usuarios.
 
 ### 5.4. Video About the Product
 
@@ -2709,7 +2770,7 @@ A continuación, se proporciona el enlace al video about the product:
 
 - Microsoft Stream: [GastroGo - About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EfEu4sk86fpMuO--MX591l4BRJjszGEIwyF2Pq-OHH_jhw?e=eem7CR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- Youtube : [GastroGo - About the Product](https://youtu.be/LWEZqjZMLME)
+- Youtube : [GastroGo - About the Product](https://youtu.be/HkRNKbi-9aQ)
 
 Duracion del video: 1:25 minutos
 
@@ -2721,9 +2782,9 @@ Screenshot del video:
 
 ### Conclusiones y recomendaciones
 
-El progreso del proyecto ha logrado alcanzar los objetivos establecidos al inicio, que incluyen tanto la contextualización del problema y su solución como el desarrollo y lanzamiento de la primera versión de la landing page y la implementación de funcionalidades clave. Cada miembro del equipo participó activamente en las diferentes etapas del proyecto.
+El proyecto ha alcanzado los objetivos planteados inicialmente, abordando la contextualización del problema y su solución, además del desarrollo y despliegue exitoso de la primera versión de la landing page, así como la implementación de funcionalidades clave para la web application y el backend. Cada miembro del equipo desempeñó un papel fundamental en las distintas fases del proyecto, contribuyendo al avance con sus respectivas habilidades.
 
-Uno de los aprendizajes más importantes ha sido el valor de la comunicación y la colaboración entre los miembros del equipo. Además, las herramientas de colaboración, como GitHub y Figma, desempeñaron un papel esencial en la coordinación del trabajo, facilitando una gestión eficaz del código y una visualización clara del diseño de la landing page. Aprendimos que el uso adecuado de estas herramientas mejora la organización, planificación y eficiencia del trabajo en equipo.
+Uno de los aprendizajes más significativos fue la importancia de la comunicación y la colaboración dentro del equipo. Las herramientas de colaboración, como GitHub para la gestión del código y Figma para la visualización del diseño, resultaron ser indispensables para la coordinación y eficiencia del trabajo. Estas herramientas no solo facilitaron la organización y planificación, sino que también mejoraron la productividad del equipo al permitir un flujo de trabajo ágil y transparente.
 
 ### Video About-the-Team
 
@@ -2731,9 +2792,9 @@ Esta sección contiene el video about the team, que presenta a los desarrollador
 
 A continuación, se proporciona el enlace al video about the team:
 
-- Microsoft Stream: [GastroGo - About the Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/Eckb1cIce8hEnHciHpWfbmcBuuWIRZbg1wseCK70IK-Kpg?e=2EFem3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+- Microsoft Stream: [GastroGo - About the Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWsjXsIxTyJNpJnq5h8RA_wBjJlwvz863Ep4fFxAyGqknw?e=NNO5mC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NjEuNDh9fQ%3D%3D)
 
-- Youtube : [GastroGo - About the Team](https://youtu.be/MZ_tn18gABE)
+- Youtube : [GastroGo - About the Team](https://youtu.be/7GQnN4MUWEQ)
 
 Duracion del video: 01:53
 
@@ -2773,6 +2834,8 @@ Screenshot del video:
 
 - [**Back End**] (https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-FrontEnd)
 
+- [**Back End Deploy**] (https://gastrogo-backend-production.up.railway.app/swagger-ui/index.html#/)
+
 - Videos de Exposiciones:
 
 - TB1: [upc-pre-202401-si729-wx51-verduritas-expo-tb1.mp4] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EXxL52cQz7tMgtQ3JJSryDYBB4yl3rAXfIEsLBUWp-Icwg?e=cegRN9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
@@ -2785,8 +2848,9 @@ Screenshot del video:
 
 - Needfinding: [**upc-pre-202402-si729-wx51-verduritas-needfinding-sprint-1.mp4**] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EZ80d-4uHTVKuQRdGAb47hMBjv6m3FXksZM6ieafoOaeLA?e=QO9QOa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- [GastroGo - About the Product] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EfEu4sk86fpMuO--MX591l4BRJjszGEIwyF2Pq-OHH_jhw?e=1DMar1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+- [GastroGo - About the Product] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWsjXsIxTyJNpJnq5h8RA_wBjJlwvz863Ep4fFxAyGqknw?e=NNO5mC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NjEuNDh9fQ%3D%3D)
 
-- [GastroGo - About the Team] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/Eckb1cIce8hEnHciHpWfbmcBuuWIRZbg1wseCK70IK-Kpg?e=gTZFsR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+- [GastroGo - About the Team] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWTce7gGZsVPj0DfE_1F3gEBijBqZadkPnMxUjDVPDcM-w?e=gH6dNv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi45N319)
 
 - [GastroGo - Validation Interviews] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESMTn0rRecROnN-rvLAZpq4Bzrv_zlz8GJ00XffEK1v5Ug?e=7zygSK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) 
+

@@ -2872,3 +2872,40 @@ Screenshot del video:
 
 - [GastroGo - Validation Interviews] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESMTn0rRecROnN-rvLAZpq4Bzrv_zlz8GJ00XffEK1v5Ug?e=7zygSK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) 
 
+Todos los enlaces
+-  **Organización de Github** https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas
+
+-  **Report Repository** https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Report
+
+- **Acceptance Test** https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/acceptance-test
+
+-  **Landing Page** https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-Landing-Page
+
+-  **Landing Page Deploy** https://upc-pre-si729-2402-wx51-g1-verduritas.github.io/GastroGo-Landing-Page/
+
+- **Front End** https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-FrontEnd
+
+- **Front End Deploy** https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-FrontEnd
+
+- **Back End** https://github.com/UPC-PRE-SI729-2402-WX51-G1-Verduritas/GastroGo-FrontEnd
+
+- **Back End Deploy** https://gastrogo-backend-production.up.railway.app/swagger-ui/index.html#/
+
+- Videos de Exposiciones:
+
+- TB1: upc-pre-202401-si729-wx51-verduritas-expo-tb1.mp4 https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EXxL52cQz7tMgtQ3JJSryDYBB4yl3rAXfIEsLBUWp-Icwg?e=cegRN9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+- TP: upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4 https://upcedupe-my.sharepoint.com/personal/u201714765_upc_edu_pe/_layouts/15/stream.aspx?id=/personal/u201714765_upc_edu_pe/Documents/upc-pre-202401-si729-wx51-verduritas-expo-tp.mp4
+
+- TB2: upc-pre-202402-si729-wx51-verduritas-validation-sprint-3.mp4 https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESMTn0rRecROnN-rvLAZpq4Bzrv_zlz8GJ00XffEK1v5Ug?e=PbUWt8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+
+- **Web Applications Prototyping** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EYhnox1X-wdBqr_LFFwrxS4BJPj_L2JvTeW_dxuLVBFfrA?e=vQ35aZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+- Needfinding: **upc-pre-202402-si729-wx51-verduritas-needfinding-sprint-1.mp4** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EZ80d-4uHTVKuQRdGAb47hMBjv6m3FXksZM6ieafoOaeLA?e=QO9QOa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+- GastroGo - About the Product https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWsjXsIxTyJNpJnq5h8RA_wBjJlwvz863Ep4fFxAyGqknw?e=NNO5mC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NjEuNDh9fQ%3D%3D
+
+- GastroGo - About the Team https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWTce7gGZsVPj0DfE_1F3gEBijBqZadkPnMxUjDVPDcM-w?e=gH6dNv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi45N319
+
+- GastroGo - Validation Interviews https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ESMTn0rRecROnN-rvLAZpq4Bzrv_zlz8GJ00XffEK1v5Ug?e=7zygSK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+

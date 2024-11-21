@@ -2452,7 +2452,7 @@ Code frecuency:
 
 ### 5.2.2. Sprint 4
 
-![Sprint Verduritas 4](assets/img/chapter-5/img-sprint-devdynasty-4.png)
+![Sprint Verduritas 4](assets/img/chapter-5/img-sprint-verduritas-4.png)
 
 
 #### 5.2.2.1. Sprint Planning 4
@@ -2549,7 +2549,7 @@ visitantes.
 
 Enlace del Backend:
 
-![Evidence 1 Back TF](assets/img/chapter-5/img-evidence-back-1-tf.jpg)
+![Evidence 1 Back TF](assets/img/chapter-5/img-evidence-back-1-tf.jpeg)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review 4
 
@@ -2589,7 +2589,7 @@ El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada 
 
 Network graph:
 
-![Network Graph Back TF](assets/img/chapter-5/img-network-back-github-tf.png)
+![Network Graph Back TF](assets/img/chapter-5/img-network-back-github-tf.jpeg)
 
 Code frecuency:
 

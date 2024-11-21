@@ -2533,6 +2533,24 @@ Code frecuency:
 | GastroGo-Backend | develop | Add or update the Azure App Service build and deployment workflow config                                                                                                           | 13/11/2024              |
 | GastroGo-Backend | develop |   feat(AppDbContext): add Order Details configuration                                                                                                         | 13/11/2024              |
 
+1. Como primer paso nos registramos a la pagina de Railway.com para tener acceso a sus funciones
+
+![[Captura de pantalla 2024-11-21 164825.png]]
+
+2. Creamos un proyecto dentro de Railway, el cual nos da hasta 5 dólares en créditos por ser la primera vez.
+![[Captura de pantalla 2024-11-21 164837.png]]
+
+3. ingresamos nuestro repositorio de Github para clonar y lograr el deploy
+![[Captura de pantalla 2024-11-21 164851.png]]
+
+4. agregamos un Database para vincularlo a nuestro repositorio
+![[Captura de pantalla 2024-11-21 164856.png]]
+
+5. Automáticamente se va a enlazar pero antes se debe configurar los urls
+![[Captura de pantalla 2024-11-21 164900.png]]
+
+6. Agregamos los Ulrs de postgres al proyecto general y tambien agregamos una database mediante PGAdmin, nuestro caso "db_gastrogo"
+![[Captura de pantalla 2024-11-21 164918.png]]
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review 4
 
 En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
